@@ -57,6 +57,10 @@ function extractData($html) {
     // 6. Intro Video (Using First Lesson's Video)
     $data["intro_video"] = isset($lessons[0]) ? $lessons[0]["link"] : "Not found";
 
+    // 7. Extract Video Thumbnail
+    preg_match('/"thumbnailUrl":\s*\[\s*"([^"]+)"/', $html, $thumbnailMatch);
+    $data["thumbnail"] = isset($thumbnailMatch[1]) ? $thumbnailMatch[1] : "Not found";
+
     return $data;
 }
 

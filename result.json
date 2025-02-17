@@ -1,24 +1,30 @@
 {
-    "course_name": "Resume and CV writing basics",
+    "course_name": "MICROSOF WORD course",
     "category": "Soft-Skills",
-    "lesson_count": "3",
-    "description": "Resume and CV writing, in this course is designed to help you craft professional, standout resumes and CVs tailored to your career goals. In this course, you will learn the key differences between resumes and CVs, how to effectively highlight your skills, achievements, and experience, and how to tailor your application for specific roles or industries. Explore essential formatting techniques, keyword optimization for applicant tracking systems (ATS), and strategies for creating strong professional summaries and cover letters. With practical tips and examples, this course empowers you to present your qualifications confidently and land interviews in competitive job markets.",
+    "lesson_count": "4",
+    "description": "MICROSOFT WORD course: In this course, we will learn how to create, format, and edit documents, use templates, and master tools like tables, styles, and mail merge. Perfect for boosting productivity with Word. SAMEWADE ACADEMY",
     "lessons": [
         {
-            "title": "Essentials of Global Health Coursera Quiz Answers Week 1 5 All Quiz Answers",
-            "link": "https://www.mindluster.com/lesson/382354-video",
-            "duration": "00:15:12"
+            "title": "MS WORD NEW COURSE BARASHADA MICROSOFT WORD",
+            "link": "https://www.mindluster.com/lesson/346295-video",
+            "duration": "00:08:24"
         },
         {
-            "title": "Essentials of Global Health Coursera Quiz Answers Week 6 10 All Quiz Answers",
-            "link": "https://www.mindluster.com/lesson/382355-video",
-            "duration": "00:09:37"
+            "title": "LESSON 01 INTRODUCTION TO MICRSOFT WORD CASHIRKA 1AAD HORDHAC KU SAABSAN MICROSOFT WORD",
+            "link": "https://www.mindluster.com/lesson/346296-video",
+            "duration": "00:19:21"
         },
         {
-            "title": "Learning How To Learn For Youth Coursera Quiz Answers",
-            "link": "https://www.mindluster.com/lesson/382356-video",
-            "duration": "00:04:48"
+            "title": "LESSON 02 SELECT COPY CUT PAST CASHIRKA 2AAD",
+            "link": "https://www.mindluster.com/lesson/346297-video",
+            "duration": "00:14:55"
+        },
+        {
+            "title": "LESSON 03 HOME FONT GROUP CASHIRKA 3AAD KU BARO FONT GROUP",
+            "link": "https://www.mindluster.com/lesson/346298-video",
+            "duration": "00:12:51"
         }
     ],
-    "intro_video": "https://www.mindluster.com/lesson/382354-video"
+    "intro_video": "https://www.mindluster.com/lesson/346295-video",
+    "thumbnail": "https://img.youtube.com/vi/esc5Ec0nXa4/hqdefault.jpg"
 }

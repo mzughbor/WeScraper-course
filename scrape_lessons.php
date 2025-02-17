@@ -26,7 +26,7 @@ foreach ($data['lessons'] as $lesson) {
     $lessonLink = $lesson['link'];
     $videoLength = $lesson['duration'] ?? "Unknown";
 
-    echo "------------------------------------" . "\n";
+    echo "-----------------------------------------------------" . "\n";
     echo "Processing: " . $lessonTitle . "\n";
 
     // Fetch the lesson page HTML using the saved lesson link
