@@ -149,7 +149,7 @@ try {
         throw new Exception("lesson_data.json file not found!");
     }
 
-    $lesson_json_data = json_decode(file_get_contents($lesson_file), true);
+    $lessons = json_decode(file_get_contents($lesson_file), true);
     if (json_last_error() !== JSON_ERROR_NONE) {
         throw new Exception("Error parsing lesson_data.json: " . json_last_error_msg());
     }
@@ -157,24 +157,7 @@ try {
     // Add each lesson from lesson_data.json
     echo "Adding lessons from lesson_data.json...\n";
     
-    // Make sure we're accessing the lessons array correctly
-    if (!isset($lesson_json_data['lessons']) || !is_array($lesson_json_data['lessons'])) {
-        throw new Exception("Invalid lesson_data.json structure. Expected 'lessons' array.");
-    }
-
-    foreach ($lesson_json_data['lessons'] as $index => $lesson) {
-        // Validate required lesson data
-        if (!isset($lesson['title']) || !isset($lesson['video_url']) || !isset($lesson['video_length'])) {
-            echo "Warning: Skipping lesson " . ($index + 1) . " due to missing required data\n";
-            continue;
-        }
-
-        // Parse video length
-        $duration_parts = explode(':', $lesson['video_length']);
-        if (count($duration_parts) !== 3) {
-            $duration_parts = ['00', '00', '00']; // Default if invalid
-        }
-        
+    foreach ($lessons as $index => $lesson) {
         // Extract video ID from video_url
         $video_id = '';
         if (preg_match('/embed\/([^\/\?]+)/', $lesson['video_url'], $matches)) {
@@ -186,10 +169,16 @@ try {
             continue;
         }
 
+        // Parse duration
+        $duration_parts = explode(':', $lesson['video_length']);
+        if (count($duration_parts) !== 3) {
+            $duration_parts = ['00', '00', '00']; // Default if invalid
+        }
+
         $lesson_data = [
             "topic_id" => $topic_id,
             "lesson_title" => $lesson['title'],
-            "lesson_content" => "Video lesson from the course " . $json_data['course_name'],
+            "lesson_content" => $lesson['extensions'],  // Using the extensions text from lesson data
             "lesson_author" => 1,
             "video" => [
                 "source_type" => "youtube",
@@ -218,7 +207,6 @@ try {
             echo "Lesson created with ID: " . $lesson_response['data'] . "\n";
         } catch (Exception $e) {
             echo "Warning: Failed to create lesson " . ($index + 1) . ": " . $e->getMessage() . "\n";
-            // Continue with next lesson
             continue;
         }
     }

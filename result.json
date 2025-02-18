@@ -1,50 +1,55 @@
 {
-    "course_name": "Building a chatbot with Python",
-    "category": "Programming",
-    "lesson_count": "8",
-    "description": "Building a chatbot with Python, in this course we will learn about Building a Chatbot with Python, covering fundamental concepts, tools, and techniques to develop intelligent conversational agents. You will explore Natural Language Processing (NLP), machine learning, and rule-based chatbots using Python libraries like NLTK, SpaCy, and TensorFlow. Learn how to preprocess text data, design chatbot responses, and integrate APIs for real-world applications. The course includes hands-on projects such as creating customer support bots and deploying them on platforms like Telegram and WhatsApp. Whether you're a beginner or an experienced developer, this course provides a structured approach to building, training, and optimizing chatbots using Python. Great Learning",
+    "course_name": "Building a counter app in android studio",
+    "category": "Mobile-Development",
+    "lesson_count": "9",
+    "description": "Building a counter app in android course, in this course you'll learn how to create a simple yet functional Android application from scratch using Android Studio. We will guide you through the entire development process, starting with setting up your project and designing a user-friendly interface that includes buttons for incrementing, decrementing, and resetting a counter. You'll dive into the essentials of programming with Java or Kotlin to handle user interactions, update the displayed number, and manage the app's lifecycle. Additionally, we'll explore best practices for organizing your code and optimizing the app's performance. This course is perfect for beginners who want to grasp the fundamentals of Android app development, providing hands-on experience with key concepts like event handling, user interface design, and real-time data updates. By the end of the course, you'll have a fully functional counter app and a solid foundation in Android development, empowering you to build more complex apps in the future.",
     "lessons": [
         {
-            "title": "Python for Android How to create Android App with Python Great Learning",
-            "link": "https://www.mindluster.com/lesson/396079-video",
-            "duration": "01:42:24"
+            "title": "Android Studio How to Make a Counter App Timer using Chronometer",
+            "link": "https://www.mindluster.com/lesson/347368-video",
+            "duration": "00:07:06"
         },
         {
-            "title": "Top 100 Python Interview Questions Python Programming Crack Python Interview Great Learning",
-            "link": "https://www.mindluster.com/lesson/396080-video",
-            "duration": "03:00:32"
+            "title": "Android Studio How to Add App Icon",
+            "link": "https://www.mindluster.com/lesson/347369-video",
+            "duration": "00:01:27"
         },
         {
-            "title": "Build your own chatbot using Python Python Tutorial for Beginners in 2022 Great Learning",
-            "link": "https://www.mindluster.com/lesson/396081-video",
-            "duration": "01:05:38"
+            "title": "Android Studio How to Create a Virtual Device Emulator",
+            "link": "https://www.mindluster.com/lesson/347370-video",
+            "duration": "00:01:32"
         },
         {
-            "title": "How to run Python on Android phones Python for Android Python on mobile Great Learning",
-            "link": "https://www.mindluster.com/lesson/396082-video",
-            "duration": "00:09:22"
+            "title": "Android Studio How to Add An Alert Dialog Box Pop Up Notification",
+            "link": "https://www.mindluster.com/lesson/347371-video",
+            "duration": "00:05:13"
         },
         {
-            "title": "Build your first mobile app in Python App Development tutorial for Beginners Great Learning",
-            "link": "https://www.mindluster.com/lesson/396083-video",
-            "duration": "00:28:43"
+            "title": "Android Studio How to Add and Use a Progress Bar",
+            "link": "https://www.mindluster.com/lesson/347372-video",
+            "duration": "00:06:17"
         },
         {
-            "title": "Top 13 Python Projects for Beginners Python Project Examples Python Tutorial Great Learning",
-            "link": "https://www.mindluster.com/lesson/396084-video",
-            "duration": "06:56:33"
+            "title": "Android Studio How to Add a Background Image to Activity",
+            "link": "https://www.mindluster.com/lesson/347373-video",
+            "duration": "00:01:27"
         },
         {
-            "title": "Python Fundamentals For Beginners Python Programming Learn Python Great Learning",
-            "link": "https://www.mindluster.com/lesson/396085-video",
-            "duration": "01:02:40"
+            "title": "Android Studio How to Change App s Starting Activity",
+            "link": "https://www.mindluster.com/lesson/347374-video",
+            "duration": "00:01:52"
         },
         {
-            "title": "Python Tutorial in Hindi Learn Python in Hindi Python Full Course in Hindi Python Tutorial",
-            "link": "https://www.mindluster.com/lesson/396086-video",
-            "duration": "04:25:16"
+            "title": "Android Studio How to Create a Listview with SubItems",
+            "link": "https://www.mindluster.com/lesson/347375-video",
+            "duration": "00:07:01"
+        },
+        {
+            "title": "Android Studio How to Switch Between Activities",
+            "link": "https://www.mindluster.com/lesson/347376-video",
+            "duration": "00:04:11"
         }
     ],
-    "intro_video": "https://www.mindluster.com/lesson/396079-video",
-    "thumbnail": "https://img.youtube.com/vi/RWKYJU0MGY0/hqdefault.jpg"
+    "intro_video": "https://www.mindluster.com/lesson/347368-video",
+    "thumbnail": "https://img.youtube.com/vi/LzfaWf7_iHw/hqdefault.jpg"
 }

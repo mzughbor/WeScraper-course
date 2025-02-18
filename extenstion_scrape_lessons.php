@@ -54,18 +54,18 @@ foreach ($data['lessons'] as $lesson) {
         if ($extensionUrl) {
             // Fetch the content from the extension iframe
             $extensionHtml = getCourseData($extensionUrl, $cookies);
-           
-            // Clean the fetched HTML (strip all tags and extra spaces)
-            $lessonExtensionText = strip_tags($extensionHtml);
-            
+
+            // Remove unwanted tags but preserve new lines
+            $lessonExtensionText = strip_tags($extensionHtml, "<br><p>");
+
             // Remove any embedded CSS code like "* { font-size: 18px; }"
             $lessonExtensionText = preg_replace('/\* \{[^}]+\}|\s*<style[^>]*>.*?<\/style>/is', '', $lessonExtensionText);
 
-            // Replace multiple spaces with single space and trim the text
-            $lessonExtensionText = trim(preg_replace('/\s+/', ' ', $lessonExtensionText));
-            
-            // Fix text formatting by adding a line break where needed
-            $lessonExtensionText = nl2br($lessonExtensionText);
+            // Trim only the start and end of the text without affecting inner spacing
+            $lessonExtensionText = trim($lessonExtensionText);
+
+            // Ensure consistent line breaks (replace multiple newlines with a single newline)
+            $lessonExtensionText = preg_replace("/(\r?\n){2,}/", "\n\n", $lessonExtensionText);
         } else {
             $lessonExtensionText = "No Extensions Found";
         }

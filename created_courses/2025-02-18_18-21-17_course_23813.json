@@ -1,0 +1,170 @@
+{
+    "source_data": {
+        "course_name": "Python programming fundamentals A Z",
+        "category": "Programming",
+        "lesson_count": "13",
+        "description": "Python programming fundamentals, in this course we will learn about Python programming fundamentals, covering the core concepts essential for beginners. You will explore variables, data types, loops, conditionals, functions, and object-oriented programming. Learn how to write efficient code, debug errors, and work with Python\u2019s built-in libraries. The course also includes hands-on projects to apply concepts in real-world scenarios, such as data manipulation, automation, and basic file handling. Whether you're new to programming or looking to strengthen your Python skills, this course provides a structured, step-by-step approach to mastering Python fundamentals and building a strong foundation for advanced topics. Great Learning",
+        "lessons": [
+            {
+                "title": "Python for Non Programmers Python Tutorial for Absolute Beginners in 2021 Great Learning",
+                "link": "https://www.mindluster.com/lesson/396066-video",
+                "duration": "00:40:45"
+            },
+            {
+                "title": "Python Tutorial Python tutorial for beginners Learn Python in 8 Hours Great Learning",
+                "link": "https://www.mindluster.com/lesson/396067-video",
+                "duration": "07:34:36"
+            },
+            {
+                "title": "Python Programming in Hindi Python Tutorial for Beginners in 2022 Learn Python Great Learning",
+                "link": "https://www.mindluster.com/lesson/396068-video",
+                "duration": "08:33:48"
+            },
+            {
+                "title": "Python Oops Concept Object Oriented Programming Python Great Learning",
+                "link": "https://www.mindluster.com/lesson/396069-video",
+                "duration": "00:21:52"
+            },
+            {
+                "title": "Python Vs R Which is the best Programming Language Great Learning",
+                "link": "https://www.mindluster.com/lesson/396070-video",
+                "duration": "00:13:16"
+            },
+            {
+                "title": "Python Uses Python Applications in Real World Great Learning",
+                "link": "https://www.mindluster.com/lesson/396071-video",
+                "duration": "00:14:27"
+            },
+            {
+                "title": "Data Types Variables And Operators In Python Python Fundamentals Great Learning",
+                "link": "https://www.mindluster.com/lesson/396072-video",
+                "duration": "00:17:48"
+            },
+            {
+                "title": "Python Identifiers Python For Beginners Python Training Great Learning",
+                "link": "https://www.mindluster.com/lesson/396073-video",
+                "duration": "00:06:01"
+            },
+            {
+                "title": "Flow Control in Python Python for Beginners Python Great Learning",
+                "link": "https://www.mindluster.com/lesson/396074-video",
+                "duration": "00:19:12"
+            },
+            {
+                "title": "Exception and File Handling in Python Python Tutorial for beginners Great Learning",
+                "link": "https://www.mindluster.com/lesson/396075-video",
+                "duration": "01:20:03"
+            },
+            {
+                "title": "File Manipulation in Python File Handling Python Tutorial Great Learning",
+                "link": "https://www.mindluster.com/lesson/396076-video",
+                "duration": "00:58:39"
+            },
+            {
+                "title": "Basic Programs in Python Palindrome in Python Fibonacci Series in Python Great Learning",
+                "link": "https://www.mindluster.com/lesson/396077-video",
+                "duration": "03:13:22"
+            },
+            {
+                "title": "Practice Codes for Beginners Python Great Learning",
+                "link": "https://www.mindluster.com/lesson/396078-video",
+                "duration": "00:58:05"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/396066-video",
+        "thumbnail": "https://img.youtube.com/vi/CNb4WmkI-rE/hqdefault.jpg"
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Python programming fundamentals, in this course we will learn about Python programming fundamentals, covering the core concepts essential for beginners. You will explore variables, data types, loops, conditionals, functions, and object-oriented programming. Learn how to write efficient code, debug errors, and work with Python\u2019s built-in libraries. The course also includes hands-on projects to apply concepts in real-world scenarios, such as data manipulation, automation, and basic file handling. Whether you're new to programming or looking to strengthen your Python skills, this course provides a structured, step-by-step approach to mastering Python fundamentals and building a strong foundation for advanced topics. Great Learning",
+        "post_title": "Python programming fundamentals A Z",
+        "post_excerpt": "Python programming fundamentals, in this course we will learn about Python programming fundamentals, covering the core concepts essential for beginners. Yo...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Python for Non Programmers Python Tutorial for Absolute Beginners in 2021 Great Learning\nLearn Python Tutorial Python tutorial for beginners Learn Python in 8 Hours Great Learning\nLearn Python Programming in Hindi Python Tutorial for Beginners in 2022 Learn Python Great Learning\nLearn Python Oops Concept Object Oriented Programming Python Great Learning\nLearn Python Vs R Which is the best Programming Language Great Learning\nLearn Python Uses Python Applications in Real World Great Learning\nLearn Data Types Variables And Operators In Python Python Fundamentals Great Learning\nLearn Python Identifiers Python For Beginners Python Training Great Learning\nLearn Flow Control in Python Python for Beginners Python Great Learning\nLearn Exception and File Handling in Python Python Tutorial for beginners Great Learning\nLearn File Manipulation in Python File Handling Python Tutorial Great Learning\nLearn Basic Programs in Python Palindrome in Python Fibonacci Series in Python Great Learning\nLearn Practice Codes for Beginners Python Great Learning",
+            "course_target_audience": "Students interested in Programming",
+            "course_duration": {
+                "hours": 24,
+                "minutes": 51
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            10
+        ],
+        "thumbnail_id": 1,
+        "video": null
+    },
+    "course_id": 23813,
+    "topic_id": 23814,
+    "lessons": [
+        {
+            "title": "Python for Non Programmers Python Tutorial for Absolute Beginners in 2021 Great Learning",
+            "link": "https://www.mindluster.com/lesson/396066-video",
+            "duration": "00:40:45"
+        },
+        {
+            "title": "Python Tutorial Python tutorial for beginners Learn Python in 8 Hours Great Learning",
+            "link": "https://www.mindluster.com/lesson/396067-video",
+            "duration": "07:34:36"
+        },
+        {
+            "title": "Python Programming in Hindi Python Tutorial for Beginners in 2022 Learn Python Great Learning",
+            "link": "https://www.mindluster.com/lesson/396068-video",
+            "duration": "08:33:48"
+        },
+        {
+            "title": "Python Oops Concept Object Oriented Programming Python Great Learning",
+            "link": "https://www.mindluster.com/lesson/396069-video",
+            "duration": "00:21:52"
+        },
+        {
+            "title": "Python Vs R Which is the best Programming Language Great Learning",
+            "link": "https://www.mindluster.com/lesson/396070-video",
+            "duration": "00:13:16"
+        },
+        {
+            "title": "Python Uses Python Applications in Real World Great Learning",
+            "link": "https://www.mindluster.com/lesson/396071-video",
+            "duration": "00:14:27"
+        },
+        {
+            "title": "Data Types Variables And Operators In Python Python Fundamentals Great Learning",
+            "link": "https://www.mindluster.com/lesson/396072-video",
+            "duration": "00:17:48"
+        },
+        {
+            "title": "Python Identifiers Python For Beginners Python Training Great Learning",
+            "link": "https://www.mindluster.com/lesson/396073-video",
+            "duration": "00:06:01"
+        },
+        {
+            "title": "Flow Control in Python Python for Beginners Python Great Learning",
+            "link": "https://www.mindluster.com/lesson/396074-video",
+            "duration": "00:19:12"
+        },
+        {
+            "title": "Exception and File Handling in Python Python Tutorial for beginners Great Learning",
+            "link": "https://www.mindluster.com/lesson/396075-video",
+            "duration": "01:20:03"
+        },
+        {
+            "title": "File Manipulation in Python File Handling Python Tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396076-video",
+            "duration": "00:58:39"
+        },
+        {
+            "title": "Basic Programs in Python Palindrome in Python Fibonacci Series in Python Great Learning",
+            "link": "https://www.mindluster.com/lesson/396077-video",
+            "duration": "03:13:22"
+        },
+        {
+            "title": "Practice Codes for Beginners Python Great Learning",
+            "link": "https://www.mindluster.com/lesson/396078-video",
+            "duration": "00:58:05"
+        }
+    ]
+}

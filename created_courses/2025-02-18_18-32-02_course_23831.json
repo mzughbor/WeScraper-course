@@ -1,0 +1,130 @@
+{
+    "source_data": {
+        "course_name": "Building a counter app in android studio",
+        "category": "Mobile-Development",
+        "lesson_count": "9",
+        "description": "Building a counter app in android course, in this course you'll learn how to create a simple yet functional Android application from scratch using Android Studio. We will guide you through the entire development process, starting with setting up your project and designing a user-friendly interface that includes buttons for incrementing, decrementing, and resetting a counter. You'll dive into the essentials of programming with Java or Kotlin to handle user interactions, update the displayed number, and manage the app's lifecycle. Additionally, we'll explore best practices for organizing your code and optimizing the app's performance. This course is perfect for beginners who want to grasp the fundamentals of Android app development, providing hands-on experience with key concepts like event handling, user interface design, and real-time data updates. By the end of the course, you'll have a fully functional counter app and a solid foundation in Android development, empowering you to build more complex apps in the future.",
+        "lessons": [
+            {
+                "title": "Android Studio How to Make a Counter App Timer using Chronometer",
+                "link": "https://www.mindluster.com/lesson/347368-video",
+                "duration": "00:07:06"
+            },
+            {
+                "title": "Android Studio How to Add App Icon",
+                "link": "https://www.mindluster.com/lesson/347369-video",
+                "duration": "00:01:27"
+            },
+            {
+                "title": "Android Studio How to Create a Virtual Device Emulator",
+                "link": "https://www.mindluster.com/lesson/347370-video",
+                "duration": "00:01:32"
+            },
+            {
+                "title": "Android Studio How to Add An Alert Dialog Box Pop Up Notification",
+                "link": "https://www.mindluster.com/lesson/347371-video",
+                "duration": "00:05:13"
+            },
+            {
+                "title": "Android Studio How to Add and Use a Progress Bar",
+                "link": "https://www.mindluster.com/lesson/347372-video",
+                "duration": "00:06:17"
+            },
+            {
+                "title": "Android Studio How to Add a Background Image to Activity",
+                "link": "https://www.mindluster.com/lesson/347373-video",
+                "duration": "00:01:27"
+            },
+            {
+                "title": "Android Studio How to Change App s Starting Activity",
+                "link": "https://www.mindluster.com/lesson/347374-video",
+                "duration": "00:01:52"
+            },
+            {
+                "title": "Android Studio How to Create a Listview with SubItems",
+                "link": "https://www.mindluster.com/lesson/347375-video",
+                "duration": "00:07:01"
+            },
+            {
+                "title": "Android Studio How to Switch Between Activities",
+                "link": "https://www.mindluster.com/lesson/347376-video",
+                "duration": "00:04:11"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/347368-video",
+        "thumbnail": "https://img.youtube.com/vi/LzfaWf7_iHw/hqdefault.jpg"
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Building a counter app in android course, in this course you'll learn how to create a simple yet functional Android application from scratch using Android Studio. We will guide you through the entire development process, starting with setting up your project and designing a user-friendly interface that includes buttons for incrementing, decrementing, and resetting a counter. You'll dive into the essentials of programming with Java or Kotlin to handle user interactions, update the displayed number, and manage the app's lifecycle. Additionally, we'll explore best practices for organizing your code and optimizing the app's performance. This course is perfect for beginners who want to grasp the fundamentals of Android app development, providing hands-on experience with key concepts like event handling, user interface design, and real-time data updates. By the end of the course, you'll have a fully functional counter app and a solid foundation in Android development, empowering you to build more complex apps in the future.",
+        "post_title": "Building a counter app in android studio",
+        "post_excerpt": "Building a counter app in android course, in this course you'll learn how to create a simple yet functional Android application from scratch using Android ...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Android Studio How to Make a Counter App Timer using Chronometer\nLearn Android Studio How to Add App Icon\nLearn Android Studio How to Create a Virtual Device Emulator\nLearn Android Studio How to Add An Alert Dialog Box Pop Up Notification\nLearn Android Studio How to Add and Use a Progress Bar\nLearn Android Studio How to Add a Background Image to Activity\nLearn Android Studio How to Change App s Starting Activity\nLearn Android Studio How to Create a Listview with SubItems\nLearn Android Studio How to Switch Between Activities",
+            "course_target_audience": "Students interested in Mobile-Development",
+            "course_duration": {
+                "hours": 0,
+                "minutes": 36
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            10
+        ],
+        "thumbnail_id": 1,
+        "video": null
+    },
+    "course_id": 23831,
+    "topic_id": 23832,
+    "lessons": [
+        {
+            "title": "Android Studio How to Make a Counter App Timer using Chronometer",
+            "link": "https://www.mindluster.com/lesson/347368-video",
+            "duration": "00:07:06"
+        },
+        {
+            "title": "Android Studio How to Add App Icon",
+            "link": "https://www.mindluster.com/lesson/347369-video",
+            "duration": "00:01:27"
+        },
+        {
+            "title": "Android Studio How to Create a Virtual Device Emulator",
+            "link": "https://www.mindluster.com/lesson/347370-video",
+            "duration": "00:01:32"
+        },
+        {
+            "title": "Android Studio How to Add An Alert Dialog Box Pop Up Notification",
+            "link": "https://www.mindluster.com/lesson/347371-video",
+            "duration": "00:05:13"
+        },
+        {
+            "title": "Android Studio How to Add and Use a Progress Bar",
+            "link": "https://www.mindluster.com/lesson/347372-video",
+            "duration": "00:06:17"
+        },
+        {
+            "title": "Android Studio How to Add a Background Image to Activity",
+            "link": "https://www.mindluster.com/lesson/347373-video",
+            "duration": "00:01:27"
+        },
+        {
+            "title": "Android Studio How to Change App s Starting Activity",
+            "link": "https://www.mindluster.com/lesson/347374-video",
+            "duration": "00:01:52"
+        },
+        {
+            "title": "Android Studio How to Create a Listview with SubItems",
+            "link": "https://www.mindluster.com/lesson/347375-video",
+            "duration": "00:07:01"
+        },
+        {
+            "title": "Android Studio How to Switch Between Activities",
+            "link": "https://www.mindluster.com/lesson/347376-video",
+            "duration": "00:04:11"
+        }
+    ]
+}
