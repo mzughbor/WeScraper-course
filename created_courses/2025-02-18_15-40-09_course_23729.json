@@ -1,0 +1,120 @@
+{
+    "source_data": {
+        "course_name": "Building a chatbot with Python",
+        "category": "Programming",
+        "lesson_count": "8",
+        "description": "Building a chatbot with Python, in this course we will learn about Building a Chatbot with Python, covering fundamental concepts, tools, and techniques to develop intelligent conversational agents. You will explore Natural Language Processing (NLP), machine learning, and rule-based chatbots using Python libraries like NLTK, SpaCy, and TensorFlow. Learn how to preprocess text data, design chatbot responses, and integrate APIs for real-world applications. The course includes hands-on projects such as creating customer support bots and deploying them on platforms like Telegram and WhatsApp. Whether you're a beginner or an experienced developer, this course provides a structured approach to building, training, and optimizing chatbots using Python. Great Learning",
+        "lessons": [
+            {
+                "title": "Python for Android How to create Android App with Python Great Learning",
+                "link": "https://www.mindluster.com/lesson/396079-video",
+                "duration": "01:42:24"
+            },
+            {
+                "title": "Top 100 Python Interview Questions Python Programming Crack Python Interview Great Learning",
+                "link": "https://www.mindluster.com/lesson/396080-video",
+                "duration": "03:00:32"
+            },
+            {
+                "title": "Build your own chatbot using Python Python Tutorial for Beginners in 2022 Great Learning",
+                "link": "https://www.mindluster.com/lesson/396081-video",
+                "duration": "01:05:38"
+            },
+            {
+                "title": "How to run Python on Android phones Python for Android Python on mobile Great Learning",
+                "link": "https://www.mindluster.com/lesson/396082-video",
+                "duration": "00:09:22"
+            },
+            {
+                "title": "Build your first mobile app in Python App Development tutorial for Beginners Great Learning",
+                "link": "https://www.mindluster.com/lesson/396083-video",
+                "duration": "00:28:43"
+            },
+            {
+                "title": "Top 13 Python Projects for Beginners Python Project Examples Python Tutorial Great Learning",
+                "link": "https://www.mindluster.com/lesson/396084-video",
+                "duration": "06:56:33"
+            },
+            {
+                "title": "Python Fundamentals For Beginners Python Programming Learn Python Great Learning",
+                "link": "https://www.mindluster.com/lesson/396085-video",
+                "duration": "01:02:40"
+            },
+            {
+                "title": "Python Tutorial in Hindi Learn Python in Hindi Python Full Course in Hindi Python Tutorial",
+                "link": "https://www.mindluster.com/lesson/396086-video",
+                "duration": "04:25:16"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/396079-video",
+        "thumbnail": "https://img.youtube.com/vi/RWKYJU0MGY0/hqdefault.jpg"
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Building a chatbot with Python, in this course we will learn about Building a Chatbot with Python, covering fundamental concepts, tools, and techniques to develop intelligent conversational agents. You will explore Natural Language Processing (NLP), machine learning, and rule-based chatbots using Python libraries like NLTK, SpaCy, and TensorFlow. Learn how to preprocess text data, design chatbot responses, and integrate APIs for real-world applications. The course includes hands-on projects such as creating customer support bots and deploying them on platforms like Telegram and WhatsApp. Whether you're a beginner or an experienced developer, this course provides a structured approach to building, training, and optimizing chatbots using Python. Great Learning",
+        "post_title": "Building a chatbot with Python",
+        "post_excerpt": "Building a chatbot with Python, in this course we will learn about Building a Chatbot with Python, covering fundamental concepts, tools, and techniques to ...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Python for Android How to create Android App with Python Great Learning\nLearn Top 100 Python Interview Questions Python Programming Crack Python Interview Great Learning\nLearn Build your own chatbot using Python Python Tutorial for Beginners in 2022 Great Learning\nLearn How to run Python on Android phones Python for Android Python on mobile Great Learning\nLearn Build your first mobile app in Python App Development tutorial for Beginners Great Learning\nLearn Top 13 Python Projects for Beginners Python Project Examples Python Tutorial Great Learning\nLearn Python Fundamentals For Beginners Python Programming Learn Python Great Learning\nLearn Python Tutorial in Hindi Learn Python in Hindi Python Full Course in Hindi Python Tutorial",
+            "course_target_audience": "Students interested in Programming",
+            "course_duration": {
+                "hours": 18,
+                "minutes": 51
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            10
+        ],
+        "thumbnail_id": 1,
+        "video": null
+    },
+    "course_id": 23729,
+    "topic_id": 23730,
+    "lessons": [
+        {
+            "title": "Python for Android How to create Android App with Python Great Learning",
+            "link": "https://www.mindluster.com/lesson/396079-video",
+            "duration": "01:42:24"
+        },
+        {
+            "title": "Top 100 Python Interview Questions Python Programming Crack Python Interview Great Learning",
+            "link": "https://www.mindluster.com/lesson/396080-video",
+            "duration": "03:00:32"
+        },
+        {
+            "title": "Build your own chatbot using Python Python Tutorial for Beginners in 2022 Great Learning",
+            "link": "https://www.mindluster.com/lesson/396081-video",
+            "duration": "01:05:38"
+        },
+        {
+            "title": "How to run Python on Android phones Python for Android Python on mobile Great Learning",
+            "link": "https://www.mindluster.com/lesson/396082-video",
+            "duration": "00:09:22"
+        },
+        {
+            "title": "Build your first mobile app in Python App Development tutorial for Beginners Great Learning",
+            "link": "https://www.mindluster.com/lesson/396083-video",
+            "duration": "00:28:43"
+        },
+        {
+            "title": "Top 13 Python Projects for Beginners Python Project Examples Python Tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396084-video",
+            "duration": "06:56:33"
+        },
+        {
+            "title": "Python Fundamentals For Beginners Python Programming Learn Python Great Learning",
+            "link": "https://www.mindluster.com/lesson/396085-video",
+            "duration": "01:02:40"
+        },
+        {
+            "title": "Python Tutorial in Hindi Learn Python in Hindi Python Full Course in Hindi Python Tutorial",
+            "link": "https://www.mindluster.com/lesson/396086-video",
+            "duration": "04:25:16"
+        }
+    ]
+}

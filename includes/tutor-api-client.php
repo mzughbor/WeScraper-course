@@ -38,14 +38,14 @@ class TutorAPIClient {
             'Accept: application/json'
         ];
         
-        $this->debug("Headers: " . print_r($headers, true));
+        //$this->debug("Headers: " . print_r($headers, true));
         
         if ($method === 'POST') {
             curl_setopt($ch, CURLOPT_POST, 1);
             if ($data) {
                 $json_data = json_encode($data);
                 curl_setopt($ch, CURLOPT_POSTFIELDS, $json_data);
-                $this->debug("POST Data: " . $json_data);
+                //$this->debug("POST Data: " . $json_data);
             }
         } elseif ($method === 'PUT') {
             curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'PUT');
@@ -69,7 +69,7 @@ class TutorAPIClient {
         // Get curl debug information
         rewind($verbose);
         $verbose_log = stream_get_contents($verbose);
-        $this->debug("Curl verbose output: " . $verbose_log);
+        //$this->debug("Curl verbose output: " . $verbose_log);
         
         $this->last_response = $response;
         

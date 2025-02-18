@@ -6,7 +6,7 @@ class TutorAPIConfig {
     // Update with the provided credentials
     const API_KEY = '***********';
     const API_SECRET = '**********';
-    
+        
     // Endpoints
     const ENDPOINT_COURSES = '/tutor/v1/courses';
     const ENDPOINT_TOPICS = '/tutor/v1/topics';

@@ -17,10 +17,10 @@ $cookiesFile = $config['cookies_file'] ?? 'cookies.json';
 require_once 'load_cookies.php';
 $cookies = getCookiesFromJson($cookiesFile);
 
-// Initialize an empty array for all lessons data
+// Initialize lessons array
 $allLessonData = [];
 
-// Loop through each lesson from the result.json
+// Loop through each lesson
 foreach ($data['lessons'] as $lesson) {
     $lessonTitle = $lesson['title'];
     $lessonLink = $lesson['link'];
@@ -32,70 +32,64 @@ foreach ($data['lessons'] as $lesson) {
     // Fetch the lesson page HTML using the saved lesson link
     $lessonHtml = getCourseData($lessonLink, $cookies);
 
-    if ($lessonHtml) {
-
-        // Extract YouTube video ID from the lesson thumbnail image
-        preg_match('/<img[^>]+src="https:\/\/img\.youtube\.com\/vi\/([^\/]+)\/hqdefault\.jpg"/', $lessonHtml, $videoIdMatches);
-        $videoId = isset($videoIdMatches[1]) ? $videoIdMatches[1] : "N/A";
-
-        // Construct YouTube embed URL
-        $videoUrl = ($videoId !== "N/A") ? "https://www.youtube.com/embed/" . $videoId : "N/A";
-
-        echo "Extracted Video ID: " . $videoId . "\n";
-        echo "YouTube Video URL: " . $videoUrl . "\n";
-            
-        // Extract lesson extension iframe URL if "row m3aarf_card" exists
-        preg_match('/<div class="row m3aarf_card">.*?<iframe[^>]+src="([^"]+)"[^>]*>/s', $lessonHtml, $extensionIframeMatches);
-
-        //var_dump($extensionIframeMatches);
-
-        $extensionUrl = isset($extensionIframeMatches[1]) ? $extensionIframeMatches[1] : null;
-
-        if ($extensionUrl) {
-            // Fetch the content from the extension iframe
-            $extensionHtml = getCourseData($extensionUrl, $cookies);
-           
-            // Clean the fetched HTML (strip all tags and extra spaces)
-            $lessonExtensionText = strip_tags($extensionHtml);
-            
-            // Remove any embedded CSS code like "* { font-size: 18px; }"
-            $lessonExtensionText = preg_replace('/\* \{[^}]+\}|\s*<style[^>]*>.*?<\/style>/is', '', $lessonExtensionText);
-
-            // Replace multiple spaces with single space and trim the text
-            $lessonExtensionText = trim(preg_replace('/\s+/', ' ', $lessonExtensionText));
-            
-            // Fix text formatting by adding a line break where needed
-            $lessonExtensionText = nl2br($lessonExtensionText);
-        } else {
-            $lessonExtensionText = "No Extensions Found";
-        }
-
-        // Output for the current lesson
-        echo "Title: " . $lessonTitle . "\n";
-        echo "Video Length: " . $videoLength . "\n";
-        echo "Extensions: " . $lessonExtensionText . "\n\n";
-        
-        // Store the result for this lesson
-        $lessonData = [
-            'title' => $lessonTitle,
-            'video_url' => $videoUrl,
-            'video_length' => $videoLength,
-            'extensions' => $lessonExtensionText,
-        ];
-
-        // Add to the all lessons array
-        $allLessonData[] = $lessonData;
-    } else {
-        echo "❌ Failed to fetch lesson page for: " . $lessonTitle . "\n";
+    if (!$lessonHtml) {
+        echo "❌ Failed to fetch lesson: " . $lessonTitle . "\n";
+        continue;
     }
+
+    // Extract YouTube video ID - using simpler regex
+    if (preg_match('/img\.youtube\.com\/vi\/([^\/]+)\//', $lessonHtml, $videoIdMatches)) {
+        $videoId = $videoIdMatches[1];
+        $videoUrl = "https://www.youtube.com/embed/" . $videoId;
+        echo "✓ Found video ID: " . $videoId . "\n";
+    } else {
+        $videoUrl = "N/A";
+        echo "⚠ No video ID found\n";
+    }
+
+    // Extract lesson extension content - using simpler approach
+    $extensionText = "";
+    if (preg_match('/<div class="row m3aarf_card">(.*?)<\/div>/s', $lessonHtml, $matches)) {
+        $extensionHtml = $matches[1];
+        
+        // Clean the text
+        $extensionText = strip_tags($extensionHtml);
+        $extensionText = preg_replace('/\s+/', ' ', trim($extensionText));
+        
+        echo "✓ Found lesson extension\n";
+    } else {
+        $extensionText = "No extension content";
+        echo "⚠ No extension content found\n";
+    }
+
+    // Store lesson data
+    $lessonData = [
+        'title' => $lessonTitle,
+        'video_url' => $videoUrl,
+        'video_length' => $videoLength,
+        'extensions' => $extensionText,
+    ];
+
+    $allLessonData[] = $lessonData;
+    echo "✓ Lesson data stored\n";
 }
 
-// Optionally save the accumulated data to a JSON file
+// Save all lessons data
 if (!empty($allLessonData)) {
-    echo "✅ Lessons data saved to lesson_data.json!\n";
-    file_put_contents("lesson_data.json", json_encode($allLessonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));        
+    $lessonDataJson = [
+        'lessons' => $allLessonData,
+        'total_lessons' => count($allLessonData),
+        'scraped_at' => date('Y-m-d H:i:s')
+    ];
+    
+    file_put_contents(
+        "lesson_data.json", 
+        json_encode($lessonDataJson, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES)
+    );
+    
+    echo "\n✅ Successfully saved " . count($allLessonData) . " lessons to lesson_data.json!\n";
 } else {
-    echo "❌ No lessons data to save.\n";
+    echo "\n❌ No lessons data to save.\n";
 }
 
 ?>

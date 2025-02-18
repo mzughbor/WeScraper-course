@@ -156,36 +156,9 @@ try {
 
     // Add each lesson from lesson_data.json
     echo "Adding lessons from lesson_data.json...\n";
-    
-    // Make sure we're accessing the lessons array correctly
-    if (!isset($lesson_json_data['lessons']) || !is_array($lesson_json_data['lessons'])) {
-        throw new Exception("Invalid lesson_data.json structure. Expected 'lessons' array.");
-    }
-
     foreach ($lesson_json_data['lessons'] as $index => $lesson) {
-        // Validate required lesson data
-        if (!isset($lesson['title']) || !isset($lesson['video_url']) || !isset($lesson['video_length'])) {
-            echo "Warning: Skipping lesson " . ($index + 1) . " due to missing required data\n";
-            continue;
-        }
-
-        // Parse video length
-        $duration_parts = explode(':', $lesson['video_length']);
-        if (count($duration_parts) !== 3) {
-            $duration_parts = ['00', '00', '00']; // Default if invalid
-        }
+        $duration_parts = explode(':', $lesson['duration']);
         
-        // Extract video ID from video_url
-        $video_id = '';
-        if (preg_match('/embed\/([^\/\?]+)/', $lesson['video_url'], $matches)) {
-            $video_id = $matches[1];
-        }
-        
-        if (empty($video_id)) {
-            echo "Warning: Skipping lesson " . ($index + 1) . " due to invalid video URL\n";
-            continue;
-        }
-
         $lesson_data = [
             "topic_id" => $topic_id,
             "lesson_title" => $lesson['title'],
@@ -193,7 +166,7 @@ try {
             "lesson_author" => 1,
             "video" => [
                 "source_type" => "youtube",
-                "source" => "https://www.youtube.com/watch?v=" . $video_id,
+                "source" => $lesson['link'],
                 "runtime" => [
                     "hours" => $duration_parts[0],
                     "minutes" => $duration_parts[1],
@@ -204,23 +177,17 @@ try {
         
         echo "Creating lesson " . ($index + 1) . ": " . $lesson['title'] . "\n";
         
-        try {
-            $lesson_response = $api_client->makeRequest(
-                TutorAPIConfig::ENDPOINT_LESSONS,
-                'POST',
-                $lesson_data
-            );
-            
-            if (!isset($lesson_response['data'])) {
-                throw new Exception("Failed to create lesson. Response: " . print_r($lesson_response, true));
-            }
-            
-            echo "Lesson created with ID: " . $lesson_response['data'] . "\n";
-        } catch (Exception $e) {
-            echo "Warning: Failed to create lesson " . ($index + 1) . ": " . $e->getMessage() . "\n";
-            // Continue with next lesson
-            continue;
+        $lesson_response = $api_client->makeRequest(
+            TutorAPIConfig::ENDPOINT_LESSONS,
+            'POST',
+            $lesson_data
+        );
+        
+        if (!isset($lesson_response['data'])) {
+            throw new Exception("Failed to create lesson. Response: " . print_r($lesson_response, true));
         }
+        
+        echo "Lesson created with ID: " . $lesson_response['data'] . "\n";
     }
     
     echo "\nCourse creation completed successfully!\n";
