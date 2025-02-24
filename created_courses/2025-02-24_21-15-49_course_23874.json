@@ -1,0 +1,70 @@
+{
+    "source_data": {
+        "course_name": "Emotional intelligence in leadership",
+        "category": "Soft-Skills",
+        "lesson_count": "3",
+        "description": "Emotional intelligence in leadership course, in this course we will learn about Emotional Intelligence in leadership. Emotional intelligence (EI) refers to the ability to understand and manage one's own emotions, as well as recognize and influence the emotions of others. This course explores how EI is crucial for effective leadership, enhancing leaders' ability to communicate, resolve conflicts, and foster a positive work environment. Participants will delve into key EI components such as self-awareness, self-regulation, motivation, empathy, and social skills, and learn how to apply these in leadership contexts. Through practical exercises, case studies, and self-assessment tools, the course aims to help leaders develop stronger relationships, improve team dynamics, and create a culture of trust and collaboration. By the end of this course, you will have a deeper understanding of how to leverage emotional intelligence to inspire and lead your team effectively, driving both personal and organizational success. This comprehensive approach ensures that leaders are well-equipped to navigate the complexities of modern workplaces with emotional intelligence at the forefront.",
+        "lessons": [
+            {
+                "title": "1 Leadership \u2013 The Emotional Intelligence",
+                "link": "https://www.mindluster.com/lesson/337158-video",
+                "duration": "00:07:30"
+            },
+            {
+                "title": "2 The Traits of Great Leaders",
+                "link": "https://www.mindluster.com/lesson/337159-video",
+                "duration": "00:03:39"
+            },
+            {
+                "title": "3 The Work of Leaders",
+                "link": "https://www.mindluster.com/lesson/337160-video",
+                "duration": "00:09:38"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/337158-video",
+        "thumbnail": "https://img.youtube.com/vi/vnzUxatPUlQ/hqdefault.jpg"
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Emotional intelligence in leadership course, in this course we will learn about Emotional Intelligence in leadership. Emotional intelligence (EI) refers to the ability to understand and manage one's own emotions, as well as recognize and influence the emotions of others. This course explores how EI is crucial for effective leadership, enhancing leaders' ability to communicate, resolve conflicts, and foster a positive work environment. Participants will delve into key EI components such as self-awareness, self-regulation, motivation, empathy, and social skills, and learn how to apply these in leadership contexts. Through practical exercises, case studies, and self-assessment tools, the course aims to help leaders develop stronger relationships, improve team dynamics, and create a culture of trust and collaboration. By the end of this course, you will have a deeper understanding of how to leverage emotional intelligence to inspire and lead your team effectively, driving both personal and organizational success. This comprehensive approach ensures that leaders are well-equipped to navigate the complexities of modern workplaces with emotional intelligence at the forefront.",
+        "post_title": "Emotional intelligence in leadership",
+        "post_excerpt": "Emotional intelligence in leadership course, in this course we will learn about Emotional Intelligence in leadership. Emotional intelligence (EI) refers to...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn 1 Leadership \u2013 The Emotional Intelligence\nLearn 2 The Traits of Great Leaders\nLearn 3 The Work of Leaders",
+            "course_target_audience": "Students interested in Soft-Skills",
+            "course_duration": {
+                "hours": 0,
+                "minutes": 20
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            136
+        ],
+        "thumbnail_id": 1,
+        "video": null
+    },
+    "course_id": 23874,
+    "topic_id": 23875,
+    "lessons": [
+        {
+            "title": "1 Leadership \u2013 The Emotional Intelligence",
+            "link": "https://www.mindluster.com/lesson/337158-video",
+            "duration": "00:07:30"
+        },
+        {
+            "title": "2 The Traits of Great Leaders",
+            "link": "https://www.mindluster.com/lesson/337159-video",
+            "duration": "00:03:39"
+        },
+        {
+            "title": "3 The Work of Leaders",
+            "link": "https://www.mindluster.com/lesson/337160-video",
+            "duration": "00:09:38"
+        }
+    ]
+}

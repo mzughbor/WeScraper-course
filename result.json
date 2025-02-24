@@ -1,55 +1,25 @@
 {
-    "course_name": "Building a counter app in android studio",
-    "category": "Mobile-Development",
-    "lesson_count": "9",
-    "description": "Building a counter app in android course, in this course you'll learn how to create a simple yet functional Android application from scratch using Android Studio. We will guide you through the entire development process, starting with setting up your project and designing a user-friendly interface that includes buttons for incrementing, decrementing, and resetting a counter. You'll dive into the essentials of programming with Java or Kotlin to handle user interactions, update the displayed number, and manage the app's lifecycle. Additionally, we'll explore best practices for organizing your code and optimizing the app's performance. This course is perfect for beginners who want to grasp the fundamentals of Android app development, providing hands-on experience with key concepts like event handling, user interface design, and real-time data updates. By the end of the course, you'll have a fully functional counter app and a solid foundation in Android development, empowering you to build more complex apps in the future.",
+    "course_name": "Emotional intelligence in leadership",
+    "category": "Soft-Skills",
+    "lesson_count": "3",
+    "description": "Emotional intelligence in leadership course, in this course we will learn about Emotional Intelligence in leadership. Emotional intelligence (EI) refers to the ability to understand and manage one's own emotions, as well as recognize and influence the emotions of others. This course explores how EI is crucial for effective leadership, enhancing leaders' ability to communicate, resolve conflicts, and foster a positive work environment. Participants will delve into key EI components such as self-awareness, self-regulation, motivation, empathy, and social skills, and learn how to apply these in leadership contexts. Through practical exercises, case studies, and self-assessment tools, the course aims to help leaders develop stronger relationships, improve team dynamics, and create a culture of trust and collaboration. By the end of this course, you will have a deeper understanding of how to leverage emotional intelligence to inspire and lead your team effectively, driving both personal and organizational success. This comprehensive approach ensures that leaders are well-equipped to navigate the complexities of modern workplaces with emotional intelligence at the forefront.",
     "lessons": [
         {
-            "title": "Android Studio How to Make a Counter App Timer using Chronometer",
-            "link": "https://www.mindluster.com/lesson/347368-video",
-            "duration": "00:07:06"
+            "title": "1 Leadership \u2013 The Emotional Intelligence",
+            "link": "https://www.mindluster.com/lesson/337158-video",
+            "duration": "00:07:30"
         },
         {
-            "title": "Android Studio How to Add App Icon",
-            "link": "https://www.mindluster.com/lesson/347369-video",
-            "duration": "00:01:27"
+            "title": "2 The Traits of Great Leaders",
+            "link": "https://www.mindluster.com/lesson/337159-video",
+            "duration": "00:03:39"
         },
         {
-            "title": "Android Studio How to Create a Virtual Device Emulator",
-            "link": "https://www.mindluster.com/lesson/347370-video",
-            "duration": "00:01:32"
-        },
-        {
-            "title": "Android Studio How to Add An Alert Dialog Box Pop Up Notification",
-            "link": "https://www.mindluster.com/lesson/347371-video",
-            "duration": "00:05:13"
-        },
-        {
-            "title": "Android Studio How to Add and Use a Progress Bar",
-            "link": "https://www.mindluster.com/lesson/347372-video",
-            "duration": "00:06:17"
-        },
-        {
-            "title": "Android Studio How to Add a Background Image to Activity",
-            "link": "https://www.mindluster.com/lesson/347373-video",
-            "duration": "00:01:27"
-        },
-        {
-            "title": "Android Studio How to Change App s Starting Activity",
-            "link": "https://www.mindluster.com/lesson/347374-video",
-            "duration": "00:01:52"
-        },
-        {
-            "title": "Android Studio How to Create a Listview with SubItems",
-            "link": "https://www.mindluster.com/lesson/347375-video",
-            "duration": "00:07:01"
-        },
-        {
-            "title": "Android Studio How to Switch Between Activities",
-            "link": "https://www.mindluster.com/lesson/347376-video",
-            "duration": "00:04:11"
+            "title": "3 The Work of Leaders",
+            "link": "https://www.mindluster.com/lesson/337160-video",
+            "duration": "00:09:38"
         }
     ],
-    "intro_video": "https://www.mindluster.com/lesson/347368-video",
-    "thumbnail": "https://img.youtube.com/vi/LzfaWf7_iHw/hqdefault.jpg"
+    "intro_video": "https://www.mindluster.com/lesson/337158-video",
+    "thumbnail": "https://img.youtube.com/vi/vnzUxatPUlQ/hqdefault.jpg"
 }

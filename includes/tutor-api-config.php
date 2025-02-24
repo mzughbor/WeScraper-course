@@ -1,12 +1,13 @@
 <?php
 
+// this file meant to be only for tutor api things.
+
 class TutorAPIConfig {
     const API_BASE_URL = 'https://wedti.com/wp-json';
     
     // Update with the provided credentials
-    const API_KEY = '***********';
-    const API_SECRET = '**********';
-    
+    const API_KEY = 'key_1a3b36b770d1597540eeafd73dc36ba1';
+    const API_SECRET = '****';
     
     // Endpoints
     const ENDPOINT_COURSES = '/tutor/v1/courses';
@@ -15,3 +16,5 @@ class TutorAPIConfig {
     const ENDPOINT_QUIZ = '/tutor/v1/quizzes';
     
 } 
+
+?>

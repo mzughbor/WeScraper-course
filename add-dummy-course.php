@@ -1,5 +1,6 @@
 <?php
 require_once __DIR__ . '/includes/tutor-api-client.php';
+require_once __DIR__ . '/category-name.php';
 
 try {
     $api_client = new TutorAPIClient();
@@ -43,17 +44,30 @@ try {
     // Get first lesson's video for course intro
     $intro_video = isset($lesson_json_data['lessons'][0]) ? $lesson_json_data['lessons'][0]['link'] : null;
 
+    // Get category ID for the course
+    $category_manager = new CategoryManager();
+    
+    // Get category from result.json
+    $category_name = $json_data['category'];
+    $category_id = $category_manager->get_category_id($category_name);
+    
+    if (!$category_id) {
+        throw new Exception("Failed to get/create category ID for: " . $category_name);
+    }
+    
+    echo "Using category: " . $category_name . " (ID: " . $category_id . ")\n\n";
+
     // Prepare course data according to API requirements
     $course_data = [
-        "post_author" => 1, // Default admin ID
+        "post_author" => 1,
         "post_content" => $json_data['description'],
         "post_title" => $json_data['course_name'],
-        "post_excerpt" => substr($json_data['description'], 0, 155) . '...', // Short description
+        "post_excerpt" => substr($json_data['description'], 0, 155) . '...',
         "post_status" => "publish",
         "comment_status" => "open",
         "additional_content" => [
             "course_benefits" => implode("\n", $benefits),
-            "course_target_audience" => "Students interested in " . $json_data['category'],
+            "course_target_audience" => "Students interested in " . $category_name,
             "course_duration" => [
                 "hours" => $duration_hours,
                 "minutes" => $duration_minutes
@@ -62,8 +76,8 @@ try {
             "course_requirements" => "Basic computer knowledge"
         ],
         "course_level" => "beginner",
-        "course_categories" => [10], // Default category ID
-        "thumbnail_id" => 1, // Default thumbnail ID
+        "course_categories" => [$category_id],  // Using dynamic category ID
+        "thumbnail_id" => 1,
         "video" => $intro_video ? [
             "source_type" => "youtube",
             "source" => $intro_video
