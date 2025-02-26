@@ -1,0 +1,110 @@
+{
+    "source_data": {
+        "course_name": "Facebook Ads analysis for beginners",
+        "category": "Computer-Softwares",
+        "lesson_count": "7",
+        "description": "Facebook Ads analysis, in this course we will learn about analyzing Facebook Ads to optimize campaigns and achieve better results. You'll explore key metrics like CTR, CPC, and ROAS, understand audience insights, and evaluate ad performance. Discover how to troubleshoot campaigns, use A/B testing, and improve ROI. Learn to interpret data, refine targeting, and create data-driven strategies for effective ads. By the end, you'll have the skills to assess and enhance any Facebook Ads campaign, ensuring higher engagement and profitability. This course is perfect for marketers, business owners, and anyone aiming to maximize their ad performance on Facebook. Coupler\u2024io Academy",
+        "lessons": [
+            {
+                "title": "How to Export Data from Facebook Your Ultimate Guide",
+                "link": "https://www.mindluster.com/lesson/389679-video",
+                "duration": "00:07:19"
+            },
+            {
+                "title": "10 Tips on How to Optimize Facebook Ads",
+                "link": "https://www.mindluster.com/lesson/389680-video",
+                "duration": "00:08:17"
+            },
+            {
+                "title": "Top 16 Facebook Ads Metrics",
+                "link": "https://www.mindluster.com/lesson/389681-video",
+                "duration": "00:08:50"
+            },
+            {
+                "title": "Facebook Ads Analytics Explained",
+                "link": "https://www.mindluster.com/lesson/389682-video",
+                "duration": "00:07:58"
+            },
+            {
+                "title": "Learn How to Connect Facebook Ads to Power BI",
+                "link": "https://www.mindluster.com/lesson/389683-video",
+                "duration": "00:04:38"
+            },
+            {
+                "title": "Facebook Ads Dashboard Templates For Every Occasion",
+                "link": "https://www.mindluster.com/lesson/389684-video",
+                "duration": "00:05:39"
+            },
+            {
+                "title": "How to Connect Facebook Ads to Looker Studio Google Data Studio in 2024",
+                "link": "https://www.mindluster.com/lesson/389685-video",
+                "duration": "00:04:20"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/389679-video",
+        "thumbnail": "Not found"
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Facebook Ads analysis, in this course we will learn about analyzing Facebook Ads to optimize campaigns and achieve better results. You'll explore key metrics like CTR, CPC, and ROAS, understand audience insights, and evaluate ad performance. Discover how to troubleshoot campaigns, use A/B testing, and improve ROI. Learn to interpret data, refine targeting, and create data-driven strategies for effective ads. By the end, you'll have the skills to assess and enhance any Facebook Ads campaign, ensuring higher engagement and profitability. This course is perfect for marketers, business owners, and anyone aiming to maximize their ad performance on Facebook. Coupler\u2024io Academy",
+        "post_title": "Facebook Ads analysis for beginners",
+        "post_excerpt": "Facebook Ads analysis, in this course we will learn about analyzing Facebook Ads to optimize campaigns and achieve better results. You'll explore key metri...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn How to Export Data from Facebook Your Ultimate Guide\nLearn 10 Tips on How to Optimize Facebook Ads\nLearn Top 16 Facebook Ads Metrics\nLearn Facebook Ads Analytics Explained\nLearn Learn How to Connect Facebook Ads to Power BI\nLearn Facebook Ads Dashboard Templates For Every Occasion\nLearn How to Connect Facebook Ads to Looker Studio Google Data Studio in 2024",
+            "course_target_audience": "Students interested in Computer-Softwares",
+            "course_duration": {
+                "hours": 0,
+                "minutes": 47
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            137
+        ],
+        "thumbnail_id": 1,
+        "video": null
+    },
+    "course_id": 23901,
+    "topic_id": 23902,
+    "lessons": [
+        {
+            "title": "How to Export Data from Facebook Your Ultimate Guide",
+            "link": "https://www.mindluster.com/lesson/389679-video",
+            "duration": "00:07:19"
+        },
+        {
+            "title": "10 Tips on How to Optimize Facebook Ads",
+            "link": "https://www.mindluster.com/lesson/389680-video",
+            "duration": "00:08:17"
+        },
+        {
+            "title": "Top 16 Facebook Ads Metrics",
+            "link": "https://www.mindluster.com/lesson/389681-video",
+            "duration": "00:08:50"
+        },
+        {
+            "title": "Facebook Ads Analytics Explained",
+            "link": "https://www.mindluster.com/lesson/389682-video",
+            "duration": "00:07:58"
+        },
+        {
+            "title": "Learn How to Connect Facebook Ads to Power BI",
+            "link": "https://www.mindluster.com/lesson/389683-video",
+            "duration": "00:04:38"
+        },
+        {
+            "title": "Facebook Ads Dashboard Templates For Every Occasion",
+            "link": "https://www.mindluster.com/lesson/389684-video",
+            "duration": "00:05:39"
+        },
+        {
+            "title": "How to Connect Facebook Ads to Looker Studio Google Data Studio in 2024",
+            "link": "https://www.mindluster.com/lesson/389685-video",
+            "duration": "00:04:20"
+        }
+    ]
+}

@@ -1,3 +1,4 @@
 cookies.json
-./includes/tutor-api-config.php
-./includes/config.php
+/includes/tutor-api-config.php
+includes/config.php
+

@@ -1,25 +1,45 @@
 {
-    "course_name": "Emotional intelligence in leadership",
-    "category": "Soft-Skills",
-    "lesson_count": "3",
-    "description": "Emotional intelligence in leadership course, in this course we will learn about Emotional Intelligence in leadership. Emotional intelligence (EI) refers to the ability to understand and manage one's own emotions, as well as recognize and influence the emotions of others. This course explores how EI is crucial for effective leadership, enhancing leaders' ability to communicate, resolve conflicts, and foster a positive work environment. Participants will delve into key EI components such as self-awareness, self-regulation, motivation, empathy, and social skills, and learn how to apply these in leadership contexts. Through practical exercises, case studies, and self-assessment tools, the course aims to help leaders develop stronger relationships, improve team dynamics, and create a culture of trust and collaboration. By the end of this course, you will have a deeper understanding of how to leverage emotional intelligence to inspire and lead your team effectively, driving both personal and organizational success. This comprehensive approach ensures that leaders are well-equipped to navigate the complexities of modern workplaces with emotional intelligence at the forefront.",
+    "course_name": "Facebook Ads analysis for beginners",
+    "category": "Computer-Softwares",
+    "lesson_count": "7",
+    "description": "Facebook Ads analysis, in this course we will learn about analyzing Facebook Ads to optimize campaigns and achieve better results. You'll explore key metrics like CTR, CPC, and ROAS, understand audience insights, and evaluate ad performance. Discover how to troubleshoot campaigns, use A/B testing, and improve ROI. Learn to interpret data, refine targeting, and create data-driven strategies for effective ads. By the end, you'll have the skills to assess and enhance any Facebook Ads campaign, ensuring higher engagement and profitability. This course is perfect for marketers, business owners, and anyone aiming to maximize their ad performance on Facebook. Coupler\u2024io Academy",
     "lessons": [
         {
-            "title": "1 Leadership \u2013 The Emotional Intelligence",
-            "link": "https://www.mindluster.com/lesson/337158-video",
-            "duration": "00:07:30"
+            "title": "How to Export Data from Facebook Your Ultimate Guide",
+            "link": "https://www.mindluster.com/lesson/389679-video",
+            "duration": "00:07:19"
         },
         {
-            "title": "2 The Traits of Great Leaders",
-            "link": "https://www.mindluster.com/lesson/337159-video",
-            "duration": "00:03:39"
+            "title": "10 Tips on How to Optimize Facebook Ads",
+            "link": "https://www.mindluster.com/lesson/389680-video",
+            "duration": "00:08:17"
         },
         {
-            "title": "3 The Work of Leaders",
-            "link": "https://www.mindluster.com/lesson/337160-video",
-            "duration": "00:09:38"
+            "title": "Top 16 Facebook Ads Metrics",
+            "link": "https://www.mindluster.com/lesson/389681-video",
+            "duration": "00:08:50"
+        },
+        {
+            "title": "Facebook Ads Analytics Explained",
+            "link": "https://www.mindluster.com/lesson/389682-video",
+            "duration": "00:07:58"
+        },
+        {
+            "title": "Learn How to Connect Facebook Ads to Power BI",
+            "link": "https://www.mindluster.com/lesson/389683-video",
+            "duration": "00:04:38"
+        },
+        {
+            "title": "Facebook Ads Dashboard Templates For Every Occasion",
+            "link": "https://www.mindluster.com/lesson/389684-video",
+            "duration": "00:05:39"
+        },
+        {
+            "title": "How to Connect Facebook Ads to Looker Studio Google Data Studio in 2024",
+            "link": "https://www.mindluster.com/lesson/389685-video",
+            "duration": "00:04:20"
         }
     ],
-    "intro_video": "https://www.mindluster.com/lesson/337158-video",
-    "thumbnail": "https://img.youtube.com/vi/vnzUxatPUlQ/hqdefault.jpg"
+    "intro_video": "https://www.mindluster.com/lesson/389679-video",
+    "thumbnail": "Not found"
 }

@@ -6,7 +6,7 @@ class TutorAPIConfig {
     const API_BASE_URL = 'https://wedti.com/wp-json';
     
     // Update with the provided credentials
-    const API_KEY = 'key_1a3b36b770d1597540eeafd73dc36ba1';
+    const API_KEY = '';
     const API_SECRET = '';
     
     // Endpoints
