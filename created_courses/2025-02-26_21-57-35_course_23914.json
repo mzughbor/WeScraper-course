@@ -1,0 +1,70 @@
+{
+    "source_data": {
+        "course_name": "Oil and gas equipment product naming",
+        "category": "Engineering",
+        "lesson_count": "3",
+        "description": "Oil and gas equipment product, in this course we will learn about the Oil and Gas Equipment Product Course, focusing on the essential tools and machinery used across the oil and gas industry. You\u2019ll explore the key equipment categories involved in upstream, midstream, and downstream operations, including drilling rigs, pipelines, compressors, valves, separators, and refining units. The course will cover equipment functions, specifications, and proper naming conventions for accurate identification and efficient communication. You\u2019ll also learn about maintenance requirements, safety standards, and the role of each piece of equipment in the production cycle. Additionally, we will dive into international standards and classifications, helping you understand technical documentation and equipment labeling. By the end of this course, you\u2019ll have the skills to recognize, name, and manage various oil and gas equipment effectively, making it ideal for industry professionals, engineers, and beginners seeking to build a strong foundation in oil and gas operations. Kimray Inc",
+        "lessons": [
+            {
+                "title": "How to Size and Choose a Control Valve Using the Kimray Sizing Calculator",
+                "link": "https://www.mindluster.com/lesson/396686-video",
+                "duration": "00:09:27"
+            },
+            {
+                "title": "Understanding Your Kimray Oil Gas Equipment Product Naming Conventions Explained",
+                "link": "https://www.mindluster.com/lesson/396687-video",
+                "duration": "00:06:15"
+            },
+            {
+                "title": "Using Kimray com Understanding the Updated Code Builder and Product Structure",
+                "link": "https://www.mindluster.com/lesson/396688-video",
+                "duration": "00:02:11"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/396686-video",
+        "thumbnail": "https://img.youtube.com/vi/OT2w7gqdppE/hqdefault.jpg"
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Oil and gas equipment product, in this course we will learn about the Oil and Gas Equipment Product Course, focusing on the essential tools and machinery used across the oil and gas industry. You\u2019ll explore the key equipment categories involved in upstream, midstream, and downstream operations, including drilling rigs, pipelines, compressors, valves, separators, and refining units. The course will cover equipment functions, specifications, and proper naming conventions for accurate identification and efficient communication. You\u2019ll also learn about maintenance requirements, safety standards, and the role of each piece of equipment in the production cycle. Additionally, we will dive into international standards and classifications, helping you understand technical documentation and equipment labeling. By the end of this course, you\u2019ll have the skills to recognize, name, and manage various oil and gas equipment effectively, making it ideal for industry professionals, engineers, and beginners seeking to build a strong foundation in oil and gas operations. Kimray Inc",
+        "post_title": "Oil and gas equipment product naming",
+        "post_excerpt": "Oil and gas equipment product, in this course we will learn about the Oil and Gas Equipment Product Course, focusing on the essential tools and machinery u...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn How to Size and Choose a Control Valve Using the Kimray Sizing Calculator\nLearn Understanding Your Kimray Oil Gas Equipment Product Naming Conventions Explained\nLearn Using Kimray com Understanding the Updated Code Builder and Product Structure",
+            "course_target_audience": "Students interested in Engineering",
+            "course_duration": {
+                "hours": 0,
+                "minutes": 17
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            138
+        ],
+        "thumbnail_id": 1,
+        "video": null
+    },
+    "course_id": 23914,
+    "topic_id": 23915,
+    "lessons": [
+        {
+            "title": "How to Size and Choose a Control Valve Using the Kimray Sizing Calculator",
+            "link": "https://www.mindluster.com/lesson/396686-video",
+            "duration": "00:09:27"
+        },
+        {
+            "title": "Understanding Your Kimray Oil Gas Equipment Product Naming Conventions Explained",
+            "link": "https://www.mindluster.com/lesson/396687-video",
+            "duration": "00:06:15"
+        },
+        {
+            "title": "Using Kimray com Understanding the Updated Code Builder and Product Structure",
+            "link": "https://www.mindluster.com/lesson/396688-video",
+            "duration": "00:02:11"
+        }
+    ]
+}

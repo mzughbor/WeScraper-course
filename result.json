@@ -1,45 +1,35 @@
 {
-    "course_name": "Facebook Ads analysis for beginners",
-    "category": "Computer-Softwares",
-    "lesson_count": "7",
-    "description": "Facebook Ads analysis, in this course we will learn about analyzing Facebook Ads to optimize campaigns and achieve better results. You'll explore key metrics like CTR, CPC, and ROAS, understand audience insights, and evaluate ad performance. Discover how to troubleshoot campaigns, use A/B testing, and improve ROI. Learn to interpret data, refine targeting, and create data-driven strategies for effective ads. By the end, you'll have the skills to assess and enhance any Facebook Ads campaign, ensuring higher engagement and profitability. This course is perfect for marketers, business owners, and anyone aiming to maximize their ad performance on Facebook. Coupler\u2024io Academy",
+    "course_name": "Native english vocabulary for fluency",
+    "category": "Languages",
+    "lesson_count": "5",
+    "description": "Native english vocabulary, in this course we will focus on learning the words, phrases, and expressions used by native speakers in everyday conversations. Expanding your vocabulary is key to sounding fluent and natural in English. This course will cover idioms, phrasal verbs, slang, collocations, and advanced vocabulary to help you understand and use words like a native speaker. You will learn how to use the right words in different contexts, avoid common vocabulary mistakes, and express yourself with confidence. Through engaging exercises, real-life dialogues, and pronunciation practice, you\u2019ll develop a richer and more natural way of speaking. Whether you need English for work, travel, or casual conversations, this course will help you master essential native expressions and communicate effortlessly in any situation. Get ready to boost your vocabulary and speak English like a native. EnglishAnyone",
     "lessons": [
         {
-            "title": "How to Export Data from Facebook Your Ultimate Guide",
-            "link": "https://www.mindluster.com/lesson/389679-video",
-            "duration": "00:07:19"
+            "title": "The Insight How To Stay Motivated To Become A Confident Fluent English Speaker Easily",
+            "link": "https://www.mindluster.com/lesson/396361-video",
+            "duration": "00:03:18"
         },
         {
-            "title": "10 Tips on How to Optimize Facebook Ads",
-            "link": "https://www.mindluster.com/lesson/389680-video",
-            "duration": "00:08:17"
+            "title": "How You REALLY Get Fluent",
+            "link": "https://www.mindluster.com/lesson/396362-video",
+            "duration": "00:00:59"
         },
         {
-            "title": "Top 16 Facebook Ads Metrics",
-            "link": "https://www.mindluster.com/lesson/389681-video",
-            "duration": "00:08:50"
+            "title": "Stop Speaking To Get Fluent In English",
+            "link": "https://www.mindluster.com/lesson/396363-video",
+            "duration": "00:01:00"
         },
         {
-            "title": "Facebook Ads Analytics Explained",
-            "link": "https://www.mindluster.com/lesson/389682-video",
-            "duration": "00:07:58"
+            "title": "What Stops You From Speaking English",
+            "link": "https://www.mindluster.com/lesson/396364-video",
+            "duration": "00:00:45"
         },
         {
-            "title": "Learn How to Connect Facebook Ads to Power BI",
-            "link": "https://www.mindluster.com/lesson/389683-video",
-            "duration": "00:04:38"
-        },
-        {
-            "title": "Facebook Ads Dashboard Templates For Every Occasion",
-            "link": "https://www.mindluster.com/lesson/389684-video",
-            "duration": "00:05:39"
-        },
-        {
-            "title": "How to Connect Facebook Ads to Looker Studio Google Data Studio in 2024",
-            "link": "https://www.mindluster.com/lesson/389685-video",
-            "duration": "00:04:20"
+            "title": "Advanced Native English Vocab Designate",
+            "link": "https://www.mindluster.com/lesson/396365-video",
+            "duration": "00:00:47"
         }
     ],
-    "intro_video": "https://www.mindluster.com/lesson/389679-video",
-    "thumbnail": "Not found"
+    "intro_video": "https://www.mindluster.com/lesson/396361-video",
+    "thumbnail": "https://img.youtube.com/vi/Cuxp02tAWr0/hqdefault.jpg"
 }

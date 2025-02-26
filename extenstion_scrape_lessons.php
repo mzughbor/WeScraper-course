@@ -21,7 +21,7 @@ $cookies = getCookiesFromJson($cookiesFile);
 $allLessonData = [];
 
 // Loop through each lesson from the result.json
-foreach ($data['lessons'] as $lesson) {
+foreach ($data['lessons'] as $index => $lesson) {
     $lessonTitle = $lesson['title'];
     $lessonLink = $lesson['link'];
     $videoLength = $lesson['duration'] ?? "Unknown";
@@ -33,10 +33,20 @@ foreach ($data['lessons'] as $lesson) {
     $lessonHtml = getCourseData($lessonLink, $cookies);
 
     if ($lessonHtml) {
-
         // Extract YouTube video ID from the lesson thumbnail image
         preg_match('/<img[^>]+src="https:\/\/img\.youtube\.com\/vi\/([^\/]+)\/hqdefault\.jpg"/', $lessonHtml, $videoIdMatches);
         $videoId = isset($videoIdMatches[1]) ? $videoIdMatches[1] : "N/A";
+
+        // Set course thumbnail ONLY for the first lesson
+        if ($index === 0 && $videoId !== "N/A") {
+            $thumbnail = "https://img.youtube.com/vi/{$videoId}/hqdefault.jpg";
+            
+            // Update result.json with the thumbnail
+            $jsonData = json_decode(file_get_contents('result.json'), true);
+            $jsonData['thumbnail'] = $thumbnail;
+            file_put_contents('result.json', json_encode($jsonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+            echo "Course thumbnail updated in result.json from first lesson\n";
+        }
 
         // Construct YouTube embed URL
         $videoUrl = ($videoId !== "N/A") ? "https://www.youtube.com/embed/" . $videoId : "N/A";
@@ -54,18 +64,18 @@ foreach ($data['lessons'] as $lesson) {
         if ($extensionUrl) {
             // Fetch the content from the extension iframe
             $extensionHtml = getCourseData($extensionUrl, $cookies);
-
-            // Remove unwanted tags but preserve new lines
-            $lessonExtensionText = strip_tags($extensionHtml, "<br><p>");
-
+           
+            // Clean the fetched HTML (strip all tags and extra spaces)
+            $lessonExtensionText = strip_tags($extensionHtml);
+            
             // Remove any embedded CSS code like "* { font-size: 18px; }"
             $lessonExtensionText = preg_replace('/\* \{[^}]+\}|\s*<style[^>]*>.*?<\/style>/is', '', $lessonExtensionText);
 
-            // Trim only the start and end of the text without affecting inner spacing
-            $lessonExtensionText = trim($lessonExtensionText);
-
-            // Ensure consistent line breaks (replace multiple newlines with a single newline)
-            $lessonExtensionText = preg_replace("/(\r?\n){2,}/", "\n\n", $lessonExtensionText);
+            // Replace multiple spaces with single space and trim the text
+            $lessonExtensionText = trim(preg_replace('/\s+/', ' ', $lessonExtensionText));
+            
+            // Fix text formatting by adding a line break where needed
+            $lessonExtensionText = nl2br($lessonExtensionText);
         } else {
             $lessonExtensionText = "No Extensions Found";
         }
@@ -92,8 +102,11 @@ foreach ($data['lessons'] as $lesson) {
 
 // Optionally save the accumulated data to a JSON file
 if (!empty($allLessonData)) {
+    // Save just the array without wrapper object
+    file_put_contents("lesson_data.json", 
+        json_encode($allLessonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES)
+    );
     echo "✅ Lessons data saved to lesson_data.json!\n";
-    file_put_contents("lesson_data.json", json_encode($allLessonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));        
 } else {
     echo "❌ No lessons data to save.\n";
 }
