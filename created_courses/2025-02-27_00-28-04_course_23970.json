@@ -1,0 +1,151 @@
+{
+    "source_data": {
+        "course_name": "PyGame Python for beginners",
+        "category": "Computer-Science",
+        "lesson_count": "11",
+        "description": "PyGame Python, in this course we will learn about PyGame with Python, a powerful library for building 2D games and interactive applications. You'll start with the basics of game development, including setting up the game window, handling user input, and rendering graphics. The course covers key concepts like sprite animation, collision detection, event handling, and sound integration to create dynamic and engaging games. You'll also learn about game loops, physics, and optimizing performance for smooth gameplay. Through hands-on projects, you'll develop your own games step by step. Perfect for beginners and aspiring game developers looking to master PyGame and Python game development. Great Learning",
+        "lessons": [
+            {
+                "title": "Numpy Python Tutorial Python for beginners Python tutorial Great Learning",
+                "link": "https://www.mindluster.com/lesson/396036-video",
+                "duration": "00:37:31"
+            },
+            {
+                "title": "Pandas Python tutorial Python Tutorial for Beginner Python Programming Great Learning",
+                "link": "https://www.mindluster.com/lesson/396037-video",
+                "duration": "00:25:25"
+            },
+            {
+                "title": "Python Pandas Tutorial Python Tutorial Data Analysis with Python Pandas Great Learning",
+                "link": "https://www.mindluster.com/lesson/396038-video",
+                "duration": "01:31:34"
+            },
+            {
+                "title": "NumPy Standard Deviation NumPy Statistical Functions Great Learning",
+                "link": "https://www.mindluster.com/lesson/396039-video",
+                "duration": "00:24:46"
+            },
+            {
+                "title": "Pandas Query What is Pandas Python Tutorial Great Learning",
+                "link": "https://www.mindluster.com/lesson/396040-video",
+                "duration": "00:26:37"
+            },
+            {
+                "title": "Matplotlib Python Tutorial Matplotlib Tutorial Python Tutorial Great Learning",
+                "link": "https://www.mindluster.com/lesson/396041-video",
+                "duration": "00:48:37"
+            },
+            {
+                "title": "Seaborn Python Tutorial Data Visualization Using Python in Seaborn Great Learning",
+                "link": "https://www.mindluster.com/lesson/396042-video",
+                "duration": "00:40:57"
+            },
+            {
+                "title": "Scikit Learn Machine Learning With Scikit Learn SK learn Great Learning",
+                "link": "https://www.mindluster.com/lesson/396043-video",
+                "duration": "01:06:35"
+            },
+            {
+                "title": "Scipy in Python Scientific Python Tutorial SciPy Python Tutorial for Beginners Great Learning",
+                "link": "https://www.mindluster.com/lesson/396044-video",
+                "duration": "00:54:06"
+            },
+            {
+                "title": "Python Tkinter Python GUI Programming Using Tkinter Tutorial Great Learning",
+                "link": "https://www.mindluster.com/lesson/396045-video",
+                "duration": "00:50:56"
+            },
+            {
+                "title": "Pygame Tutorial PyGame Python Tutorial For Beginners Great Learning",
+                "link": "https://www.mindluster.com/lesson/396046-video",
+                "duration": "01:05:01"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/396036-video",
+        "thumbnail": "https://img.youtube.com/vi/KXXU-01OVwQ/hqdefault.jpg",
+        "thumbnail_id": 23969
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "PyGame Python, in this course we will learn about PyGame with Python, a powerful library for building 2D games and interactive applications. You'll start with the basics of game development, including setting up the game window, handling user input, and rendering graphics. The course covers key concepts like sprite animation, collision detection, event handling, and sound integration to create dynamic and engaging games. You'll also learn about game loops, physics, and optimizing performance for smooth gameplay. Through hands-on projects, you'll develop your own games step by step. Perfect for beginners and aspiring game developers looking to master PyGame and Python game development. Great Learning",
+        "post_title": "PyGame Python for beginners",
+        "post_excerpt": "PyGame Python, in this course we will learn about PyGame with Python, a powerful library for building 2D games and interactive applications. You'll start w...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Numpy Python Tutorial Python for beginners Python tutorial Great Learning\nLearn Pandas Python tutorial Python Tutorial for Beginner Python Programming Great Learning\nLearn Python Pandas Tutorial Python Tutorial Data Analysis with Python Pandas Great Learning\nLearn NumPy Standard Deviation NumPy Statistical Functions Great Learning\nLearn Pandas Query What is Pandas Python Tutorial Great Learning\nLearn Matplotlib Python Tutorial Matplotlib Tutorial Python Tutorial Great Learning\nLearn Seaborn Python Tutorial Data Visualization Using Python in Seaborn Great Learning\nLearn Scikit Learn Machine Learning With Scikit Learn SK learn Great Learning\nLearn Scipy in Python Scientific Python Tutorial SciPy Python Tutorial for Beginners Great Learning\nLearn Python Tkinter Python GUI Programming Using Tkinter Tutorial Great Learning\nLearn Pygame Tutorial PyGame Python Tutorial For Beginners Great Learning",
+            "course_target_audience": "Students interested in Computer-Science",
+            "course_duration": {
+                "hours": 8,
+                "minutes": 52
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            139
+        ],
+        "thumbnail_id": 23969,
+        "video": null
+    },
+    "course_id": 23970,
+    "topic_id": 23971,
+    "lessons": [
+        {
+            "title": "Numpy Python Tutorial Python for beginners Python tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396036-video",
+            "duration": "00:37:31"
+        },
+        {
+            "title": "Pandas Python tutorial Python Tutorial for Beginner Python Programming Great Learning",
+            "link": "https://www.mindluster.com/lesson/396037-video",
+            "duration": "00:25:25"
+        },
+        {
+            "title": "Python Pandas Tutorial Python Tutorial Data Analysis with Python Pandas Great Learning",
+            "link": "https://www.mindluster.com/lesson/396038-video",
+            "duration": "01:31:34"
+        },
+        {
+            "title": "NumPy Standard Deviation NumPy Statistical Functions Great Learning",
+            "link": "https://www.mindluster.com/lesson/396039-video",
+            "duration": "00:24:46"
+        },
+        {
+            "title": "Pandas Query What is Pandas Python Tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396040-video",
+            "duration": "00:26:37"
+        },
+        {
+            "title": "Matplotlib Python Tutorial Matplotlib Tutorial Python Tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396041-video",
+            "duration": "00:48:37"
+        },
+        {
+            "title": "Seaborn Python Tutorial Data Visualization Using Python in Seaborn Great Learning",
+            "link": "https://www.mindluster.com/lesson/396042-video",
+            "duration": "00:40:57"
+        },
+        {
+            "title": "Scikit Learn Machine Learning With Scikit Learn SK learn Great Learning",
+            "link": "https://www.mindluster.com/lesson/396043-video",
+            "duration": "01:06:35"
+        },
+        {
+            "title": "Scipy in Python Scientific Python Tutorial SciPy Python Tutorial for Beginners Great Learning",
+            "link": "https://www.mindluster.com/lesson/396044-video",
+            "duration": "00:54:06"
+        },
+        {
+            "title": "Python Tkinter Python GUI Programming Using Tkinter Tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396045-video",
+            "duration": "00:50:56"
+        },
+        {
+            "title": "Pygame Tutorial PyGame Python Tutorial For Beginners Great Learning",
+            "link": "https://www.mindluster.com/lesson/396046-video",
+            "duration": "01:05:01"
+        }
+    ]
+}

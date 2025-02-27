@@ -77,7 +77,7 @@ try {
         ],
         "course_level" => "beginner",
         "course_categories" => [$category_id],  // Using dynamic category ID
-        "thumbnail_id" => 1,
+        "thumbnail_id" => isset($json_data['thumbnail_id']) ? $json_data['thumbnail_id'] : 1,  // Use uploaded thumbnail ID
         "video" => $intro_video ? [
             "source_type" => "youtube",
             "source" => $intro_video

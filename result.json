@@ -1,35 +1,66 @@
 {
-    "course_name": "Native english vocabulary for fluency",
-    "category": "Languages",
-    "lesson_count": "5",
-    "description": "Native english vocabulary, in this course we will focus on learning the words, phrases, and expressions used by native speakers in everyday conversations. Expanding your vocabulary is key to sounding fluent and natural in English. This course will cover idioms, phrasal verbs, slang, collocations, and advanced vocabulary to help you understand and use words like a native speaker. You will learn how to use the right words in different contexts, avoid common vocabulary mistakes, and express yourself with confidence. Through engaging exercises, real-life dialogues, and pronunciation practice, you\u2019ll develop a richer and more natural way of speaking. Whether you need English for work, travel, or casual conversations, this course will help you master essential native expressions and communicate effortlessly in any situation. Get ready to boost your vocabulary and speak English like a native. EnglishAnyone",
+    "course_name": "PyGame Python for beginners",
+    "category": "Computer-Science",
+    "lesson_count": "11",
+    "description": "PyGame Python, in this course we will learn about PyGame with Python, a powerful library for building 2D games and interactive applications. You'll start with the basics of game development, including setting up the game window, handling user input, and rendering graphics. The course covers key concepts like sprite animation, collision detection, event handling, and sound integration to create dynamic and engaging games. You'll also learn about game loops, physics, and optimizing performance for smooth gameplay. Through hands-on projects, you'll develop your own games step by step. Perfect for beginners and aspiring game developers looking to master PyGame and Python game development. Great Learning",
     "lessons": [
         {
-            "title": "The Insight How To Stay Motivated To Become A Confident Fluent English Speaker Easily",
-            "link": "https://www.mindluster.com/lesson/396361-video",
-            "duration": "00:03:18"
+            "title": "Numpy Python Tutorial Python for beginners Python tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396036-video",
+            "duration": "00:37:31"
         },
         {
-            "title": "How You REALLY Get Fluent",
-            "link": "https://www.mindluster.com/lesson/396362-video",
-            "duration": "00:00:59"
+            "title": "Pandas Python tutorial Python Tutorial for Beginner Python Programming Great Learning",
+            "link": "https://www.mindluster.com/lesson/396037-video",
+            "duration": "00:25:25"
         },
         {
-            "title": "Stop Speaking To Get Fluent In English",
-            "link": "https://www.mindluster.com/lesson/396363-video",
-            "duration": "00:01:00"
+            "title": "Python Pandas Tutorial Python Tutorial Data Analysis with Python Pandas Great Learning",
+            "link": "https://www.mindluster.com/lesson/396038-video",
+            "duration": "01:31:34"
         },
         {
-            "title": "What Stops You From Speaking English",
-            "link": "https://www.mindluster.com/lesson/396364-video",
-            "duration": "00:00:45"
+            "title": "NumPy Standard Deviation NumPy Statistical Functions Great Learning",
+            "link": "https://www.mindluster.com/lesson/396039-video",
+            "duration": "00:24:46"
         },
         {
-            "title": "Advanced Native English Vocab Designate",
-            "link": "https://www.mindluster.com/lesson/396365-video",
-            "duration": "00:00:47"
+            "title": "Pandas Query What is Pandas Python Tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396040-video",
+            "duration": "00:26:37"
+        },
+        {
+            "title": "Matplotlib Python Tutorial Matplotlib Tutorial Python Tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396041-video",
+            "duration": "00:48:37"
+        },
+        {
+            "title": "Seaborn Python Tutorial Data Visualization Using Python in Seaborn Great Learning",
+            "link": "https://www.mindluster.com/lesson/396042-video",
+            "duration": "00:40:57"
+        },
+        {
+            "title": "Scikit Learn Machine Learning With Scikit Learn SK learn Great Learning",
+            "link": "https://www.mindluster.com/lesson/396043-video",
+            "duration": "01:06:35"
+        },
+        {
+            "title": "Scipy in Python Scientific Python Tutorial SciPy Python Tutorial for Beginners Great Learning",
+            "link": "https://www.mindluster.com/lesson/396044-video",
+            "duration": "00:54:06"
+        },
+        {
+            "title": "Python Tkinter Python GUI Programming Using Tkinter Tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396045-video",
+            "duration": "00:50:56"
+        },
+        {
+            "title": "Pygame Tutorial PyGame Python Tutorial For Beginners Great Learning",
+            "link": "https://www.mindluster.com/lesson/396046-video",
+            "duration": "01:05:01"
         }
     ],
-    "intro_video": "https://www.mindluster.com/lesson/396361-video",
-    "thumbnail": "https://img.youtube.com/vi/Cuxp02tAWr0/hqdefault.jpg"
+    "intro_video": "https://www.mindluster.com/lesson/396036-video",
+    "thumbnail": "https://img.youtube.com/vi/KXXU-01OVwQ/hqdefault.jpg",
+    "thumbnail_id": 23969
 }

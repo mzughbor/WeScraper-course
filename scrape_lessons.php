@@ -70,6 +70,10 @@ try {
             json_encode($lessons, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES)
         );
         echo "\n✅ All lesson data saved to lesson_data.json\n";
+        
+        // Upload thumbnail after successful scraping
+        echo "\nUploading thumbnail...\n";
+        require_once __DIR__ . '/upload_thumbnail.php';
     }
 
 } catch (Exception $e) {

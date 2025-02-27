@@ -107,6 +107,10 @@ if (!empty($allLessonData)) {
         json_encode($allLessonData, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES)
     );
     echo "✅ Lessons data saved to lesson_data.json!\n";
+    
+    // Upload thumbnail after successful scraping
+    echo "\nUploading thumbnail...\n";
+    require_once __DIR__ . '/upload_thumbnail.php';
 } else {
     echo "❌ No lessons data to save.\n";
 }
