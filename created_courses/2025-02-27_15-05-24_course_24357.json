@@ -1,0 +1,111 @@
+{
+    "source_data": {
+        "course_name": "Everyday english expressions for beginners",
+        "category": "Languages",
+        "lesson_count": "7",
+        "description": "Everyday english expressions course, in this course is designed to help you master commonly used English expressions for daily conversations. You\u2019ll learn phrases and idioms that native speakers use in a variety of settings, such as greetings, small talk, making requests, and expressing opinions. Through engaging activities, role-playing scenarios, and real-world examples, you\u2019ll develop the confidence to use these expressions naturally and effectively. The course also focuses on understanding cultural contexts, improving listening skills, and enhancing fluency. Perfect for learners of all levels, this course ensures you can navigate social and professional interactions with ease. Join us to unlock the key to speaking English fluently and confidently.",
+        "lessons": [
+            {
+                "title": "Ways to Say I don t know Level Up Your English Conversation",
+                "link": "https://www.mindluster.com/lesson/376030-video",
+                "duration": "00:12:12"
+            },
+            {
+                "title": "Stop Saying I agree Ways to Agree in English Level Up Your English Conversation",
+                "link": "https://www.mindluster.com/lesson/376031-video",
+                "duration": "00:13:09"
+            },
+            {
+                "title": "English Expressions to Show You re Sure or Unsure Level Up Your English Conversation",
+                "link": "https://www.mindluster.com/lesson/376032-video",
+                "duration": "00:13:15"
+            },
+            {
+                "title": "Saying Sorry In English Level Up Your English Conversation",
+                "link": "https://www.mindluster.com/lesson/376033-video",
+                "duration": "00:12:12"
+            },
+            {
+                "title": "Giving and Receiving Praise Level Up Your English Conversation",
+                "link": "https://www.mindluster.com/lesson/376034-video",
+                "duration": "00:11:36"
+            },
+            {
+                "title": "Disagree in English Conversation Level Up Your English",
+                "link": "https://www.mindluster.com/lesson/376035-video",
+                "duration": "00:09:57"
+            },
+            {
+                "title": "How to Give Warnings in English Level Up Your English Conversation",
+                "link": "https://www.mindluster.com/lesson/376036-video",
+                "duration": "00:11:58"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/376030-video",
+        "thumbnail": "https://img.youtube.com/vi/605TeVYOb2Q/hqdefault.jpg",
+        "thumbnail_id": 24356
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Everyday english expressions course, in this course is designed to help you master commonly used English expressions for daily conversations. You\u2019ll learn phrases and idioms that native speakers use in a variety of settings, such as greetings, small talk, making requests, and expressing opinions. Through engaging activities, role-playing scenarios, and real-world examples, you\u2019ll develop the confidence to use these expressions naturally and effectively. The course also focuses on understanding cultural contexts, improving listening skills, and enhancing fluency. Perfect for learners of all levels, this course ensures you can navigate social and professional interactions with ease. Join us to unlock the key to speaking English fluently and confidently.",
+        "post_title": "Everyday english expressions for beginners",
+        "post_excerpt": "Everyday english expressions course, in this course is designed to help you master commonly used English expressions for daily conversations. You\u2019ll lear...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Ways to Say I don t know Level Up Your English Conversation\nLearn Stop Saying I agree Ways to Agree in English Level Up Your English Conversation\nLearn English Expressions to Show You re Sure or Unsure Level Up Your English Conversation\nLearn Saying Sorry In English Level Up Your English Conversation\nLearn Giving and Receiving Praise Level Up Your English Conversation\nLearn Disagree in English Conversation Level Up Your English\nLearn How to Give Warnings in English Level Up Your English Conversation",
+            "course_target_audience": "Students interested in Languages",
+            "course_duration": {
+                "hours": 1,
+                "minutes": 24
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            128
+        ],
+        "thumbnail_id": 24356,
+        "video": null
+    },
+    "course_id": 24357,
+    "topic_id": 24358,
+    "lessons": [
+        {
+            "title": "Ways to Say I don t know Level Up Your English Conversation",
+            "link": "https://www.mindluster.com/lesson/376030-video",
+            "duration": "00:12:12"
+        },
+        {
+            "title": "Stop Saying I agree Ways to Agree in English Level Up Your English Conversation",
+            "link": "https://www.mindluster.com/lesson/376031-video",
+            "duration": "00:13:09"
+        },
+        {
+            "title": "English Expressions to Show You re Sure or Unsure Level Up Your English Conversation",
+            "link": "https://www.mindluster.com/lesson/376032-video",
+            "duration": "00:13:15"
+        },
+        {
+            "title": "Saying Sorry In English Level Up Your English Conversation",
+            "link": "https://www.mindluster.com/lesson/376033-video",
+            "duration": "00:12:12"
+        },
+        {
+            "title": "Giving and Receiving Praise Level Up Your English Conversation",
+            "link": "https://www.mindluster.com/lesson/376034-video",
+            "duration": "00:11:36"
+        },
+        {
+            "title": "Disagree in English Conversation Level Up Your English",
+            "link": "https://www.mindluster.com/lesson/376035-video",
+            "duration": "00:09:57"
+        },
+        {
+            "title": "How to Give Warnings in English Level Up Your English Conversation",
+            "link": "https://www.mindluster.com/lesson/376036-video",
+            "duration": "00:11:58"
+        }
+    ]
+}

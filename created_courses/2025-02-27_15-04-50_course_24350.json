@@ -1,0 +1,81 @@
+{
+    "source_data": {
+        "course_name": "Japanese Language basics in 12 months",
+        "category": "Languages",
+        "lesson_count": "4",
+        "description": "Japanese Language basics, in this course we will learn about the Japanese Language basics, covering essential elements to kickstart your journey. You'll start by mastering Hiragana and Katakana, the two fundamental writing systems, and dive into essential vocabulary for everyday use. The course includes simple sentence structures, polite expressions, and basic grammar to help you construct meaningful conversations. You'll also learn common greetings, introductions, numbers, and time-related phrases. Through interactive exercises, you'll practice pronunciation, reading, and writing. Whether you're learning for travel, work, or personal interest, this course will provide a strong foundation to build your Japanese language skills and confidence. Learn Japanese with JapanesePod101 com",
+        "lessons": [
+            {
+                "title": "FREE Japanese Gifts of January 2022",
+                "link": "https://www.mindluster.com/lesson/390543-video",
+                "duration": "00:01:46"
+            },
+            {
+                "title": "Cut Your Study Time by 50 Through Japanese PDF Lessons",
+                "link": "https://www.mindluster.com/lesson/390544-video",
+                "duration": "00:04:21"
+            },
+            {
+                "title": "FREE Japanese Course for Everyone Our Absolute Beginner course is open",
+                "link": "https://www.mindluster.com/lesson/390545-video",
+                "duration": "00:02:00"
+            },
+            {
+                "title": "Last Chance to Learn Japanese in 12 months",
+                "link": "https://www.mindluster.com/lesson/390546-video",
+                "duration": "00:01:34"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/390543-video",
+        "thumbnail": "https://img.youtube.com/vi/UW9fp6FIV0E/hqdefault.jpg",
+        "thumbnail_id": 24349
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Japanese Language basics, in this course we will learn about the Japanese Language basics, covering essential elements to kickstart your journey. You'll start by mastering Hiragana and Katakana, the two fundamental writing systems, and dive into essential vocabulary for everyday use. The course includes simple sentence structures, polite expressions, and basic grammar to help you construct meaningful conversations. You'll also learn common greetings, introductions, numbers, and time-related phrases. Through interactive exercises, you'll practice pronunciation, reading, and writing. Whether you're learning for travel, work, or personal interest, this course will provide a strong foundation to build your Japanese language skills and confidence. Learn Japanese with JapanesePod101 com",
+        "post_title": "Japanese Language basics in 12 months",
+        "post_excerpt": "Japanese Language basics, in this course we will learn about the Japanese Language basics, covering essential elements to kickstart your journey. You'll st...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn FREE Japanese Gifts of January 2022\nLearn Cut Your Study Time by 50 Through Japanese PDF Lessons\nLearn FREE Japanese Course for Everyone Our Absolute Beginner course is open\nLearn Last Chance to Learn Japanese in 12 months",
+            "course_target_audience": "Students interested in Languages",
+            "course_duration": {
+                "hours": 0,
+                "minutes": 9
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            128
+        ],
+        "thumbnail_id": 24349,
+        "video": null
+    },
+    "course_id": 24350,
+    "topic_id": 24351,
+    "lessons": [
+        {
+            "title": "FREE Japanese Gifts of January 2022",
+            "link": "https://www.mindluster.com/lesson/390543-video",
+            "duration": "00:01:46"
+        },
+        {
+            "title": "Cut Your Study Time by 50 Through Japanese PDF Lessons",
+            "link": "https://www.mindluster.com/lesson/390544-video",
+            "duration": "00:04:21"
+        },
+        {
+            "title": "FREE Japanese Course for Everyone Our Absolute Beginner course is open",
+            "link": "https://www.mindluster.com/lesson/390545-video",
+            "duration": "00:02:00"
+        },
+        {
+            "title": "Last Chance to Learn Japanese in 12 months",
+            "link": "https://www.mindluster.com/lesson/390546-video",
+            "duration": "00:01:34"
+        }
+    ]
+}

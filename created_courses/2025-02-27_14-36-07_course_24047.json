@@ -1,0 +1,141 @@
+{
+    "source_data": {
+        "course_name": "chakrayoga",
+        "category": "woman-and-Beauty",
+        "lesson_count": "10",
+        "description": "In the Yoga course, we will embark on a transformative journey of self-discovery and holistic well-being. Explore the ancient wisdom and practices of yoga, including asanas (postures), pranayama (breathing techniques), meditation, and philosophy. This course offers a comprehensive understanding of yoga's physical, mental, and spiritual aspects. Develop strength, flexibility, and inner calm as you learn to cultivate mindfulness and align your mind, body, and spirit. Suitable for all levels, this course provides a nurturing environment to deepen your practice and explore the profound benefits of yoga. Join us to embark on a path of self-transformation and embrace the transformative power of yoga in your life. Yoga With Adriene",
+        "lessons": [
+            {
+                "title": "Ujjayi Breathing Yoga with Adriene",
+                "link": "https://www.mindluster.com/lesson/271619-video",
+                "duration": "00:06:53"
+            },
+            {
+                "title": "Breath of Fire Pranayama Series",
+                "link": "https://www.mindluster.com/lesson/271620-video",
+                "duration": "00:13:41"
+            },
+            {
+                "title": "Yoga Breathing Alternate Nostril Breathing",
+                "link": "https://www.mindluster.com/lesson/271621-video",
+                "duration": "00:10:58"
+            },
+            {
+                "title": "Pranayama Potion 20 Minute Yoga Practice",
+                "link": "https://www.mindluster.com/lesson/271622-video",
+                "duration": "00:21:23"
+            },
+            {
+                "title": "Day 19 Breath Body Practice 30 Days of Yoga",
+                "link": "https://www.mindluster.com/lesson/271623-video",
+                "duration": "00:21:26"
+            },
+            {
+                "title": "Yoga Pranayama for the Spine Yoga With Adriene",
+                "link": "https://www.mindluster.com/lesson/271624-video",
+                "duration": "00:28:30"
+            },
+            {
+                "title": "Pranayama Sitali Cooling Breath Or Taco Breath",
+                "link": "https://www.mindluster.com/lesson/271625-video",
+                "duration": "00:11:23"
+            },
+            {
+                "title": "Lion s Breath Foundations of Yoga",
+                "link": "https://www.mindluster.com/lesson/271626-video",
+                "duration": "00:11:20"
+            },
+            {
+                "title": "Reunite With Your Breath 19 Minute Breath Practice",
+                "link": "https://www.mindluster.com/lesson/271627-video",
+                "duration": "00:19:14"
+            },
+            {
+                "title": "10 Minute Balancing Breathwork",
+                "link": "https://www.mindluster.com/lesson/271628-video",
+                "duration": "00:13:28"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/271619-video",
+        "thumbnail": "https://img.youtube.com/vi/IQrsJ-yZWV8/hqdefault.jpg",
+        "thumbnail_id": 24046
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "In the Yoga course, we will embark on a transformative journey of self-discovery and holistic well-being. Explore the ancient wisdom and practices of yoga, including asanas (postures), pranayama (breathing techniques), meditation, and philosophy. This course offers a comprehensive understanding of yoga's physical, mental, and spiritual aspects. Develop strength, flexibility, and inner calm as you learn to cultivate mindfulness and align your mind, body, and spirit. Suitable for all levels, this course provides a nurturing environment to deepen your practice and explore the profound benefits of yoga. Join us to embark on a path of self-transformation and embrace the transformative power of yoga in your life. Yoga With Adriene",
+        "post_title": "chakrayoga",
+        "post_excerpt": "In the Yoga course, we will embark on a transformative journey of self-discovery and holistic well-being. Explore the ancient wisdom and practices of yoga,...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Ujjayi Breathing Yoga with Adriene\nLearn Breath of Fire Pranayama Series\nLearn Yoga Breathing Alternate Nostril Breathing\nLearn Pranayama Potion 20 Minute Yoga Practice\nLearn Day 19 Breath Body Practice 30 Days of Yoga\nLearn Yoga Pranayama for the Spine Yoga With Adriene\nLearn Pranayama Sitali Cooling Breath Or Taco Breath\nLearn Lion s Breath Foundations of Yoga\nLearn Reunite With Your Breath 19 Minute Breath Practice\nLearn 10 Minute Balancing Breathwork",
+            "course_target_audience": "Students interested in woman-and-Beauty",
+            "course_duration": {
+                "hours": 2,
+                "minutes": 38
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            141
+        ],
+        "thumbnail_id": 24046,
+        "video": null
+    },
+    "course_id": 24047,
+    "topic_id": 24048,
+    "lessons": [
+        {
+            "title": "Ujjayi Breathing Yoga with Adriene",
+            "link": "https://www.mindluster.com/lesson/271619-video",
+            "duration": "00:06:53"
+        },
+        {
+            "title": "Breath of Fire Pranayama Series",
+            "link": "https://www.mindluster.com/lesson/271620-video",
+            "duration": "00:13:41"
+        },
+        {
+            "title": "Yoga Breathing Alternate Nostril Breathing",
+            "link": "https://www.mindluster.com/lesson/271621-video",
+            "duration": "00:10:58"
+        },
+        {
+            "title": "Pranayama Potion 20 Minute Yoga Practice",
+            "link": "https://www.mindluster.com/lesson/271622-video",
+            "duration": "00:21:23"
+        },
+        {
+            "title": "Day 19 Breath Body Practice 30 Days of Yoga",
+            "link": "https://www.mindluster.com/lesson/271623-video",
+            "duration": "00:21:26"
+        },
+        {
+            "title": "Yoga Pranayama for the Spine Yoga With Adriene",
+            "link": "https://www.mindluster.com/lesson/271624-video",
+            "duration": "00:28:30"
+        },
+        {
+            "title": "Pranayama Sitali Cooling Breath Or Taco Breath",
+            "link": "https://www.mindluster.com/lesson/271625-video",
+            "duration": "00:11:23"
+        },
+        {
+            "title": "Lion s Breath Foundations of Yoga",
+            "link": "https://www.mindluster.com/lesson/271626-video",
+            "duration": "00:11:20"
+        },
+        {
+            "title": "Reunite With Your Breath 19 Minute Breath Practice",
+            "link": "https://www.mindluster.com/lesson/271627-video",
+            "duration": "00:19:14"
+        },
+        {
+            "title": "10 Minute Balancing Breathwork",
+            "link": "https://www.mindluster.com/lesson/271628-video",
+            "duration": "00:13:28"
+        }
+    ]
+}

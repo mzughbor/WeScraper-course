@@ -1,0 +1,81 @@
+{
+    "source_data": {
+        "course_name": "HTML Links and Inputs",
+        "category": "Web-Design",
+        "lesson_count": "4",
+        "description": "HTML Links course, in this course we will learn about the HTML Links, essential elements for navigation and connecting web pages. Understanding the <a> tag and its attributes, we explore how to create hyperlinks to other pages, websites, or specific sections within a document. Discover techniques for styling links, creating anchor points, and optimizing navigation for enhanced user experience. Gain proficiency in incorporating links effectively to create interconnected and accessible web content.",
+        "lessons": [
+            {
+                "title": "Introduction to HTML Your First Web Page Part 1",
+                "link": "https://www.mindluster.com/lesson/228787-video",
+                "duration": "00:04:46"
+            },
+            {
+                "title": "Introduction to HTML Basic HTML Elements Part 2",
+                "link": "https://www.mindluster.com/lesson/228788-video",
+                "duration": "00:10:28"
+            },
+            {
+                "title": "Introduction to HTML Advanced HTML Elements Part 3",
+                "link": "https://www.mindluster.com/lesson/228789-video",
+                "duration": "00:13:02"
+            },
+            {
+                "title": "Introduction to HTML Links and Inputs Part 4",
+                "link": "https://www.mindluster.com/lesson/228790-video",
+                "duration": "00:15:35"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/228787-video",
+        "thumbnail": "https://img.youtube.com/vi/BvJYXl2ywUE/hqdefault.jpg",
+        "thumbnail_id": 24208
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "HTML Links course, in this course we will learn about the HTML Links, essential elements for navigation and connecting web pages. Understanding the <a> tag and its attributes, we explore how to create hyperlinks to other pages, websites, or specific sections within a document. Discover techniques for styling links, creating anchor points, and optimizing navigation for enhanced user experience. Gain proficiency in incorporating links effectively to create interconnected and accessible web content.",
+        "post_title": "HTML Links and Inputs",
+        "post_excerpt": "HTML Links course, in this course we will learn about the HTML Links, essential elements for navigation and connecting web pages. Understanding the <a> tag...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Introduction to HTML Your First Web Page Part 1\nLearn Introduction to HTML Basic HTML Elements Part 2\nLearn Introduction to HTML Advanced HTML Elements Part 3\nLearn Introduction to HTML Links and Inputs Part 4",
+            "course_target_audience": "Students interested in Web-Design",
+            "course_duration": {
+                "hours": 0,
+                "minutes": 43
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            144
+        ],
+        "thumbnail_id": 24208,
+        "video": null
+    },
+    "course_id": 24209,
+    "topic_id": 24210,
+    "lessons": [
+        {
+            "title": "Introduction to HTML Your First Web Page Part 1",
+            "link": "https://www.mindluster.com/lesson/228787-video",
+            "duration": "00:04:46"
+        },
+        {
+            "title": "Introduction to HTML Basic HTML Elements Part 2",
+            "link": "https://www.mindluster.com/lesson/228788-video",
+            "duration": "00:10:28"
+        },
+        {
+            "title": "Introduction to HTML Advanced HTML Elements Part 3",
+            "link": "https://www.mindluster.com/lesson/228789-video",
+            "duration": "00:13:02"
+        },
+        {
+            "title": "Introduction to HTML Links and Inputs Part 4",
+            "link": "https://www.mindluster.com/lesson/228790-video",
+            "duration": "00:15:35"
+        }
+    ]
+}

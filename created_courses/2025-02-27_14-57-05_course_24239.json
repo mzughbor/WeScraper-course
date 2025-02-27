@@ -1,0 +1,171 @@
+{
+    "source_data": {
+        "course_name": "Backend Development",
+        "category": "Web-Design",
+        "lesson_count": "13",
+        "description": "Backend Development course , in this course we will learn about the fundamental concepts and practices of backend development. From setting up the backend environment to handling HTTP requests, implementing RESTful APIs, and managing databases, you'll gain a comprehensive understanding of building robust server-side applications. Through practical examples and hands-on projects, you'll develop the skills needed to implement user authentication, session management, error handling, and more. By the end, you'll be proficient in developing scalable and secure backend solutions to power various web and mobile applications.",
+        "lessons": [
+            {
+                "title": "Full Stack Web Development Course Introduction",
+                "link": "https://www.mindluster.com/lesson/228491-video",
+                "duration": "00:01:15"
+            },
+            {
+                "title": "How The Backend Works",
+                "link": "https://www.mindluster.com/lesson/228492-video",
+                "duration": "00:04:14"
+            },
+            {
+                "title": "What is REST",
+                "link": "https://www.mindluster.com/lesson/228493-video",
+                "duration": "00:03:24"
+            },
+            {
+                "title": "MVC Explained in 4 Minutes",
+                "link": "https://www.mindluster.com/lesson/228494-video",
+                "duration": "00:04:13"
+            },
+            {
+                "title": "Project Setup Node js Express MongoDB Course 1",
+                "link": "https://www.mindluster.com/lesson/228495-video",
+                "duration": "00:23:29"
+            },
+            {
+                "title": "Author s Index Create New Routes Node js Express MongoDB Course 2",
+                "link": "https://www.mindluster.com/lesson/228496-video",
+                "duration": "00:34:17"
+            },
+            {
+                "title": "Books Index Create New Routes Node js Express MongoDB Course 3",
+                "link": "https://www.mindluster.com/lesson/228497-video",
+                "duration": "00:49:31"
+            },
+            {
+                "title": "File Upload Setup Node js Express MongoDB Course 4",
+                "link": "https://www.mindluster.com/lesson/228498-video",
+                "duration": "00:19:24"
+            },
+            {
+                "title": "Authors Show Edit Update Delete Routes Node js Express MongoDB Course 5",
+                "link": "https://www.mindluster.com/lesson/228499-video",
+                "duration": "00:30:56"
+            },
+            {
+                "title": "Finish Backend Node js Express MongoDB Course 6",
+                "link": "https://www.mindluster.com/lesson/228500-video",
+                "duration": "00:21:18"
+            },
+            {
+                "title": "General CSS Styles Node js Express MongoDB Course 7",
+                "link": "https://www.mindluster.com/lesson/228501-video",
+                "duration": "00:28:10"
+            },
+            {
+                "title": "Form CSS Styles Node js Express MongoDB Course 8",
+                "link": "https://www.mindluster.com/lesson/228502-video",
+                "duration": "00:23:43"
+            },
+            {
+                "title": "Finish Project Node js Express MongoDB Course 9",
+                "link": "https://www.mindluster.com/lesson/228503-video",
+                "duration": "00:26:57"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/228491-video",
+        "thumbnail": "https://img.youtube.com/vi/XlvsJLer_No/hqdefault.jpg",
+        "thumbnail_id": 24238
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Backend Development course , in this course we will learn about the fundamental concepts and practices of backend development. From setting up the backend environment to handling HTTP requests, implementing RESTful APIs, and managing databases, you'll gain a comprehensive understanding of building robust server-side applications. Through practical examples and hands-on projects, you'll develop the skills needed to implement user authentication, session management, error handling, and more. By the end, you'll be proficient in developing scalable and secure backend solutions to power various web and mobile applications.",
+        "post_title": "Backend Development",
+        "post_excerpt": "Backend Development course , in this course we will learn about the fundamental concepts and practices of backend development. From setting up the backend ...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Full Stack Web Development Course Introduction\nLearn How The Backend Works\nLearn What is REST\nLearn MVC Explained in 4 Minutes\nLearn Project Setup Node js Express MongoDB Course 1\nLearn Author s Index Create New Routes Node js Express MongoDB Course 2\nLearn Books Index Create New Routes Node js Express MongoDB Course 3\nLearn File Upload Setup Node js Express MongoDB Course 4\nLearn Authors Show Edit Update Delete Routes Node js Express MongoDB Course 5\nLearn Finish Backend Node js Express MongoDB Course 6\nLearn General CSS Styles Node js Express MongoDB Course 7\nLearn Form CSS Styles Node js Express MongoDB Course 8\nLearn Finish Project Node js Express MongoDB Course 9",
+            "course_target_audience": "Students interested in Web-Design",
+            "course_duration": {
+                "hours": 4,
+                "minutes": 30
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            144
+        ],
+        "thumbnail_id": 24238,
+        "video": null
+    },
+    "course_id": 24239,
+    "topic_id": 24240,
+    "lessons": [
+        {
+            "title": "Full Stack Web Development Course Introduction",
+            "link": "https://www.mindluster.com/lesson/228491-video",
+            "duration": "00:01:15"
+        },
+        {
+            "title": "How The Backend Works",
+            "link": "https://www.mindluster.com/lesson/228492-video",
+            "duration": "00:04:14"
+        },
+        {
+            "title": "What is REST",
+            "link": "https://www.mindluster.com/lesson/228493-video",
+            "duration": "00:03:24"
+        },
+        {
+            "title": "MVC Explained in 4 Minutes",
+            "link": "https://www.mindluster.com/lesson/228494-video",
+            "duration": "00:04:13"
+        },
+        {
+            "title": "Project Setup Node js Express MongoDB Course 1",
+            "link": "https://www.mindluster.com/lesson/228495-video",
+            "duration": "00:23:29"
+        },
+        {
+            "title": "Author s Index Create New Routes Node js Express MongoDB Course 2",
+            "link": "https://www.mindluster.com/lesson/228496-video",
+            "duration": "00:34:17"
+        },
+        {
+            "title": "Books Index Create New Routes Node js Express MongoDB Course 3",
+            "link": "https://www.mindluster.com/lesson/228497-video",
+            "duration": "00:49:31"
+        },
+        {
+            "title": "File Upload Setup Node js Express MongoDB Course 4",
+            "link": "https://www.mindluster.com/lesson/228498-video",
+            "duration": "00:19:24"
+        },
+        {
+            "title": "Authors Show Edit Update Delete Routes Node js Express MongoDB Course 5",
+            "link": "https://www.mindluster.com/lesson/228499-video",
+            "duration": "00:30:56"
+        },
+        {
+            "title": "Finish Backend Node js Express MongoDB Course 6",
+            "link": "https://www.mindluster.com/lesson/228500-video",
+            "duration": "00:21:18"
+        },
+        {
+            "title": "General CSS Styles Node js Express MongoDB Course 7",
+            "link": "https://www.mindluster.com/lesson/228501-video",
+            "duration": "00:28:10"
+        },
+        {
+            "title": "Form CSS Styles Node js Express MongoDB Course 8",
+            "link": "https://www.mindluster.com/lesson/228502-video",
+            "duration": "00:23:43"
+        },
+        {
+            "title": "Finish Project Node js Express MongoDB Course 9",
+            "link": "https://www.mindluster.com/lesson/228503-video",
+            "duration": "00:26:57"
+        }
+    ]
+}

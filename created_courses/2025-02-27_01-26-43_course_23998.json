@@ -1,0 +1,401 @@
+{
+    "source_data": {
+        "course_name": "Play piano",
+        "category": "Music",
+        "lesson_count": "36",
+        "description": "Play piano: In this course, you'll embark on an exciting musical journey, Learn essential techniques, music theory, and masterpieces that will help you play piano with confidence and expressiveness.",
+        "lessons": [
+            {
+                "title": "All the basic piano chords in one epic tutorial",
+                "link": "https://www.mindluster.com/lesson/189283-video",
+                "duration": "00:20:44"
+            },
+            {
+                "title": "How to work out the chords to a song on the piano",
+                "link": "https://www.mindluster.com/lesson/189284-video",
+                "duration": "00:24:45"
+            },
+            {
+                "title": "How to use broken chords to create a cool complex pop piano sequence",
+                "link": "https://www.mindluster.com/lesson/189285-video",
+                "duration": "00:14:51"
+            },
+            {
+                "title": "An easy way to create cool piano chords great for improvisers songwriters and piano learners",
+                "link": "https://www.mindluster.com/lesson/189286-video",
+                "duration": "00:15:40"
+            },
+            {
+                "title": "Choosing and using piano chord fingerings",
+                "link": "https://www.mindluster.com/lesson/189287-video",
+                "duration": "00:11:17"
+            },
+            {
+                "title": "Practising 1 4 5 piano chords",
+                "link": "https://www.mindluster.com/lesson/189288-video",
+                "duration": "00:12:09"
+            },
+            {
+                "title": "Chord voicings and inversions explained on the piano",
+                "link": "https://www.mindluster.com/lesson/189289-video",
+                "duration": "00:11:30"
+            },
+            {
+                "title": "Learning piano chords in difficult keys",
+                "link": "https://www.mindluster.com/lesson/189290-video",
+                "duration": "00:11:30"
+            },
+            {
+                "title": "Tips on piano chord voicings",
+                "link": "https://www.mindluster.com/lesson/189291-video",
+                "duration": "00:11:46"
+            },
+            {
+                "title": "Play a ballad style piano improvisation using a simple chord progression",
+                "link": "https://www.mindluster.com/lesson/189292-video",
+                "duration": "00:22:57"
+            },
+            {
+                "title": "Cocktail piano tutorial how to enrich a chord progression",
+                "link": "https://www.mindluster.com/lesson/189293-video",
+                "duration": "00:18:23"
+            },
+            {
+                "title": "How to play smooth right hand chords",
+                "link": "https://www.mindluster.com/lesson/189294-video",
+                "duration": "00:08:19"
+            },
+            {
+                "title": "How to create a chord progression on the piano for songwriting or improvisation",
+                "link": "https://www.mindluster.com/lesson/189295-video",
+                "duration": "00:21:39"
+            },
+            {
+                "title": "Learning piano chord positions plus a pentatonic tip",
+                "link": "https://www.mindluster.com/lesson/189296-video",
+                "duration": "00:09:37"
+            },
+            {
+                "title": "Ballad style pop piano improvising on broken chords in a simple progression",
+                "link": "https://www.mindluster.com/lesson/189297-video",
+                "duration": "00:10:58"
+            },
+            {
+                "title": "Improve your piano skills with broken chord exercises",
+                "link": "https://www.mindluster.com/lesson/189298-video",
+                "duration": "00:10:27"
+            },
+            {
+                "title": "A pop piano improvisation walkthrough with chord progression",
+                "link": "https://www.mindluster.com/lesson/189299-video",
+                "duration": "00:16:57"
+            },
+            {
+                "title": "Improve your cocktail jazz and blues piano with passing chords extensions and substitutions",
+                "link": "https://www.mindluster.com/lesson/189300-video",
+                "duration": "00:11:56"
+            },
+            {
+                "title": "Working with non diatonic chords in progressions",
+                "link": "https://www.mindluster.com/lesson/189301-video",
+                "duration": "00:11:18"
+            },
+            {
+                "title": "Extending piano chords in a simple progression",
+                "link": "https://www.mindluster.com/lesson/189302-video",
+                "duration": "00:12:11"
+            },
+            {
+                "title": "Choosing chord inversions in a comp",
+                "link": "https://www.mindluster.com/lesson/189303-video",
+                "duration": "00:11:12"
+            },
+            {
+                "title": "Two chord piano improvisation exercise",
+                "link": "https://www.mindluster.com/lesson/189304-video",
+                "duration": "00:07:18"
+            },
+            {
+                "title": "A stride piano tutorial with chord based improvisation in the right great for jazz piano beginners",
+                "link": "https://www.mindluster.com/lesson/189305-video",
+                "duration": "00:16:48"
+            },
+            {
+                "title": "A close look at some piano comps",
+                "link": "https://www.mindluster.com/lesson/189306-video",
+                "duration": "00:13:10"
+            },
+            {
+                "title": "Piano broken chords for the left hand",
+                "link": "https://www.mindluster.com/lesson/189307-video",
+                "duration": "00:07:40"
+            },
+            {
+                "title": "Piano chords for beginners learn four chords to play hundreds of songs",
+                "link": "https://www.mindluster.com/lesson/189308-video",
+                "duration": "00:16:02"
+            },
+            {
+                "title": "How Do I Choose Non Diatonic Chords For Progressions || Piano Questions Answered",
+                "link": "https://www.mindluster.com/lesson/189309-video",
+                "duration": "00:28:45"
+            },
+            {
+                "title": "Seventh Chords Explained || Piano Questions Answered",
+                "link": "https://www.mindluster.com/lesson/189310-video",
+                "duration": "00:21:03"
+            },
+            {
+                "title": "How To Find The Chords Of A Key Essential Music Theory || Piano Questions Answered",
+                "link": "https://www.mindluster.com/lesson/189311-video",
+                "duration": "00:22:00"
+            },
+            {
+                "title": "Master The 1 4 And 5 Chords Of Every Key With This Simple Exercise",
+                "link": "https://www.mindluster.com/lesson/189312-video",
+                "duration": "00:21:19"
+            },
+            {
+                "title": "Modulation Made Easy \u2014 Eight Quick Key Changes Explained",
+                "link": "https://www.mindluster.com/lesson/189313-video",
+                "duration": "00:34:29"
+            },
+            {
+                "title": "How to Write Chord Progressions with Extended Chords Secondary Dominants and Chromatic Mediants",
+                "link": "https://www.mindluster.com/lesson/189314-video",
+                "duration": "00:40:25"
+            },
+            {
+                "title": "Six Piano Broken Chord And Arpeggio Techniques You Need To Know",
+                "link": "https://www.mindluster.com/lesson/189315-video",
+                "duration": "00:22:24"
+            },
+            {
+                "title": "What Are The Best Chord Voicings Open vs Closed Inversions Extensions And More",
+                "link": "https://www.mindluster.com/lesson/189316-video",
+                "duration": "00:23:59"
+            },
+            {
+                "title": "Why I Love The Subdominant Chord And You Should Too",
+                "link": "https://www.mindluster.com/lesson/189317-video",
+                "duration": "00:17:20"
+            },
+            {
+                "title": "Improvise the 1 5 6 4 Chord Progression in B MAJOR piano chords tutorial",
+                "link": "https://www.mindluster.com/lesson/189318-video",
+                "duration": "00:18:04"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/189283-video",
+        "thumbnail": "https://img.youtube.com/vi/C1i-cFx7__M/hqdefault.jpg",
+        "thumbnail_id": 23997
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Play piano: In this course, you'll embark on an exciting musical journey, Learn essential techniques, music theory, and masterpieces that will help you play piano with confidence and expressiveness.",
+        "post_title": "Play piano",
+        "post_excerpt": "Play piano: In this course, you'll embark on an exciting musical journey, Learn essential techniques, music theory, and masterpieces that will help you pla...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn All the basic piano chords in one epic tutorial\nLearn How to work out the chords to a song on the piano\nLearn How to use broken chords to create a cool complex pop piano sequence\nLearn An easy way to create cool piano chords great for improvisers songwriters and piano learners\nLearn Choosing and using piano chord fingerings\nLearn Practising 1 4 5 piano chords\nLearn Chord voicings and inversions explained on the piano\nLearn Learning piano chords in difficult keys\nLearn Tips on piano chord voicings\nLearn Play a ballad style piano improvisation using a simple chord progression\nLearn Cocktail piano tutorial how to enrich a chord progression\nLearn How to play smooth right hand chords\nLearn How to create a chord progression on the piano for songwriting or improvisation\nLearn Learning piano chord positions plus a pentatonic tip\nLearn Ballad style pop piano improvising on broken chords in a simple progression\nLearn Improve your piano skills with broken chord exercises\nLearn A pop piano improvisation walkthrough with chord progression\nLearn Improve your cocktail jazz and blues piano with passing chords extensions and substitutions\nLearn Working with non diatonic chords in progressions\nLearn Extending piano chords in a simple progression\nLearn Choosing chord inversions in a comp\nLearn Two chord piano improvisation exercise\nLearn A stride piano tutorial with chord based improvisation in the right great for jazz piano beginners\nLearn A close look at some piano comps\nLearn Piano broken chords for the left hand\nLearn Piano chords for beginners learn four chords to play hundreds of songs\nLearn How Do I Choose Non Diatonic Chords For Progressions || Piano Questions Answered\nLearn Seventh Chords Explained || Piano Questions Answered\nLearn How To Find The Chords Of A Key Essential Music Theory || Piano Questions Answered\nLearn Master The 1 4 And 5 Chords Of Every Key With This Simple Exercise\nLearn Modulation Made Easy \u2014 Eight Quick Key Changes Explained\nLearn How to Write Chord Progressions with Extended Chords Secondary Dominants and Chromatic Mediants\nLearn Six Piano Broken Chord And Arpeggio Techniques You Need To Know\nLearn What Are The Best Chord Voicings Open vs Closed Inversions Extensions And More\nLearn Why I Love The Subdominant Chord And You Should Too\nLearn Improvise the 1 5 6 4 Chord Progression in B MAJOR piano chords tutorial",
+            "course_target_audience": "Students interested in Music",
+            "course_duration": {
+                "hours": 10,
+                "minutes": 10
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            140
+        ],
+        "thumbnail_id": 23997,
+        "video": null
+    },
+    "course_id": 23998,
+    "topic_id": 23999,
+    "lessons": [
+        {
+            "title": "All the basic piano chords in one epic tutorial",
+            "link": "https://www.mindluster.com/lesson/189283-video",
+            "duration": "00:20:44"
+        },
+        {
+            "title": "How to work out the chords to a song on the piano",
+            "link": "https://www.mindluster.com/lesson/189284-video",
+            "duration": "00:24:45"
+        },
+        {
+            "title": "How to use broken chords to create a cool complex pop piano sequence",
+            "link": "https://www.mindluster.com/lesson/189285-video",
+            "duration": "00:14:51"
+        },
+        {
+            "title": "An easy way to create cool piano chords great for improvisers songwriters and piano learners",
+            "link": "https://www.mindluster.com/lesson/189286-video",
+            "duration": "00:15:40"
+        },
+        {
+            "title": "Choosing and using piano chord fingerings",
+            "link": "https://www.mindluster.com/lesson/189287-video",
+            "duration": "00:11:17"
+        },
+        {
+            "title": "Practising 1 4 5 piano chords",
+            "link": "https://www.mindluster.com/lesson/189288-video",
+            "duration": "00:12:09"
+        },
+        {
+            "title": "Chord voicings and inversions explained on the piano",
+            "link": "https://www.mindluster.com/lesson/189289-video",
+            "duration": "00:11:30"
+        },
+        {
+            "title": "Learning piano chords in difficult keys",
+            "link": "https://www.mindluster.com/lesson/189290-video",
+            "duration": "00:11:30"
+        },
+        {
+            "title": "Tips on piano chord voicings",
+            "link": "https://www.mindluster.com/lesson/189291-video",
+            "duration": "00:11:46"
+        },
+        {
+            "title": "Play a ballad style piano improvisation using a simple chord progression",
+            "link": "https://www.mindluster.com/lesson/189292-video",
+            "duration": "00:22:57"
+        },
+        {
+            "title": "Cocktail piano tutorial how to enrich a chord progression",
+            "link": "https://www.mindluster.com/lesson/189293-video",
+            "duration": "00:18:23"
+        },
+        {
+            "title": "How to play smooth right hand chords",
+            "link": "https://www.mindluster.com/lesson/189294-video",
+            "duration": "00:08:19"
+        },
+        {
+            "title": "How to create a chord progression on the piano for songwriting or improvisation",
+            "link": "https://www.mindluster.com/lesson/189295-video",
+            "duration": "00:21:39"
+        },
+        {
+            "title": "Learning piano chord positions plus a pentatonic tip",
+            "link": "https://www.mindluster.com/lesson/189296-video",
+            "duration": "00:09:37"
+        },
+        {
+            "title": "Ballad style pop piano improvising on broken chords in a simple progression",
+            "link": "https://www.mindluster.com/lesson/189297-video",
+            "duration": "00:10:58"
+        },
+        {
+            "title": "Improve your piano skills with broken chord exercises",
+            "link": "https://www.mindluster.com/lesson/189298-video",
+            "duration": "00:10:27"
+        },
+        {
+            "title": "A pop piano improvisation walkthrough with chord progression",
+            "link": "https://www.mindluster.com/lesson/189299-video",
+            "duration": "00:16:57"
+        },
+        {
+            "title": "Improve your cocktail jazz and blues piano with passing chords extensions and substitutions",
+            "link": "https://www.mindluster.com/lesson/189300-video",
+            "duration": "00:11:56"
+        },
+        {
+            "title": "Working with non diatonic chords in progressions",
+            "link": "https://www.mindluster.com/lesson/189301-video",
+            "duration": "00:11:18"
+        },
+        {
+            "title": "Extending piano chords in a simple progression",
+            "link": "https://www.mindluster.com/lesson/189302-video",
+            "duration": "00:12:11"
+        },
+        {
+            "title": "Choosing chord inversions in a comp",
+            "link": "https://www.mindluster.com/lesson/189303-video",
+            "duration": "00:11:12"
+        },
+        {
+            "title": "Two chord piano improvisation exercise",
+            "link": "https://www.mindluster.com/lesson/189304-video",
+            "duration": "00:07:18"
+        },
+        {
+            "title": "A stride piano tutorial with chord based improvisation in the right great for jazz piano beginners",
+            "link": "https://www.mindluster.com/lesson/189305-video",
+            "duration": "00:16:48"
+        },
+        {
+            "title": "A close look at some piano comps",
+            "link": "https://www.mindluster.com/lesson/189306-video",
+            "duration": "00:13:10"
+        },
+        {
+            "title": "Piano broken chords for the left hand",
+            "link": "https://www.mindluster.com/lesson/189307-video",
+            "duration": "00:07:40"
+        },
+        {
+            "title": "Piano chords for beginners learn four chords to play hundreds of songs",
+            "link": "https://www.mindluster.com/lesson/189308-video",
+            "duration": "00:16:02"
+        },
+        {
+            "title": "How Do I Choose Non Diatonic Chords For Progressions || Piano Questions Answered",
+            "link": "https://www.mindluster.com/lesson/189309-video",
+            "duration": "00:28:45"
+        },
+        {
+            "title": "Seventh Chords Explained || Piano Questions Answered",
+            "link": "https://www.mindluster.com/lesson/189310-video",
+            "duration": "00:21:03"
+        },
+        {
+            "title": "How To Find The Chords Of A Key Essential Music Theory || Piano Questions Answered",
+            "link": "https://www.mindluster.com/lesson/189311-video",
+            "duration": "00:22:00"
+        },
+        {
+            "title": "Master The 1 4 And 5 Chords Of Every Key With This Simple Exercise",
+            "link": "https://www.mindluster.com/lesson/189312-video",
+            "duration": "00:21:19"
+        },
+        {
+            "title": "Modulation Made Easy \u2014 Eight Quick Key Changes Explained",
+            "link": "https://www.mindluster.com/lesson/189313-video",
+            "duration": "00:34:29"
+        },
+        {
+            "title": "How to Write Chord Progressions with Extended Chords Secondary Dominants and Chromatic Mediants",
+            "link": "https://www.mindluster.com/lesson/189314-video",
+            "duration": "00:40:25"
+        },
+        {
+            "title": "Six Piano Broken Chord And Arpeggio Techniques You Need To Know",
+            "link": "https://www.mindluster.com/lesson/189315-video",
+            "duration": "00:22:24"
+        },
+        {
+            "title": "What Are The Best Chord Voicings Open vs Closed Inversions Extensions And More",
+            "link": "https://www.mindluster.com/lesson/189316-video",
+            "duration": "00:23:59"
+        },
+        {
+            "title": "Why I Love The Subdominant Chord And You Should Too",
+            "link": "https://www.mindluster.com/lesson/189317-video",
+            "duration": "00:17:20"
+        },
+        {
+            "title": "Improvise the 1 5 6 4 Chord Progression in B MAJOR piano chords tutorial",
+            "link": "https://www.mindluster.com/lesson/189318-video",
+            "duration": "00:18:04"
+        }
+    ]
+}

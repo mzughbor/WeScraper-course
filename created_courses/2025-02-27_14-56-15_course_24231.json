@@ -1,0 +1,91 @@
+{
+    "source_data": {
+        "course_name": "JavaScript ES6 Modules",
+        "category": "Web-Design",
+        "lesson_count": "5",
+        "description": "JavaScript ES6 Modules course, in this course we will learn about the JavaScript ES6 Modules, a feature introduced in ECMAScript 2015 for organizing and structuring JavaScript code into reusable components. You'll explore how to export and import modules, understand the differences between default exports and named exports, and utilize advanced techniques such as re-exports and dynamic imports. Additionally, you'll learn about module syntax, interoperability with CommonJS and AMD, and best practices for organizing and managing modular code in JavaScript applications. By the end of the course, you'll have the skills to effectively leverage ES6 modules to build modular, maintainable, and scalable JavaScript applications.",
+        "lessons": [
+            {
+                "title": "JavaScript Promises In 10 Minutes",
+                "link": "https://www.mindluster.com/lesson/228645-video",
+                "duration": "00:11:31"
+            },
+            {
+                "title": "8 Must Know JavaScript Array Methods",
+                "link": "https://www.mindluster.com/lesson/228646-video",
+                "duration": "00:10:05"
+            },
+            {
+                "title": "JavaScript ES6 Arrow Functions Tutorial",
+                "link": "https://www.mindluster.com/lesson/228647-video",
+                "duration": "00:09:32"
+            },
+            {
+                "title": "JavaScript ES6 Modules",
+                "link": "https://www.mindluster.com/lesson/228648-video",
+                "duration": "00:07:39"
+            },
+            {
+                "title": "Why Is Array Object Destructuring So Useful And How To Use It",
+                "link": "https://www.mindluster.com/lesson/228649-video",
+                "duration": "00:13:24"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/228645-video",
+        "thumbnail": "https://img.youtube.com/vi/DHvZLI7Db8E/hqdefault.jpg",
+        "thumbnail_id": 24230
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "JavaScript ES6 Modules course, in this course we will learn about the JavaScript ES6 Modules, a feature introduced in ECMAScript 2015 for organizing and structuring JavaScript code into reusable components. You'll explore how to export and import modules, understand the differences between default exports and named exports, and utilize advanced techniques such as re-exports and dynamic imports. Additionally, you'll learn about module syntax, interoperability with CommonJS and AMD, and best practices for organizing and managing modular code in JavaScript applications. By the end of the course, you'll have the skills to effectively leverage ES6 modules to build modular, maintainable, and scalable JavaScript applications.",
+        "post_title": "JavaScript ES6 Modules",
+        "post_excerpt": "JavaScript ES6 Modules course, in this course we will learn about the JavaScript ES6 Modules, a feature introduced in ECMAScript 2015 for organizing and st...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn JavaScript Promises In 10 Minutes\nLearn 8 Must Know JavaScript Array Methods\nLearn JavaScript ES6 Arrow Functions Tutorial\nLearn JavaScript ES6 Modules\nLearn Why Is Array Object Destructuring So Useful And How To Use It",
+            "course_target_audience": "Students interested in Web-Design",
+            "course_duration": {
+                "hours": 0,
+                "minutes": 52
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            144
+        ],
+        "thumbnail_id": 24230,
+        "video": null
+    },
+    "course_id": 24231,
+    "topic_id": 24232,
+    "lessons": [
+        {
+            "title": "JavaScript Promises In 10 Minutes",
+            "link": "https://www.mindluster.com/lesson/228645-video",
+            "duration": "00:11:31"
+        },
+        {
+            "title": "8 Must Know JavaScript Array Methods",
+            "link": "https://www.mindluster.com/lesson/228646-video",
+            "duration": "00:10:05"
+        },
+        {
+            "title": "JavaScript ES6 Arrow Functions Tutorial",
+            "link": "https://www.mindluster.com/lesson/228647-video",
+            "duration": "00:09:32"
+        },
+        {
+            "title": "JavaScript ES6 Modules",
+            "link": "https://www.mindluster.com/lesson/228648-video",
+            "duration": "00:07:39"
+        },
+        {
+            "title": "Why Is Array Object Destructuring So Useful And How To Use It",
+            "link": "https://www.mindluster.com/lesson/228649-video",
+            "duration": "00:13:24"
+        }
+    ]
+}

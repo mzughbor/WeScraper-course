@@ -1,0 +1,221 @@
+{
+    "source_data": {
+        "course_name": "CSS Hover Animation Techniques",
+        "category": "Web-Design",
+        "lesson_count": "18",
+        "description": "CSS Hover Animation course, in this course covers techniques to add engaging hover effects to web elements using CSS. Through practical examples and tutorials, students will learn how to create animations that trigger when users hover over buttons, links, images, and other elements. Topics include CSS transitions, keyframes, and advanced animation techniques to enhance user experience and interactivity on websites. By the end of the course, participants will have the skills to implement captivating hover animations to make their websites more visually appealing and dynamic.",
+        "lessons": [
+            {
+                "title": "Can I Create This Tricky CSS Vertical Timeline",
+                "link": "https://www.mindluster.com/lesson/228260-video",
+                "duration": "00:45:34"
+            },
+            {
+                "title": "Can I Create This Tricky CSS Button Animation",
+                "link": "https://www.mindluster.com/lesson/228261-video",
+                "duration": "00:46:15"
+            },
+            {
+                "title": "Can I Create This Tricky Animated CSS Sidebar",
+                "link": "https://www.mindluster.com/lesson/228262-video",
+                "duration": "01:01:37"
+            },
+            {
+                "title": "Can I Create This Simple CSS Hover Animation",
+                "link": "https://www.mindluster.com/lesson/228263-video",
+                "duration": "00:41:41"
+            },
+            {
+                "title": "Can I Create Accessible CSS Toggle Buttons",
+                "link": "https://www.mindluster.com/lesson/228264-video",
+                "duration": "00:24:14"
+            },
+            {
+                "title": "Can I Create This Complex Animated Multistep Form",
+                "link": "https://www.mindluster.com/lesson/228265-video",
+                "duration": "00:39:42"
+            },
+            {
+                "title": "Can I Create A Complete Toast Notification Library",
+                "link": "https://www.mindluster.com/lesson/228266-video",
+                "duration": "01:24:19"
+            },
+            {
+                "title": "Can I Create Online Tutorial s Magic CSS Indicator",
+                "link": "https://www.mindluster.com/lesson/228267-video",
+                "duration": "01:04:16"
+            },
+            {
+                "title": "Can I Create Netflix s Video Carousel UI",
+                "link": "https://www.mindluster.com/lesson/228268-video",
+                "duration": "01:01:10"
+            },
+            {
+                "title": "Can I Replicate This Amazing Library",
+                "link": "https://www.mindluster.com/lesson/228269-video",
+                "duration": "01:10:15"
+            },
+            {
+                "title": "Can I Create This Complex 3D Countdown Timer Animation",
+                "link": "https://www.mindluster.com/lesson/228270-video",
+                "duration": "00:55:04"
+            },
+            {
+                "title": "Can I Create This Typing Animation Using TypeScript",
+                "link": "https://www.mindluster.com/lesson/228271-video",
+                "duration": "00:27:18"
+            },
+            {
+                "title": "Can I Create A Deck Of Cards With CSS",
+                "link": "https://www.mindluster.com/lesson/228272-video",
+                "duration": "01:00:40"
+            },
+            {
+                "title": "Can I Create This Tricky Animated CSS Review Card",
+                "link": "https://www.mindluster.com/lesson/228273-video",
+                "duration": "01:13:37"
+            },
+            {
+                "title": "I Must Redeem Myself",
+                "link": "https://www.mindluster.com/lesson/228274-video",
+                "duration": "00:36:53"
+            },
+            {
+                "title": "Can I Build A Simple Todo List Blindfolded",
+                "link": "https://www.mindluster.com/lesson/228275-video",
+                "duration": "00:09:06"
+            },
+            {
+                "title": "Can I Create This VERY Complex CSS Animation",
+                "link": "https://www.mindluster.com/lesson/228276-video",
+                "duration": "01:06:33"
+            },
+            {
+                "title": "A Fancy Box Shadow Trick Saved Me In This CSS Battle",
+                "link": "https://www.mindluster.com/lesson/228277-video",
+                "duration": "00:42:00"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/228260-video",
+        "thumbnail": "https://img.youtube.com/vi/VxNQqQGOdc8/hqdefault.jpg",
+        "thumbnail_id": 24254
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "CSS Hover Animation course, in this course covers techniques to add engaging hover effects to web elements using CSS. Through practical examples and tutorials, students will learn how to create animations that trigger when users hover over buttons, links, images, and other elements. Topics include CSS transitions, keyframes, and advanced animation techniques to enhance user experience and interactivity on websites. By the end of the course, participants will have the skills to implement captivating hover animations to make their websites more visually appealing and dynamic.",
+        "post_title": "CSS Hover Animation Techniques",
+        "post_excerpt": "CSS Hover Animation course, in this course covers techniques to add engaging hover effects to web elements using CSS. Through practical examples and tutori...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Can I Create This Tricky CSS Vertical Timeline\nLearn Can I Create This Tricky CSS Button Animation\nLearn Can I Create This Tricky Animated CSS Sidebar\nLearn Can I Create This Simple CSS Hover Animation\nLearn Can I Create Accessible CSS Toggle Buttons\nLearn Can I Create This Complex Animated Multistep Form\nLearn Can I Create A Complete Toast Notification Library\nLearn Can I Create Online Tutorial s Magic CSS Indicator\nLearn Can I Create Netflix s Video Carousel UI\nLearn Can I Replicate This Amazing Library\nLearn Can I Create This Complex 3D Countdown Timer Animation\nLearn Can I Create This Typing Animation Using TypeScript\nLearn Can I Create A Deck Of Cards With CSS\nLearn Can I Create This Tricky Animated CSS Review Card\nLearn I Must Redeem Myself\nLearn Can I Build A Simple Todo List Blindfolded\nLearn Can I Create This VERY Complex CSS Animation\nLearn A Fancy Box Shadow Trick Saved Me In This CSS Battle",
+            "course_target_audience": "Students interested in Web-Design",
+            "course_duration": {
+                "hours": 15,
+                "minutes": 10
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            144
+        ],
+        "thumbnail_id": 24254,
+        "video": null
+    },
+    "course_id": 24255,
+    "topic_id": 24256,
+    "lessons": [
+        {
+            "title": "Can I Create This Tricky CSS Vertical Timeline",
+            "link": "https://www.mindluster.com/lesson/228260-video",
+            "duration": "00:45:34"
+        },
+        {
+            "title": "Can I Create This Tricky CSS Button Animation",
+            "link": "https://www.mindluster.com/lesson/228261-video",
+            "duration": "00:46:15"
+        },
+        {
+            "title": "Can I Create This Tricky Animated CSS Sidebar",
+            "link": "https://www.mindluster.com/lesson/228262-video",
+            "duration": "01:01:37"
+        },
+        {
+            "title": "Can I Create This Simple CSS Hover Animation",
+            "link": "https://www.mindluster.com/lesson/228263-video",
+            "duration": "00:41:41"
+        },
+        {
+            "title": "Can I Create Accessible CSS Toggle Buttons",
+            "link": "https://www.mindluster.com/lesson/228264-video",
+            "duration": "00:24:14"
+        },
+        {
+            "title": "Can I Create This Complex Animated Multistep Form",
+            "link": "https://www.mindluster.com/lesson/228265-video",
+            "duration": "00:39:42"
+        },
+        {
+            "title": "Can I Create A Complete Toast Notification Library",
+            "link": "https://www.mindluster.com/lesson/228266-video",
+            "duration": "01:24:19"
+        },
+        {
+            "title": "Can I Create Online Tutorial s Magic CSS Indicator",
+            "link": "https://www.mindluster.com/lesson/228267-video",
+            "duration": "01:04:16"
+        },
+        {
+            "title": "Can I Create Netflix s Video Carousel UI",
+            "link": "https://www.mindluster.com/lesson/228268-video",
+            "duration": "01:01:10"
+        },
+        {
+            "title": "Can I Replicate This Amazing Library",
+            "link": "https://www.mindluster.com/lesson/228269-video",
+            "duration": "01:10:15"
+        },
+        {
+            "title": "Can I Create This Complex 3D Countdown Timer Animation",
+            "link": "https://www.mindluster.com/lesson/228270-video",
+            "duration": "00:55:04"
+        },
+        {
+            "title": "Can I Create This Typing Animation Using TypeScript",
+            "link": "https://www.mindluster.com/lesson/228271-video",
+            "duration": "00:27:18"
+        },
+        {
+            "title": "Can I Create A Deck Of Cards With CSS",
+            "link": "https://www.mindluster.com/lesson/228272-video",
+            "duration": "01:00:40"
+        },
+        {
+            "title": "Can I Create This Tricky Animated CSS Review Card",
+            "link": "https://www.mindluster.com/lesson/228273-video",
+            "duration": "01:13:37"
+        },
+        {
+            "title": "I Must Redeem Myself",
+            "link": "https://www.mindluster.com/lesson/228274-video",
+            "duration": "00:36:53"
+        },
+        {
+            "title": "Can I Build A Simple Todo List Blindfolded",
+            "link": "https://www.mindluster.com/lesson/228275-video",
+            "duration": "00:09:06"
+        },
+        {
+            "title": "Can I Create This VERY Complex CSS Animation",
+            "link": "https://www.mindluster.com/lesson/228276-video",
+            "duration": "01:06:33"
+        },
+        {
+            "title": "A Fancy Box Shadow Trick Saved Me In This CSS Battle",
+            "link": "https://www.mindluster.com/lesson/228277-video",
+            "duration": "00:42:00"
+        }
+    ]
+}

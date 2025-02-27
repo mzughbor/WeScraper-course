@@ -1,0 +1,421 @@
+{
+    "source_data": {
+        "course_name": "Fitness Yoga",
+        "category": "woman-and-Beauty",
+        "lesson_count": "38",
+        "description": "In the Fitness & Yoga course, we will explore the perfect blend of fitness and yoga practices to enhance overall well-being. Discover the benefits of combining strength training, cardio exercises, and yoga to improve strength, flexibility, endurance, and mindfulness. With a focus on functional movements and mindful transitions, this course offers a holistic approach to fitness. Learn effective workout routines, yoga flows, and relaxation techniques that promote physical fitness and mental clarity. Join us to experience the synergy of fitness and yoga for a balanced and energizing approach to a healthier lifestyle. Boho Beautiful Yoga",
+        "lessons": [
+            {
+                "title": "Pilates 21 Day Challenge  Full Body Workout For Results",
+                "link": "https://www.mindluster.com/lesson/269569-video",
+                "duration": "00:25:22"
+            },
+            {
+                "title": "10 Minute Abs Workout ABS IN TEN DAYS CHALLENGE For Lower Belly Fat",
+                "link": "https://www.mindluster.com/lesson/269570-video",
+                "duration": "00:14:01"
+            },
+            {
+                "title": "Challenge Your Waistline  Abs Core Workout Plan",
+                "link": "https://www.mindluster.com/lesson/269571-video",
+                "duration": "00:12:16"
+            },
+            {
+                "title": "The Ultimate Pilates 21 Day Challenge  Define Your Abs Booty",
+                "link": "https://www.mindluster.com/lesson/269572-video",
+                "duration": "00:17:19"
+            },
+            {
+                "title": "Ultimate Butt Challenge  Glutes Hamstrings Quads Koh Kut",
+                "link": "https://www.mindluster.com/lesson/269573-video",
+                "duration": "00:21:38"
+            },
+            {
+                "title": "Front Middle Splits In 14 Days Yoga Splits Challenge For INCREDIBLE FLEXIBILITY",
+                "link": "https://www.mindluster.com/lesson/269574-video",
+                "duration": "00:27:36"
+            },
+            {
+                "title": "Best Yoga Workout Challenge  Summer Body in 2 Weeks Cusco Peru",
+                "link": "https://www.mindluster.com/lesson/269575-video",
+                "duration": "00:14:09"
+            },
+            {
+                "title": "Pilates Workout Challenge  Get Ready For Summer In 14 Days Padar Island",
+                "link": "https://www.mindluster.com/lesson/269576-video",
+                "duration": "00:19:30"
+            },
+            {
+                "title": "Full Body Yoga Workout To Feel Alive 7 Day Challenge For Isolated Times",
+                "link": "https://www.mindluster.com/lesson/269577-video",
+                "duration": "00:15:20"
+            },
+            {
+                "title": "How To Get The Splits  Yoga For Full Splits 30 Day Challenge",
+                "link": "https://www.mindluster.com/lesson/269578-video",
+                "duration": "00:13:53"
+            },
+            {
+                "title": "Best 5 Min Plank Workout For Tighter Waist Quick Ten Day Abs Challenge Who s In",
+                "link": "https://www.mindluster.com/lesson/269579-video",
+                "duration": "00:08:01"
+            },
+            {
+                "title": "The Perfect Fitness Challenge  Perfect Days of Sweat Pt 1 Cardio Workout",
+                "link": "https://www.mindluster.com/lesson/269580-video",
+                "duration": "00:17:03"
+            },
+            {
+                "title": "Ultimate Pilates 14 Day Challenge Define Your Abs Core FREE schedule",
+                "link": "https://www.mindluster.com/lesson/269581-video",
+                "duration": "00:14:30"
+            },
+            {
+                "title": "Fit Body Challenge  Perfect Days of Sweat Pt 2 Fitness Workout",
+                "link": "https://www.mindluster.com/lesson/269582-video",
+                "duration": "00:16:02"
+            },
+            {
+                "title": "14 Day Leg Inner Thigh Challenge  This Workout s Results Do Jane Fonda Proud",
+                "link": "https://www.mindluster.com/lesson/269583-video",
+                "duration": "00:12:38"
+            },
+            {
+                "title": "25 Min Yin Yoga Class 7 Day Yin Yoga Exploration Challenge",
+                "link": "https://www.mindluster.com/lesson/269584-video",
+                "duration": "00:29:04"
+            },
+            {
+                "title": "Ultimate Workout Challenge  Abs Legs Butt",
+                "link": "https://www.mindluster.com/lesson/269585-video",
+                "duration": "00:14:46"
+            },
+            {
+                "title": "Brazilian Butt Lift Challenge  The Perfect Butt Workout",
+                "link": "https://www.mindluster.com/lesson/269586-video",
+                "duration": "00:14:48"
+            },
+            {
+                "title": "Yoga Workout Challenge 2020 2 Weeks To Incredible Results FREE Schedule",
+                "link": "https://www.mindluster.com/lesson/269587-video",
+                "duration": "00:18:23"
+            },
+            {
+                "title": "14 Day Booty Challenge For Glorious Results  Want To Tone Lift You Butt Let s Go",
+                "link": "https://www.mindluster.com/lesson/269588-video",
+                "duration": "00:13:21"
+            },
+            {
+                "title": "Yoga For Splits  Release Tight Hips Increase Leg Flexibility",
+                "link": "https://www.mindluster.com/lesson/269589-video",
+                "duration": "00:22:00"
+            },
+            {
+                "title": "15 MIN ABS YOGA WORKOUT Flat Stomach A Tighter Waistline \u27a4 7 DAY CHALLENGE",
+                "link": "https://www.mindluster.com/lesson/269590-video",
+                "duration": "00:18:39"
+            },
+            {
+                "title": "Yoga Workout HIIT Fusion 10 Day Challenge For AMAZING Total Body Results",
+                "link": "https://www.mindluster.com/lesson/269591-video",
+                "duration": "00:16:10"
+            },
+            {
+                "title": "10 Min Fat Burning Workout  One Week Cardio Challenge For Results",
+                "link": "https://www.mindluster.com/lesson/269592-video",
+                "duration": "00:12:10"
+            },
+            {
+                "title": "Pilates Workout Challenge  Best Ab Exercises For Results Joshua Tree",
+                "link": "https://www.mindluster.com/lesson/269593-video",
+                "duration": "00:20:34"
+            },
+            {
+                "title": "Pilates Butt Thigh Workout 10 Day Challenge For LOWER BODY RESULTS",
+                "link": "https://www.mindluster.com/lesson/269594-video",
+                "duration": "00:22:08"
+            },
+            {
+                "title": "30 MIN Full Body Workout Total Upper Body Summer Sculpt Tone",
+                "link": "https://www.mindluster.com/lesson/269595-video",
+                "duration": "00:39:20"
+            },
+            {
+                "title": "20 Min Arm Upper Body Workout For Definition Strength NO Equipment 14 Day Challenge",
+                "link": "https://www.mindluster.com/lesson/269596-video",
+                "duration": "00:21:52"
+            },
+            {
+                "title": "The 7 Day Blissful Body Bootcamp A FREE Fitness Program For Everyone",
+                "link": "https://www.mindluster.com/lesson/269597-video",
+                "duration": "00:00:50"
+            },
+            {
+                "title": "30 Min Yoga Workout For Results Full Body Tone Sculpt \u21d2 SUMMER WARRIOR",
+                "link": "https://www.mindluster.com/lesson/269598-video",
+                "duration": "00:32:11"
+            },
+            {
+                "title": "UNDENIABLE RESULTS \u21d2 In 15 Mins A Day For 7 Days The Blissful Body Bootcamp",
+                "link": "https://www.mindluster.com/lesson/269599-video",
+                "duration": "00:02:10"
+            },
+            {
+                "title": "QUICK EFFECTIVE 5 Min Arms Workout Upper Body Challenge For Amazing Results",
+                "link": "https://www.mindluster.com/lesson/269600-video",
+                "duration": "00:08:25"
+            },
+            {
+                "title": "30 Min Yoga Workout For RESULTS Toned Core Lower Body Definition Beautiful Flexibility",
+                "link": "https://www.mindluster.com/lesson/269601-video",
+                "duration": "00:34:42"
+            },
+            {
+                "title": "20 Min Yoga Workout For Weight Loss Full Body Toning Feel INCREDIBLE From The Inside Out",
+                "link": "https://www.mindluster.com/lesson/269602-video",
+                "duration": "00:22:11"
+            },
+            {
+                "title": "15 Min Yoga Workout Pilates Quick Full Body Tone Stretch Strengthen",
+                "link": "https://www.mindluster.com/lesson/269603-video",
+                "duration": "00:15:44"
+            },
+            {
+                "title": "15 Min Yoga Workout Tone Strength Stretch Your FULL BODY To Feel Phenomenal",
+                "link": "https://www.mindluster.com/lesson/269604-video",
+                "duration": "00:18:38"
+            },
+            {
+                "title": "20 Min Full Body Yoga Strengthen Stretch Blissfully Reboot Your Entire Mind Body",
+                "link": "https://www.mindluster.com/lesson/269605-video",
+                "duration": "00:24:31"
+            },
+            {
+                "title": "Pilates Booty Legs 15 MIN Workout To Sculpt Tone Your Glutes Beautifully",
+                "link": "https://www.mindluster.com/lesson/269606-video",
+                "duration": "00:18:53"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/269569-video",
+        "thumbnail": "https://img.youtube.com/vi/Dt2FyFYRmes/hqdefault.jpg",
+        "thumbnail_id": 24059
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "In the Fitness & Yoga course, we will explore the perfect blend of fitness and yoga practices to enhance overall well-being. Discover the benefits of combining strength training, cardio exercises, and yoga to improve strength, flexibility, endurance, and mindfulness. With a focus on functional movements and mindful transitions, this course offers a holistic approach to fitness. Learn effective workout routines, yoga flows, and relaxation techniques that promote physical fitness and mental clarity. Join us to experience the synergy of fitness and yoga for a balanced and energizing approach to a healthier lifestyle. Boho Beautiful Yoga",
+        "post_title": "Fitness Yoga",
+        "post_excerpt": "In the Fitness & Yoga course, we will explore the perfect blend of fitness and yoga practices to enhance overall well-being. Discover the benefits of combi...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Pilates 21 Day Challenge  Full Body Workout For Results\nLearn 10 Minute Abs Workout ABS IN TEN DAYS CHALLENGE For Lower Belly Fat\nLearn Challenge Your Waistline  Abs Core Workout Plan\nLearn The Ultimate Pilates 21 Day Challenge  Define Your Abs Booty\nLearn Ultimate Butt Challenge  Glutes Hamstrings Quads Koh Kut\nLearn Front Middle Splits In 14 Days Yoga Splits Challenge For INCREDIBLE FLEXIBILITY\nLearn Best Yoga Workout Challenge  Summer Body in 2 Weeks Cusco Peru\nLearn Pilates Workout Challenge  Get Ready For Summer In 14 Days Padar Island\nLearn Full Body Yoga Workout To Feel Alive 7 Day Challenge For Isolated Times\nLearn How To Get The Splits  Yoga For Full Splits 30 Day Challenge\nLearn Best 5 Min Plank Workout For Tighter Waist Quick Ten Day Abs Challenge Who s In\nLearn The Perfect Fitness Challenge  Perfect Days of Sweat Pt 1 Cardio Workout\nLearn Ultimate Pilates 14 Day Challenge Define Your Abs Core FREE schedule\nLearn Fit Body Challenge  Perfect Days of Sweat Pt 2 Fitness Workout\nLearn 14 Day Leg Inner Thigh Challenge  This Workout s Results Do Jane Fonda Proud\nLearn 25 Min Yin Yoga Class 7 Day Yin Yoga Exploration Challenge\nLearn Ultimate Workout Challenge  Abs Legs Butt\nLearn Brazilian Butt Lift Challenge  The Perfect Butt Workout\nLearn Yoga Workout Challenge 2020 2 Weeks To Incredible Results FREE Schedule\nLearn 14 Day Booty Challenge For Glorious Results  Want To Tone Lift You Butt Let s Go\nLearn Yoga For Splits  Release Tight Hips Increase Leg Flexibility\nLearn 15 MIN ABS YOGA WORKOUT Flat Stomach A Tighter Waistline \u27a4 7 DAY CHALLENGE\nLearn Yoga Workout HIIT Fusion 10 Day Challenge For AMAZING Total Body Results\nLearn 10 Min Fat Burning Workout  One Week Cardio Challenge For Results\nLearn Pilates Workout Challenge  Best Ab Exercises For Results Joshua Tree\nLearn Pilates Butt Thigh Workout 10 Day Challenge For LOWER BODY RESULTS\nLearn 30 MIN Full Body Workout Total Upper Body Summer Sculpt Tone\nLearn 20 Min Arm Upper Body Workout For Definition Strength NO Equipment 14 Day Challenge\nLearn The 7 Day Blissful Body Bootcamp A FREE Fitness Program For Everyone\nLearn 30 Min Yoga Workout For Results Full Body Tone Sculpt \u21d2 SUMMER WARRIOR\nLearn UNDENIABLE RESULTS \u21d2 In 15 Mins A Day For 7 Days The Blissful Body Bootcamp\nLearn QUICK EFFECTIVE 5 Min Arms Workout Upper Body Challenge For Amazing Results\nLearn 30 Min Yoga Workout For RESULTS Toned Core Lower Body Definition Beautiful Flexibility\nLearn 20 Min Yoga Workout For Weight Loss Full Body Toning Feel INCREDIBLE From The Inside Out\nLearn 15 Min Yoga Workout Pilates Quick Full Body Tone Stretch Strengthen\nLearn 15 Min Yoga Workout Tone Strength Stretch Your FULL BODY To Feel Phenomenal\nLearn 20 Min Full Body Yoga Strengthen Stretch Blissfully Reboot Your Entire Mind Body\nLearn Pilates Booty Legs 15 MIN Workout To Sculpt Tone Your Glutes Beautifully",
+            "course_target_audience": "Students interested in woman-and-Beauty",
+            "course_duration": {
+                "hours": 11,
+                "minutes": 30
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            141
+        ],
+        "thumbnail_id": 24059,
+        "video": null
+    },
+    "course_id": 24060,
+    "topic_id": 24061,
+    "lessons": [
+        {
+            "title": "Pilates 21 Day Challenge  Full Body Workout For Results",
+            "link": "https://www.mindluster.com/lesson/269569-video",
+            "duration": "00:25:22"
+        },
+        {
+            "title": "10 Minute Abs Workout ABS IN TEN DAYS CHALLENGE For Lower Belly Fat",
+            "link": "https://www.mindluster.com/lesson/269570-video",
+            "duration": "00:14:01"
+        },
+        {
+            "title": "Challenge Your Waistline  Abs Core Workout Plan",
+            "link": "https://www.mindluster.com/lesson/269571-video",
+            "duration": "00:12:16"
+        },
+        {
+            "title": "The Ultimate Pilates 21 Day Challenge  Define Your Abs Booty",
+            "link": "https://www.mindluster.com/lesson/269572-video",
+            "duration": "00:17:19"
+        },
+        {
+            "title": "Ultimate Butt Challenge  Glutes Hamstrings Quads Koh Kut",
+            "link": "https://www.mindluster.com/lesson/269573-video",
+            "duration": "00:21:38"
+        },
+        {
+            "title": "Front Middle Splits In 14 Days Yoga Splits Challenge For INCREDIBLE FLEXIBILITY",
+            "link": "https://www.mindluster.com/lesson/269574-video",
+            "duration": "00:27:36"
+        },
+        {
+            "title": "Best Yoga Workout Challenge  Summer Body in 2 Weeks Cusco Peru",
+            "link": "https://www.mindluster.com/lesson/269575-video",
+            "duration": "00:14:09"
+        },
+        {
+            "title": "Pilates Workout Challenge  Get Ready For Summer In 14 Days Padar Island",
+            "link": "https://www.mindluster.com/lesson/269576-video",
+            "duration": "00:19:30"
+        },
+        {
+            "title": "Full Body Yoga Workout To Feel Alive 7 Day Challenge For Isolated Times",
+            "link": "https://www.mindluster.com/lesson/269577-video",
+            "duration": "00:15:20"
+        },
+        {
+            "title": "How To Get The Splits  Yoga For Full Splits 30 Day Challenge",
+            "link": "https://www.mindluster.com/lesson/269578-video",
+            "duration": "00:13:53"
+        },
+        {
+            "title": "Best 5 Min Plank Workout For Tighter Waist Quick Ten Day Abs Challenge Who s In",
+            "link": "https://www.mindluster.com/lesson/269579-video",
+            "duration": "00:08:01"
+        },
+        {
+            "title": "The Perfect Fitness Challenge  Perfect Days of Sweat Pt 1 Cardio Workout",
+            "link": "https://www.mindluster.com/lesson/269580-video",
+            "duration": "00:17:03"
+        },
+        {
+            "title": "Ultimate Pilates 14 Day Challenge Define Your Abs Core FREE schedule",
+            "link": "https://www.mindluster.com/lesson/269581-video",
+            "duration": "00:14:30"
+        },
+        {
+            "title": "Fit Body Challenge  Perfect Days of Sweat Pt 2 Fitness Workout",
+            "link": "https://www.mindluster.com/lesson/269582-video",
+            "duration": "00:16:02"
+        },
+        {
+            "title": "14 Day Leg Inner Thigh Challenge  This Workout s Results Do Jane Fonda Proud",
+            "link": "https://www.mindluster.com/lesson/269583-video",
+            "duration": "00:12:38"
+        },
+        {
+            "title": "25 Min Yin Yoga Class 7 Day Yin Yoga Exploration Challenge",
+            "link": "https://www.mindluster.com/lesson/269584-video",
+            "duration": "00:29:04"
+        },
+        {
+            "title": "Ultimate Workout Challenge  Abs Legs Butt",
+            "link": "https://www.mindluster.com/lesson/269585-video",
+            "duration": "00:14:46"
+        },
+        {
+            "title": "Brazilian Butt Lift Challenge  The Perfect Butt Workout",
+            "link": "https://www.mindluster.com/lesson/269586-video",
+            "duration": "00:14:48"
+        },
+        {
+            "title": "Yoga Workout Challenge 2020 2 Weeks To Incredible Results FREE Schedule",
+            "link": "https://www.mindluster.com/lesson/269587-video",
+            "duration": "00:18:23"
+        },
+        {
+            "title": "14 Day Booty Challenge For Glorious Results  Want To Tone Lift You Butt Let s Go",
+            "link": "https://www.mindluster.com/lesson/269588-video",
+            "duration": "00:13:21"
+        },
+        {
+            "title": "Yoga For Splits  Release Tight Hips Increase Leg Flexibility",
+            "link": "https://www.mindluster.com/lesson/269589-video",
+            "duration": "00:22:00"
+        },
+        {
+            "title": "15 MIN ABS YOGA WORKOUT Flat Stomach A Tighter Waistline \u27a4 7 DAY CHALLENGE",
+            "link": "https://www.mindluster.com/lesson/269590-video",
+            "duration": "00:18:39"
+        },
+        {
+            "title": "Yoga Workout HIIT Fusion 10 Day Challenge For AMAZING Total Body Results",
+            "link": "https://www.mindluster.com/lesson/269591-video",
+            "duration": "00:16:10"
+        },
+        {
+            "title": "10 Min Fat Burning Workout  One Week Cardio Challenge For Results",
+            "link": "https://www.mindluster.com/lesson/269592-video",
+            "duration": "00:12:10"
+        },
+        {
+            "title": "Pilates Workout Challenge  Best Ab Exercises For Results Joshua Tree",
+            "link": "https://www.mindluster.com/lesson/269593-video",
+            "duration": "00:20:34"
+        },
+        {
+            "title": "Pilates Butt Thigh Workout 10 Day Challenge For LOWER BODY RESULTS",
+            "link": "https://www.mindluster.com/lesson/269594-video",
+            "duration": "00:22:08"
+        },
+        {
+            "title": "30 MIN Full Body Workout Total Upper Body Summer Sculpt Tone",
+            "link": "https://www.mindluster.com/lesson/269595-video",
+            "duration": "00:39:20"
+        },
+        {
+            "title": "20 Min Arm Upper Body Workout For Definition Strength NO Equipment 14 Day Challenge",
+            "link": "https://www.mindluster.com/lesson/269596-video",
+            "duration": "00:21:52"
+        },
+        {
+            "title": "The 7 Day Blissful Body Bootcamp A FREE Fitness Program For Everyone",
+            "link": "https://www.mindluster.com/lesson/269597-video",
+            "duration": "00:00:50"
+        },
+        {
+            "title": "30 Min Yoga Workout For Results Full Body Tone Sculpt \u21d2 SUMMER WARRIOR",
+            "link": "https://www.mindluster.com/lesson/269598-video",
+            "duration": "00:32:11"
+        },
+        {
+            "title": "UNDENIABLE RESULTS \u21d2 In 15 Mins A Day For 7 Days The Blissful Body Bootcamp",
+            "link": "https://www.mindluster.com/lesson/269599-video",
+            "duration": "00:02:10"
+        },
+        {
+            "title": "QUICK EFFECTIVE 5 Min Arms Workout Upper Body Challenge For Amazing Results",
+            "link": "https://www.mindluster.com/lesson/269600-video",
+            "duration": "00:08:25"
+        },
+        {
+            "title": "30 Min Yoga Workout For RESULTS Toned Core Lower Body Definition Beautiful Flexibility",
+            "link": "https://www.mindluster.com/lesson/269601-video",
+            "duration": "00:34:42"
+        },
+        {
+            "title": "20 Min Yoga Workout For Weight Loss Full Body Toning Feel INCREDIBLE From The Inside Out",
+            "link": "https://www.mindluster.com/lesson/269602-video",
+            "duration": "00:22:11"
+        },
+        {
+            "title": "15 Min Yoga Workout Pilates Quick Full Body Tone Stretch Strengthen",
+            "link": "https://www.mindluster.com/lesson/269603-video",
+            "duration": "00:15:44"
+        },
+        {
+            "title": "15 Min Yoga Workout Tone Strength Stretch Your FULL BODY To Feel Phenomenal",
+            "link": "https://www.mindluster.com/lesson/269604-video",
+            "duration": "00:18:38"
+        },
+        {
+            "title": "20 Min Full Body Yoga Strengthen Stretch Blissfully Reboot Your Entire Mind Body",
+            "link": "https://www.mindluster.com/lesson/269605-video",
+            "duration": "00:24:31"
+        },
+        {
+            "title": "Pilates Booty Legs 15 MIN Workout To Sculpt Tone Your Glutes Beautifully",
+            "link": "https://www.mindluster.com/lesson/269606-video",
+            "duration": "00:18:53"
+        }
+    ]
+}

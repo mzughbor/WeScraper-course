@@ -1,0 +1,151 @@
+{
+    "source_data": {
+        "course_name": "Real numbers",
+        "category": "Mathematics",
+        "lesson_count": "11",
+        "description": "Real numbers are the numbers which include both rational and irrational numbers. Rational numbers such as integers (-2, 0, 1), fractions(1/2, 2.5) and irrational numbers such as \u221a3, \u03c0(22/7), etc., are all real numbers.What's a real number in math? Real number, in mathematics, a quantity that can be expressed as an infinite decimal expansion. ... The real numbers include the positive and negative integers and fractions (or rational numbers) and also the irrational numbers.Is 0 a real number? Real numbers can be positive or negative, and include the number zero. They are called real numbers because they are not imaginary, which is a different system of numbers. Imaginary numbers are numbers that cannot be quantified, like the square root of -1.",
+        "lessons": [
+            {
+                "title": "Class 10th Real numbers Introduction",
+                "link": "https://www.mindluster.com/lesson/10738-video",
+                "duration": "00:04:15"
+            },
+            {
+                "title": "Class 10th Euclid s Division Lemma",
+                "link": "https://www.mindluster.com/lesson/10739-video",
+                "duration": "00:06:45"
+            },
+            {
+                "title": "Class 10th The Fundamental Theorem of arithmetic",
+                "link": "https://www.mindluster.com/lesson/10740-video",
+                "duration": "00:05:12"
+            },
+            {
+                "title": "Class 10th Real Numbers problem 1",
+                "link": "https://www.mindluster.com/lesson/10741-video",
+                "duration": "00:04:33"
+            },
+            {
+                "title": "Class 10th Real Numbers Problem 2",
+                "link": "https://www.mindluster.com/lesson/10742-video",
+                "duration": "00:05:34"
+            },
+            {
+                "title": "Class 10th Revisiting the Irrational numbers",
+                "link": "https://www.mindluster.com/lesson/10743-video",
+                "duration": "00:11:17"
+            },
+            {
+                "title": "Class 10th Real Numbers Problem 3",
+                "link": "https://www.mindluster.com/lesson/10744-video",
+                "duration": "00:04:11"
+            },
+            {
+                "title": "Tutorix Simply Easy Learning Steps",
+                "link": "https://www.mindluster.com/lesson/10745-video",
+                "duration": "00:00:15"
+            },
+            {
+                "title": "Tutorix Brings Simply Easy Learning",
+                "link": "https://www.mindluster.com/lesson/10746-video",
+                "duration": "00:00:16"
+            },
+            {
+                "title": "Tutorix Brings Simply Easy Learning",
+                "link": "https://www.mindluster.com/lesson/10747-video",
+                "duration": "00:00:16"
+            },
+            {
+                "title": "Tutorix Brings Simply Easy Learning",
+                "link": "https://www.mindluster.com/lesson/10748-video",
+                "duration": "00:00:16"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/10738-video",
+        "thumbnail": "https://img.youtube.com/vi/elO9FdD8Qxc/hqdefault.jpg",
+        "thumbnail_id": 24160
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Real numbers are the numbers which include both rational and irrational numbers. Rational numbers such as integers (-2, 0, 1), fractions(1/2, 2.5) and irrational numbers such as \u221a3, \u03c0(22/7), etc., are all real numbers.What's a real number in math? Real number, in mathematics, a quantity that can be expressed as an infinite decimal expansion. ... The real numbers include the positive and negative integers and fractions (or rational numbers) and also the irrational numbers.Is 0 a real number? Real numbers can be positive or negative, and include the number zero. They are called real numbers because they are not imaginary, which is a different system of numbers. Imaginary numbers are numbers that cannot be quantified, like the square root of -1.",
+        "post_title": "Real numbers",
+        "post_excerpt": "Real numbers are the numbers which include both rational and irrational numbers. Rational numbers such as integers (-2, 0, 1), fractions(1/2, 2.5) and irra...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Class 10th Real numbers Introduction\nLearn Class 10th Euclid s Division Lemma\nLearn Class 10th The Fundamental Theorem of arithmetic\nLearn Class 10th Real Numbers problem 1\nLearn Class 10th Real Numbers Problem 2\nLearn Class 10th Revisiting the Irrational numbers\nLearn Class 10th Real Numbers Problem 3\nLearn Tutorix Simply Easy Learning Steps\nLearn Tutorix Brings Simply Easy Learning\nLearn Tutorix Brings Simply Easy Learning\nLearn Tutorix Brings Simply Easy Learning",
+            "course_target_audience": "Students interested in Mathematics",
+            "course_duration": {
+                "hours": 0,
+                "minutes": 42
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            143
+        ],
+        "thumbnail_id": 24160,
+        "video": null
+    },
+    "course_id": 24161,
+    "topic_id": 24162,
+    "lessons": [
+        {
+            "title": "Class 10th Real numbers Introduction",
+            "link": "https://www.mindluster.com/lesson/10738-video",
+            "duration": "00:04:15"
+        },
+        {
+            "title": "Class 10th Euclid s Division Lemma",
+            "link": "https://www.mindluster.com/lesson/10739-video",
+            "duration": "00:06:45"
+        },
+        {
+            "title": "Class 10th The Fundamental Theorem of arithmetic",
+            "link": "https://www.mindluster.com/lesson/10740-video",
+            "duration": "00:05:12"
+        },
+        {
+            "title": "Class 10th Real Numbers problem 1",
+            "link": "https://www.mindluster.com/lesson/10741-video",
+            "duration": "00:04:33"
+        },
+        {
+            "title": "Class 10th Real Numbers Problem 2",
+            "link": "https://www.mindluster.com/lesson/10742-video",
+            "duration": "00:05:34"
+        },
+        {
+            "title": "Class 10th Revisiting the Irrational numbers",
+            "link": "https://www.mindluster.com/lesson/10743-video",
+            "duration": "00:11:17"
+        },
+        {
+            "title": "Class 10th Real Numbers Problem 3",
+            "link": "https://www.mindluster.com/lesson/10744-video",
+            "duration": "00:04:11"
+        },
+        {
+            "title": "Tutorix Simply Easy Learning Steps",
+            "link": "https://www.mindluster.com/lesson/10745-video",
+            "duration": "00:00:15"
+        },
+        {
+            "title": "Tutorix Brings Simply Easy Learning",
+            "link": "https://www.mindluster.com/lesson/10746-video",
+            "duration": "00:00:16"
+        },
+        {
+            "title": "Tutorix Brings Simply Easy Learning",
+            "link": "https://www.mindluster.com/lesson/10747-video",
+            "duration": "00:00:16"
+        },
+        {
+            "title": "Tutorix Brings Simply Easy Learning",
+            "link": "https://www.mindluster.com/lesson/10748-video",
+            "duration": "00:00:16"
+        }
+    ]
+}

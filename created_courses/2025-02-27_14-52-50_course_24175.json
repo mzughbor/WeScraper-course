@@ -1,0 +1,181 @@
+{
+    "source_data": {
+        "course_name": "Statistics",
+        "category": "Mathematics",
+        "lesson_count": "14",
+        "description": "What are examples of statistics? A statistic is a number that represents a property of the sample. For example, if we consider one math class to be a sample of the population of all math classes, then the average number of points earned by students in that one math class at the end of the term is an example of a statistic.Statistics is a branch of applied mathematics that involves the collection, description, analysis, and inference of conclusions from quantitative data. ... Some common statistical tools and procedures include the following: Descriptive. Mean (average) Variance.What is statistics in simple words? 1 : a branch of mathematics dealing with the collection, analysis, interpretation, and presentation of masses of numerical data. 2 : a collection of quantitative data.",
+        "lessons": [
+            {
+                "title": "Class 10th Statistics Hindi",
+                "link": "https://www.mindluster.com/lesson/10749-video",
+                "duration": "00:03:22"
+            },
+            {
+                "title": "Class 10th Mean of Grouped Data Hindi",
+                "link": "https://www.mindluster.com/lesson/10750-video",
+                "duration": "00:06:37"
+            },
+            {
+                "title": "Class 10th Mean of Grouped Data Direct Method",
+                "link": "https://www.mindluster.com/lesson/10751-video",
+                "duration": "00:08:20"
+            },
+            {
+                "title": "Class 10th Mean of Grouped Data Assumed mean Method",
+                "link": "https://www.mindluster.com/lesson/10752-video",
+                "duration": "00:08:01"
+            },
+            {
+                "title": "Class 10th Mean of Grouped Data Step deviation method",
+                "link": "https://www.mindluster.com/lesson/10753-video",
+                "duration": "00:07:17"
+            },
+            {
+                "title": "Class 10th Median of grouped data",
+                "link": "https://www.mindluster.com/lesson/10754-video",
+                "duration": "00:14:04"
+            },
+            {
+                "title": "Class 10th Mode of grouped data",
+                "link": "https://www.mindluster.com/lesson/10755-video",
+                "duration": "00:05:48"
+            },
+            {
+                "title": "Class 10th Example 1 of Statistics",
+                "link": "https://www.mindluster.com/lesson/10756-video",
+                "duration": "00:06:27"
+            },
+            {
+                "title": "Class 10th Example 2 of Statistics",
+                "link": "https://www.mindluster.com/lesson/10757-video",
+                "duration": "00:03:34"
+            },
+            {
+                "title": "Class 10th Example 3 of Statistics",
+                "link": "https://www.mindluster.com/lesson/10758-video",
+                "duration": "00:05:40"
+            },
+            {
+                "title": "Class 10th Example 4 of Statistics",
+                "link": "https://www.mindluster.com/lesson/10759-video",
+                "duration": "00:05:33"
+            },
+            {
+                "title": "Class 10th Example 5 of Statistics",
+                "link": "https://www.mindluster.com/lesson/10760-video",
+                "duration": "00:08:05"
+            },
+            {
+                "title": "Tutorix Simply Easy Learning Steps",
+                "link": "https://www.mindluster.com/lesson/10761-video",
+                "duration": "00:00:15"
+            },
+            {
+                "title": "Tutorix Brings Simply Easy Learning",
+                "link": "https://www.mindluster.com/lesson/10762-video",
+                "duration": "00:00:16"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/10749-video",
+        "thumbnail": "https://img.youtube.com/vi/9HHF3tCvLVA/hqdefault.jpg",
+        "thumbnail_id": 24174
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "What are examples of statistics? A statistic is a number that represents a property of the sample. For example, if we consider one math class to be a sample of the population of all math classes, then the average number of points earned by students in that one math class at the end of the term is an example of a statistic.Statistics is a branch of applied mathematics that involves the collection, description, analysis, and inference of conclusions from quantitative data. ... Some common statistical tools and procedures include the following: Descriptive. Mean (average) Variance.What is statistics in simple words? 1 : a branch of mathematics dealing with the collection, analysis, interpretation, and presentation of masses of numerical data. 2 : a collection of quantitative data.",
+        "post_title": "Statistics",
+        "post_excerpt": "What are examples of statistics? A statistic is a number that represents a property of the sample. For example, if we consider one math class to be a sampl...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Class 10th Statistics Hindi\nLearn Class 10th Mean of Grouped Data Hindi\nLearn Class 10th Mean of Grouped Data Direct Method\nLearn Class 10th Mean of Grouped Data Assumed mean Method\nLearn Class 10th Mean of Grouped Data Step deviation method\nLearn Class 10th Median of grouped data\nLearn Class 10th Mode of grouped data\nLearn Class 10th Example 1 of Statistics\nLearn Class 10th Example 2 of Statistics\nLearn Class 10th Example 3 of Statistics\nLearn Class 10th Example 4 of Statistics\nLearn Class 10th Example 5 of Statistics\nLearn Tutorix Simply Easy Learning Steps\nLearn Tutorix Brings Simply Easy Learning",
+            "course_target_audience": "Students interested in Mathematics",
+            "course_duration": {
+                "hours": 1,
+                "minutes": 23
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            143
+        ],
+        "thumbnail_id": 24174,
+        "video": null
+    },
+    "course_id": 24175,
+    "topic_id": 24176,
+    "lessons": [
+        {
+            "title": "Class 10th Statistics Hindi",
+            "link": "https://www.mindluster.com/lesson/10749-video",
+            "duration": "00:03:22"
+        },
+        {
+            "title": "Class 10th Mean of Grouped Data Hindi",
+            "link": "https://www.mindluster.com/lesson/10750-video",
+            "duration": "00:06:37"
+        },
+        {
+            "title": "Class 10th Mean of Grouped Data Direct Method",
+            "link": "https://www.mindluster.com/lesson/10751-video",
+            "duration": "00:08:20"
+        },
+        {
+            "title": "Class 10th Mean of Grouped Data Assumed mean Method",
+            "link": "https://www.mindluster.com/lesson/10752-video",
+            "duration": "00:08:01"
+        },
+        {
+            "title": "Class 10th Mean of Grouped Data Step deviation method",
+            "link": "https://www.mindluster.com/lesson/10753-video",
+            "duration": "00:07:17"
+        },
+        {
+            "title": "Class 10th Median of grouped data",
+            "link": "https://www.mindluster.com/lesson/10754-video",
+            "duration": "00:14:04"
+        },
+        {
+            "title": "Class 10th Mode of grouped data",
+            "link": "https://www.mindluster.com/lesson/10755-video",
+            "duration": "00:05:48"
+        },
+        {
+            "title": "Class 10th Example 1 of Statistics",
+            "link": "https://www.mindluster.com/lesson/10756-video",
+            "duration": "00:06:27"
+        },
+        {
+            "title": "Class 10th Example 2 of Statistics",
+            "link": "https://www.mindluster.com/lesson/10757-video",
+            "duration": "00:03:34"
+        },
+        {
+            "title": "Class 10th Example 3 of Statistics",
+            "link": "https://www.mindluster.com/lesson/10758-video",
+            "duration": "00:05:40"
+        },
+        {
+            "title": "Class 10th Example 4 of Statistics",
+            "link": "https://www.mindluster.com/lesson/10759-video",
+            "duration": "00:05:33"
+        },
+        {
+            "title": "Class 10th Example 5 of Statistics",
+            "link": "https://www.mindluster.com/lesson/10760-video",
+            "duration": "00:08:05"
+        },
+        {
+            "title": "Tutorix Simply Easy Learning Steps",
+            "link": "https://www.mindluster.com/lesson/10761-video",
+            "duration": "00:00:15"
+        },
+        {
+            "title": "Tutorix Brings Simply Easy Learning",
+            "link": "https://www.mindluster.com/lesson/10762-video",
+            "duration": "00:00:16"
+        }
+    ]
+}

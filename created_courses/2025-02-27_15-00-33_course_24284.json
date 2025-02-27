@@ -1,0 +1,241 @@
+{
+    "source_data": {
+        "course_name": "TypeScript Generics Techniques",
+        "category": "Web-Design",
+        "lesson_count": "20",
+        "description": "TypeScript Generics course, in this course a powerful feature for writing flexible and reusable code. In this course, we will delve into TypeScript Generics, understanding their syntax, and exploring how they can be applied to create adaptable functions, classes, and interfaces. From basic concepts to advanced techniques, you'll learn how to leverage TypeScript Generics to write type-safe and efficient code, improving the maintainability and scalability of your TypeScript projects.",
+        "lessons": [
+            {
+                "title": "How To Build Your First TypeScript Project TODO List Application",
+                "link": "https://www.mindluster.com/lesson/228219-video",
+                "duration": "00:28:30"
+            },
+            {
+                "title": "Can I Create This Typing Animation Using TypeScript",
+                "link": "https://www.mindluster.com/lesson/228220-video",
+                "duration": "00:27:18"
+            },
+            {
+                "title": "How To Create An Advanced Shopping Cart With React and TypeScript",
+                "link": "https://www.mindluster.com/lesson/228221-video",
+                "duration": "01:01:38"
+            },
+            {
+                "title": "This Is The Perfect Project For Your React TypeScript Resume",
+                "link": "https://www.mindluster.com/lesson/228222-video",
+                "duration": "00:46:11"
+            },
+            {
+                "title": "Multistep Form Custom Hook With React And TypeScript",
+                "link": "https://www.mindluster.com/lesson/228223-video",
+                "duration": "00:28:23"
+            },
+            {
+                "title": "This Is A Great Beginner React TypeScript Project",
+                "link": "https://www.mindluster.com/lesson/228224-video",
+                "duration": "00:44:25"
+            },
+            {
+                "title": "The Perfect Advanced React TypeScript Project Markdown Supported Note Taking With Categories",
+                "link": "https://www.mindluster.com/lesson/228225-video",
+                "duration": "01:14:09"
+            },
+            {
+                "title": "Zod Makes TypeScript Even Better",
+                "link": "https://www.mindluster.com/lesson/228226-video",
+                "duration": "00:07:14"
+            },
+            {
+                "title": "Learn Zod In 30 Minutes",
+                "link": "https://www.mindluster.com/lesson/228227-video",
+                "duration": "00:31:03"
+            },
+            {
+                "title": "What Is TanStack Router And Why I Love It",
+                "link": "https://www.mindluster.com/lesson/228228-video",
+                "duration": "00:09:38"
+            },
+            {
+                "title": "How To Build A Chat App With React And Stream",
+                "link": "https://www.mindluster.com/lesson/228229-video",
+                "duration": "01:34:03"
+            },
+            {
+                "title": "Is tRPC The End Of REST GraphQL",
+                "link": "https://www.mindluster.com/lesson/228230-video",
+                "duration": "00:13:48"
+            },
+            {
+                "title": "Is Learning TypeScript A Waste Of Time",
+                "link": "https://www.mindluster.com/lesson/228231-video",
+                "duration": "00:08:33"
+            },
+            {
+                "title": "TypeScript Makes You A Faster Developer",
+                "link": "https://www.mindluster.com/lesson/228232-video",
+                "duration": "00:09:14"
+            },
+            {
+                "title": "Did He Really Fix TypeScript",
+                "link": "https://www.mindluster.com/lesson/228233-video",
+                "duration": "00:07:50"
+            },
+            {
+                "title": "How To Create The YouTube Home Page With Tailwind React and TypeScript",
+                "link": "https://www.mindluster.com/lesson/228234-video",
+                "duration": "01:49:08"
+            },
+            {
+                "title": "This Is One Of My Favorite TypeScript Features",
+                "link": "https://www.mindluster.com/lesson/228235-video",
+                "duration": "00:05:22"
+            },
+            {
+                "title": "I Cannot Believe TypeScript Recommends You Do This",
+                "link": "https://www.mindluster.com/lesson/228236-video",
+                "duration": "00:07:45"
+            },
+            {
+                "title": "Type Predicates Solve This Common TypeScript Error",
+                "link": "https://www.mindluster.com/lesson/228237-video",
+                "duration": "00:05:01"
+            },
+            {
+                "title": "Learn TypeScript Generics In 13 Minutes",
+                "link": "https://www.mindluster.com/lesson/228238-video",
+                "duration": "00:12:52"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/228219-video",
+        "thumbnail": "https://img.youtube.com/vi/jBmrduvKl5w/hqdefault.jpg",
+        "thumbnail_id": 24283
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "TypeScript Generics course, in this course a powerful feature for writing flexible and reusable code. In this course, we will delve into TypeScript Generics, understanding their syntax, and exploring how they can be applied to create adaptable functions, classes, and interfaces. From basic concepts to advanced techniques, you'll learn how to leverage TypeScript Generics to write type-safe and efficient code, improving the maintainability and scalability of your TypeScript projects.",
+        "post_title": "TypeScript Generics Techniques",
+        "post_excerpt": "TypeScript Generics course, in this course a powerful feature for writing flexible and reusable code. In this course, we will delve into TypeScript Generic...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn How To Build Your First TypeScript Project TODO List Application\nLearn Can I Create This Typing Animation Using TypeScript\nLearn How To Create An Advanced Shopping Cart With React and TypeScript\nLearn This Is The Perfect Project For Your React TypeScript Resume\nLearn Multistep Form Custom Hook With React And TypeScript\nLearn This Is A Great Beginner React TypeScript Project\nLearn The Perfect Advanced React TypeScript Project Markdown Supported Note Taking With Categories\nLearn Zod Makes TypeScript Even Better\nLearn Learn Zod In 30 Minutes\nLearn What Is TanStack Router And Why I Love It\nLearn How To Build A Chat App With React And Stream\nLearn Is tRPC The End Of REST GraphQL\nLearn Is Learning TypeScript A Waste Of Time\nLearn TypeScript Makes You A Faster Developer\nLearn Did He Really Fix TypeScript\nLearn How To Create The YouTube Home Page With Tailwind React and TypeScript\nLearn This Is One Of My Favorite TypeScript Features\nLearn I Cannot Believe TypeScript Recommends You Do This\nLearn Type Predicates Solve This Common TypeScript Error\nLearn Learn TypeScript Generics In 13 Minutes",
+            "course_target_audience": "Students interested in Web-Design",
+            "course_duration": {
+                "hours": 10,
+                "minutes": 32
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            144
+        ],
+        "thumbnail_id": 24283,
+        "video": null
+    },
+    "course_id": 24284,
+    "topic_id": 24285,
+    "lessons": [
+        {
+            "title": "How To Build Your First TypeScript Project TODO List Application",
+            "link": "https://www.mindluster.com/lesson/228219-video",
+            "duration": "00:28:30"
+        },
+        {
+            "title": "Can I Create This Typing Animation Using TypeScript",
+            "link": "https://www.mindluster.com/lesson/228220-video",
+            "duration": "00:27:18"
+        },
+        {
+            "title": "How To Create An Advanced Shopping Cart With React and TypeScript",
+            "link": "https://www.mindluster.com/lesson/228221-video",
+            "duration": "01:01:38"
+        },
+        {
+            "title": "This Is The Perfect Project For Your React TypeScript Resume",
+            "link": "https://www.mindluster.com/lesson/228222-video",
+            "duration": "00:46:11"
+        },
+        {
+            "title": "Multistep Form Custom Hook With React And TypeScript",
+            "link": "https://www.mindluster.com/lesson/228223-video",
+            "duration": "00:28:23"
+        },
+        {
+            "title": "This Is A Great Beginner React TypeScript Project",
+            "link": "https://www.mindluster.com/lesson/228224-video",
+            "duration": "00:44:25"
+        },
+        {
+            "title": "The Perfect Advanced React TypeScript Project Markdown Supported Note Taking With Categories",
+            "link": "https://www.mindluster.com/lesson/228225-video",
+            "duration": "01:14:09"
+        },
+        {
+            "title": "Zod Makes TypeScript Even Better",
+            "link": "https://www.mindluster.com/lesson/228226-video",
+            "duration": "00:07:14"
+        },
+        {
+            "title": "Learn Zod In 30 Minutes",
+            "link": "https://www.mindluster.com/lesson/228227-video",
+            "duration": "00:31:03"
+        },
+        {
+            "title": "What Is TanStack Router And Why I Love It",
+            "link": "https://www.mindluster.com/lesson/228228-video",
+            "duration": "00:09:38"
+        },
+        {
+            "title": "How To Build A Chat App With React And Stream",
+            "link": "https://www.mindluster.com/lesson/228229-video",
+            "duration": "01:34:03"
+        },
+        {
+            "title": "Is tRPC The End Of REST GraphQL",
+            "link": "https://www.mindluster.com/lesson/228230-video",
+            "duration": "00:13:48"
+        },
+        {
+            "title": "Is Learning TypeScript A Waste Of Time",
+            "link": "https://www.mindluster.com/lesson/228231-video",
+            "duration": "00:08:33"
+        },
+        {
+            "title": "TypeScript Makes You A Faster Developer",
+            "link": "https://www.mindluster.com/lesson/228232-video",
+            "duration": "00:09:14"
+        },
+        {
+            "title": "Did He Really Fix TypeScript",
+            "link": "https://www.mindluster.com/lesson/228233-video",
+            "duration": "00:07:50"
+        },
+        {
+            "title": "How To Create The YouTube Home Page With Tailwind React and TypeScript",
+            "link": "https://www.mindluster.com/lesson/228234-video",
+            "duration": "01:49:08"
+        },
+        {
+            "title": "This Is One Of My Favorite TypeScript Features",
+            "link": "https://www.mindluster.com/lesson/228235-video",
+            "duration": "00:05:22"
+        },
+        {
+            "title": "I Cannot Believe TypeScript Recommends You Do This",
+            "link": "https://www.mindluster.com/lesson/228236-video",
+            "duration": "00:07:45"
+        },
+        {
+            "title": "Type Predicates Solve This Common TypeScript Error",
+            "link": "https://www.mindluster.com/lesson/228237-video",
+            "duration": "00:05:01"
+        },
+        {
+            "title": "Learn TypeScript Generics In 13 Minutes",
+            "link": "https://www.mindluster.com/lesson/228238-video",
+            "duration": "00:12:52"
+        }
+    ]
+}

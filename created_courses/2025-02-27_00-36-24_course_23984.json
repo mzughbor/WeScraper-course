@@ -1,0 +1,151 @@
+{
+    "source_data": {
+        "course_name": "Data visualization tools for beginners",
+        "category": "Computer-Science",
+        "lesson_count": "11",
+        "description": "Data visualization tools, in this course you'll explore the most powerful tools for transforming raw data into meaningful insights. Learn to create stunning charts, graphs, and dashboards using Tableau, Power BI, Matplotlib, Seaborn, and Excel. Understand how to choose the right visualization for different datasets, optimize dashboards for better storytelling, and enhance interactivity with real-world data. Discover best practices in data design, color theory, and user engagement. By the end of this course, you'll be able to analyze trends, build compelling visual reports, and present data effectively across various platforms to drive better decision-making. Great Learning",
+        "lessons": [
+            {
+                "title": "Visualize data like a pro Learn Tableau Tableau for beginners",
+                "link": "https://www.mindluster.com/lesson/395998-video",
+                "duration": "00:34:59"
+            },
+            {
+                "title": "Data Visualization Tutorial Tableau PowerBI Matplotlib Seaborn Great Learning",
+                "link": "https://www.mindluster.com/lesson/395999-video",
+                "duration": "04:25:20"
+            },
+            {
+                "title": "Tableau Tutorial Tableau Full Course Learn Tableau In 6 Hours Great Learning",
+                "link": "https://www.mindluster.com/lesson/396000-video",
+                "duration": "05:23:57"
+            },
+            {
+                "title": "Tableau For Beginners in Hindi Tableau Training for Beginners Tableau Tutorial Great Learning",
+                "link": "https://www.mindluster.com/lesson/396001-video",
+                "duration": "01:20:32"
+            },
+            {
+                "title": "Power BI Tutorial for Beginners Power BI Tutorial Visualization with Power BI Great Learning",
+                "link": "https://www.mindluster.com/lesson/396002-video",
+                "duration": "01:32:16"
+            },
+            {
+                "title": "Introduction To Power BI In Hindi What Is Power BI Business Intelligence Great Learning",
+                "link": "https://www.mindluster.com/lesson/396003-video",
+                "duration": "00:57:29"
+            },
+            {
+                "title": "Tableau vs Power BI Best BI Tool PowerBi Tableau Difference Great Learning",
+                "link": "https://www.mindluster.com/lesson/396004-video",
+                "duration": "00:35:24"
+            },
+            {
+                "title": "Business Intelligence Tools for Beginners Best Business Intelligence Tools in 2021 Great Learning",
+                "link": "https://www.mindluster.com/lesson/396005-video",
+                "duration": "01:53:28"
+            },
+            {
+                "title": "Python for Data Visualization in Hindi Data Visualization Python Tutorial Great Learning",
+                "link": "https://www.mindluster.com/lesson/396006-video",
+                "duration": "01:36:50"
+            },
+            {
+                "title": "Matplotlib Python Tutorial Matplotlib Tutorial Python Tutorial Great Learning",
+                "link": "https://www.mindluster.com/lesson/396007-video",
+                "duration": "00:48:37"
+            },
+            {
+                "title": "Seaborn Python Tutorial Data Visualization Using Python in Seaborn Great Learning",
+                "link": "https://www.mindluster.com/lesson/396008-video",
+                "duration": "00:40:57"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/395998-video",
+        "thumbnail": "https://img.youtube.com/vi/ImzfjE44IK8/hqdefault.jpg",
+        "thumbnail_id": 23983
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Data visualization tools, in this course you'll explore the most powerful tools for transforming raw data into meaningful insights. Learn to create stunning charts, graphs, and dashboards using Tableau, Power BI, Matplotlib, Seaborn, and Excel. Understand how to choose the right visualization for different datasets, optimize dashboards for better storytelling, and enhance interactivity with real-world data. Discover best practices in data design, color theory, and user engagement. By the end of this course, you'll be able to analyze trends, build compelling visual reports, and present data effectively across various platforms to drive better decision-making. Great Learning",
+        "post_title": "Data visualization tools for beginners",
+        "post_excerpt": "Data visualization tools, in this course you'll explore the most powerful tools for transforming raw data into meaningful insights. Learn to create stunnin...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Visualize data like a pro Learn Tableau Tableau for beginners\nLearn Data Visualization Tutorial Tableau PowerBI Matplotlib Seaborn Great Learning\nLearn Tableau Tutorial Tableau Full Course Learn Tableau In 6 Hours Great Learning\nLearn Tableau For Beginners in Hindi Tableau Training for Beginners Tableau Tutorial Great Learning\nLearn Power BI Tutorial for Beginners Power BI Tutorial Visualization with Power BI Great Learning\nLearn Introduction To Power BI In Hindi What Is Power BI Business Intelligence Great Learning\nLearn Tableau vs Power BI Best BI Tool PowerBi Tableau Difference Great Learning\nLearn Business Intelligence Tools for Beginners Best Business Intelligence Tools in 2021 Great Learning\nLearn Python for Data Visualization in Hindi Data Visualization Python Tutorial Great Learning\nLearn Matplotlib Python Tutorial Matplotlib Tutorial Python Tutorial Great Learning\nLearn Seaborn Python Tutorial Data Visualization Using Python in Seaborn Great Learning",
+            "course_target_audience": "Students interested in Computer-Science",
+            "course_duration": {
+                "hours": 19,
+                "minutes": 49
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            139
+        ],
+        "thumbnail_id": 23983,
+        "video": null
+    },
+    "course_id": 23984,
+    "topic_id": 23985,
+    "lessons": [
+        {
+            "title": "Visualize data like a pro Learn Tableau Tableau for beginners",
+            "link": "https://www.mindluster.com/lesson/395998-video",
+            "duration": "00:34:59"
+        },
+        {
+            "title": "Data Visualization Tutorial Tableau PowerBI Matplotlib Seaborn Great Learning",
+            "link": "https://www.mindluster.com/lesson/395999-video",
+            "duration": "04:25:20"
+        },
+        {
+            "title": "Tableau Tutorial Tableau Full Course Learn Tableau In 6 Hours Great Learning",
+            "link": "https://www.mindluster.com/lesson/396000-video",
+            "duration": "05:23:57"
+        },
+        {
+            "title": "Tableau For Beginners in Hindi Tableau Training for Beginners Tableau Tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396001-video",
+            "duration": "01:20:32"
+        },
+        {
+            "title": "Power BI Tutorial for Beginners Power BI Tutorial Visualization with Power BI Great Learning",
+            "link": "https://www.mindluster.com/lesson/396002-video",
+            "duration": "01:32:16"
+        },
+        {
+            "title": "Introduction To Power BI In Hindi What Is Power BI Business Intelligence Great Learning",
+            "link": "https://www.mindluster.com/lesson/396003-video",
+            "duration": "00:57:29"
+        },
+        {
+            "title": "Tableau vs Power BI Best BI Tool PowerBi Tableau Difference Great Learning",
+            "link": "https://www.mindluster.com/lesson/396004-video",
+            "duration": "00:35:24"
+        },
+        {
+            "title": "Business Intelligence Tools for Beginners Best Business Intelligence Tools in 2021 Great Learning",
+            "link": "https://www.mindluster.com/lesson/396005-video",
+            "duration": "01:53:28"
+        },
+        {
+            "title": "Python for Data Visualization in Hindi Data Visualization Python Tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396006-video",
+            "duration": "01:36:50"
+        },
+        {
+            "title": "Matplotlib Python Tutorial Matplotlib Tutorial Python Tutorial Great Learning",
+            "link": "https://www.mindluster.com/lesson/396007-video",
+            "duration": "00:48:37"
+        },
+        {
+            "title": "Seaborn Python Tutorial Data Visualization Using Python in Seaborn Great Learning",
+            "link": "https://www.mindluster.com/lesson/396008-video",
+            "duration": "00:40:57"
+        }
+    ]
+}

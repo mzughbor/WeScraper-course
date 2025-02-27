@@ -1,0 +1,91 @@
+{
+    "source_data": {
+        "course_name": "Interface Segregation Principle",
+        "category": "Web-Design",
+        "lesson_count": "5",
+        "description": "Interface Segregation Principle course, in this course we will learn about the Interface Segregation Principle (ISP) as a crucial aspect of SOLID design principles. ISP emphasizes the importance of breaking down interfaces into smaller, specialized ones, reducing unnecessary dependencies and complexity. Through practical examples and discussions, you'll understand how applying ISP leads to more modular, maintainable software designs, fostering better scalability and flexibility in your codebases.",
+        "lessons": [
+            {
+                "title": "Single Responsibility Principle Explained SOLID Design Principles",
+                "link": "https://www.mindluster.com/lesson/228409-video",
+                "duration": "00:06:17"
+            },
+            {
+                "title": "Open Closed Principle Explained SOLID Design Principles",
+                "link": "https://www.mindluster.com/lesson/228410-video",
+                "duration": "00:10:22"
+            },
+            {
+                "title": "Liskov Substitution Principle Explained SOLID Design Principles",
+                "link": "https://www.mindluster.com/lesson/228411-video",
+                "duration": "00:10:24"
+            },
+            {
+                "title": "Interface Segregation Principle Explained SOLID Design Principles",
+                "link": "https://www.mindluster.com/lesson/228412-video",
+                "duration": "00:08:20"
+            },
+            {
+                "title": "Dependency Inversion Principle Explained SOLID Design Principles",
+                "link": "https://www.mindluster.com/lesson/228413-video",
+                "duration": "00:13:00"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/228409-video",
+        "thumbnail": "https://img.youtube.com/vi/UQqY3_6Epbg/hqdefault.jpg",
+        "thumbnail_id": 24275
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Interface Segregation Principle course, in this course we will learn about the Interface Segregation Principle (ISP) as a crucial aspect of SOLID design principles. ISP emphasizes the importance of breaking down interfaces into smaller, specialized ones, reducing unnecessary dependencies and complexity. Through practical examples and discussions, you'll understand how applying ISP leads to more modular, maintainable software designs, fostering better scalability and flexibility in your codebases.",
+        "post_title": "Interface Segregation Principle",
+        "post_excerpt": "Interface Segregation Principle course, in this course we will learn about the Interface Segregation Principle (ISP) as a crucial aspect of SOLID design pr...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Single Responsibility Principle Explained SOLID Design Principles\nLearn Open Closed Principle Explained SOLID Design Principles\nLearn Liskov Substitution Principle Explained SOLID Design Principles\nLearn Interface Segregation Principle Explained SOLID Design Principles\nLearn Dependency Inversion Principle Explained SOLID Design Principles",
+            "course_target_audience": "Students interested in Web-Design",
+            "course_duration": {
+                "hours": 0,
+                "minutes": 48
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            144
+        ],
+        "thumbnail_id": 24275,
+        "video": null
+    },
+    "course_id": 24276,
+    "topic_id": 24277,
+    "lessons": [
+        {
+            "title": "Single Responsibility Principle Explained SOLID Design Principles",
+            "link": "https://www.mindluster.com/lesson/228409-video",
+            "duration": "00:06:17"
+        },
+        {
+            "title": "Open Closed Principle Explained SOLID Design Principles",
+            "link": "https://www.mindluster.com/lesson/228410-video",
+            "duration": "00:10:22"
+        },
+        {
+            "title": "Liskov Substitution Principle Explained SOLID Design Principles",
+            "link": "https://www.mindluster.com/lesson/228411-video",
+            "duration": "00:10:24"
+        },
+        {
+            "title": "Interface Segregation Principle Explained SOLID Design Principles",
+            "link": "https://www.mindluster.com/lesson/228412-video",
+            "duration": "00:08:20"
+        },
+        {
+            "title": "Dependency Inversion Principle Explained SOLID Design Principles",
+            "link": "https://www.mindluster.com/lesson/228413-video",
+            "duration": "00:13:00"
+        }
+    ]
+}

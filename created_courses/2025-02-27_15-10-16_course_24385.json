@@ -1,0 +1,441 @@
+{
+    "source_data": {
+        "course_name": "Languages of Russia",
+        "category": "Languages",
+        "lesson_count": "40",
+        "description": "Languages of Russia Course: Embark on a captivating exploration of the diverse linguistic landscape of Russia. Discover Russian, the official language, along with Tatar, Ukrainian, Bashkir, Chuvash, and more. Delve into grammar, vocabulary, and cultural nuances. Suitable for language enthusiasts and researchers, this course unveils the richness and complexity of languages spoken in Russia. Gain insights into the fascinating histories, regional variations, and cultural significance of these languages. Enhance your communication skills and deepen your understanding of the multicultural fabric that shapes the linguistic tapestry of Russia. ILoveLanguages!",
+        "lessons": [
+            {
+                "title": "The Sound of the Forest Enets language Numbers Sample Text",
+                "link": "https://www.mindluster.com/lesson/300448-video",
+                "duration": "00:05:19"
+            },
+            {
+                "title": "The Sound of the Khanty language Numbers The Parable",
+                "link": "https://www.mindluster.com/lesson/300449-video",
+                "duration": "00:03:42"
+            },
+            {
+                "title": "The Sound of the Lezgian language Numbers Phrases Sample Text",
+                "link": "https://www.mindluster.com/lesson/300450-video",
+                "duration": "00:04:02"
+            },
+            {
+                "title": "The Sound of the Georgian language Numbers Greetings Sample Text",
+                "link": "https://www.mindluster.com/lesson/300451-video",
+                "duration": "00:02:53"
+            },
+            {
+                "title": "The Sound of the Ingrian language Numbers Greetings Sample Texts",
+                "link": "https://www.mindluster.com/lesson/300452-video",
+                "duration": "00:03:29"
+            },
+            {
+                "title": "The Sound of the Hill Mari language Numbers Greetings Words Prayer",
+                "link": "https://www.mindluster.com/lesson/300453-video",
+                "duration": "00:02:29"
+            },
+            {
+                "title": "The Sound of the Vepsian languages Numbers Words Sample Text Prayer",
+                "link": "https://www.mindluster.com/lesson/300454-video",
+                "duration": "00:02:19"
+            },
+            {
+                "title": "The Sound of the Kalmyk Oirat language Numbers Sample Text The Parable",
+                "link": "https://www.mindluster.com/lesson/300455-video",
+                "duration": "00:06:19"
+            },
+            {
+                "title": "The Sound of the Evenki language Numbers Greetings The Parable",
+                "link": "https://www.mindluster.com/lesson/300456-video",
+                "duration": "00:04:24"
+            },
+            {
+                "title": "NANAI OROK UDHR",
+                "link": "https://www.mindluster.com/lesson/300457-video",
+                "duration": "00:02:33"
+            },
+            {
+                "title": "CHUKOTKO KAMCHATKAN LANGUAGES",
+                "link": "https://www.mindluster.com/lesson/300458-video",
+                "duration": "00:02:50"
+            },
+            {
+                "title": "YAKUT PEOPLE CULTURE LANGUAGE",
+                "link": "https://www.mindluster.com/lesson/300459-video",
+                "duration": "00:07:55"
+            },
+            {
+                "title": "22 REPUBLICS OF RUSSIA LANGUAGES PART 1",
+                "link": "https://www.mindluster.com/lesson/300460-video",
+                "duration": "00:15:51"
+            },
+            {
+                "title": "SOUTHERN TUNGUSIC NANAI OROK",
+                "link": "https://www.mindluster.com/lesson/300461-video",
+                "duration": "00:03:49"
+            },
+            {
+                "title": "NIVKH LANGUAGE PEOPLE",
+                "link": "https://www.mindluster.com/lesson/300462-video",
+                "duration": "00:04:12"
+            },
+            {
+                "title": "KET LANGUAGE PEOPLE CULTURE",
+                "link": "https://www.mindluster.com/lesson/300463-video",
+                "duration": "00:04:55"
+            },
+            {
+                "title": "PERMIC KOMI UDMURT",
+                "link": "https://www.mindluster.com/lesson/300464-video",
+                "duration": "00:01:26"
+            },
+            {
+                "title": "ARCHI LANGUAGE",
+                "link": "https://www.mindluster.com/lesson/300465-video",
+                "duration": "00:06:05"
+            },
+            {
+                "title": "TUNDRA YUKAGHIR LANGUAGE PEOPLE",
+                "link": "https://www.mindluster.com/lesson/300466-video",
+                "duration": "00:06:40"
+            },
+            {
+                "title": "SELKUP LANGUAGE PEOPLE CULTURE",
+                "link": "https://www.mindluster.com/lesson/300467-video",
+                "duration": "00:05:03"
+            },
+            {
+                "title": "ENETS LANGUAGE PEOPLE CULTURE",
+                "link": "https://www.mindluster.com/lesson/300468-video",
+                "duration": "00:07:53"
+            },
+            {
+                "title": "UDEGE LANGUAGE PEOPLE CULTURE",
+                "link": "https://www.mindluster.com/lesson/300469-video",
+                "duration": "00:05:38"
+            },
+            {
+                "title": "PROTO SAMOYEDIC PROTO YUKAGHIR",
+                "link": "https://www.mindluster.com/lesson/300470-video",
+                "duration": "00:01:17"
+            },
+            {
+                "title": "PROTO URALIC PROTO YUKAGHIR",
+                "link": "https://www.mindluster.com/lesson/300471-video",
+                "duration": "00:01:19"
+            },
+            {
+                "title": "LATGALIAN LANGUAGE",
+                "link": "https://www.mindluster.com/lesson/300472-video",
+                "duration": "00:08:27"
+            },
+            {
+                "title": "TUNGUSIC NANAI EVENKI",
+                "link": "https://www.mindluster.com/lesson/300473-video",
+                "duration": "00:02:31"
+            },
+            {
+                "title": "TURKIC YAKUT TUVAN",
+                "link": "https://www.mindluster.com/lesson/300474-video",
+                "duration": "00:00:54"
+            },
+            {
+                "title": "TURKIC CHUVASH YAKUT",
+                "link": "https://www.mindluster.com/lesson/300475-video",
+                "duration": "00:00:57"
+            },
+            {
+                "title": "TURKIC CHUVASH TUVAN",
+                "link": "https://www.mindluster.com/lesson/300476-video",
+                "duration": "00:00:55"
+            },
+            {
+                "title": "URALIC KOMI ERZYA",
+                "link": "https://www.mindluster.com/lesson/300477-video",
+                "duration": "00:01:29"
+            },
+            {
+                "title": "URALIC UDMURT ERZYA",
+                "link": "https://www.mindluster.com/lesson/300478-video",
+                "duration": "00:01:33"
+            },
+            {
+                "title": "URALIC HILL MARI ERZYA",
+                "link": "https://www.mindluster.com/lesson/300479-video",
+                "duration": "00:01:33"
+            },
+            {
+                "title": "ERZYA LANGUAGE",
+                "link": "https://www.mindluster.com/lesson/300480-video",
+                "duration": "00:03:29"
+            },
+            {
+                "title": "TURKIC CHUVASH ALTAI",
+                "link": "https://www.mindluster.com/lesson/300481-video",
+                "duration": "00:00:51"
+            },
+            {
+                "title": "URALIC UDMURT MOKSHA",
+                "link": "https://www.mindluster.com/lesson/300482-video",
+                "duration": "00:01:25"
+            },
+            {
+                "title": "URALIC KOMI MOKSHA",
+                "link": "https://www.mindluster.com/lesson/300483-video",
+                "duration": "00:01:23"
+            },
+            {
+                "title": "TURKIC TUVAN ALTAI",
+                "link": "https://www.mindluster.com/lesson/300484-video",
+                "duration": "00:00:47"
+            },
+            {
+                "title": "TURKIC YAKUT DOLGAN",
+                "link": "https://www.mindluster.com/lesson/300485-video",
+                "duration": "00:02:04"
+            },
+            {
+                "title": "ROMANCE MOZARABIC ANDALUSI ROMANCE ARAGONESE",
+                "link": "https://www.mindluster.com/lesson/300486-video",
+                "duration": "00:01:20"
+            },
+            {
+                "title": "URALIC MEADOW MARI HILL MARI",
+                "link": "https://www.mindluster.com/lesson/300487-video",
+                "duration": "00:01:58"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/300448-video",
+        "thumbnail": "https://img.youtube.com/vi/JqMHswAJ-00/hqdefault.jpg",
+        "thumbnail_id": 24384
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Languages of Russia Course: Embark on a captivating exploration of the diverse linguistic landscape of Russia. Discover Russian, the official language, along with Tatar, Ukrainian, Bashkir, Chuvash, and more. Delve into grammar, vocabulary, and cultural nuances. Suitable for language enthusiasts and researchers, this course unveils the richness and complexity of languages spoken in Russia. Gain insights into the fascinating histories, regional variations, and cultural significance of these languages. Enhance your communication skills and deepen your understanding of the multicultural fabric that shapes the linguistic tapestry of Russia. ILoveLanguages!",
+        "post_title": "Languages of Russia",
+        "post_excerpt": "Languages of Russia Course: Embark on a captivating exploration of the diverse linguistic landscape of Russia. Discover Russian, the official language, alo...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn The Sound of the Forest Enets language Numbers Sample Text\nLearn The Sound of the Khanty language Numbers The Parable\nLearn The Sound of the Lezgian language Numbers Phrases Sample Text\nLearn The Sound of the Georgian language Numbers Greetings Sample Text\nLearn The Sound of the Ingrian language Numbers Greetings Sample Texts\nLearn The Sound of the Hill Mari language Numbers Greetings Words Prayer\nLearn The Sound of the Vepsian languages Numbers Words Sample Text Prayer\nLearn The Sound of the Kalmyk Oirat language Numbers Sample Text The Parable\nLearn The Sound of the Evenki language Numbers Greetings The Parable\nLearn NANAI OROK UDHR\nLearn CHUKOTKO KAMCHATKAN LANGUAGES\nLearn YAKUT PEOPLE CULTURE LANGUAGE\nLearn 22 REPUBLICS OF RUSSIA LANGUAGES PART 1\nLearn SOUTHERN TUNGUSIC NANAI OROK\nLearn NIVKH LANGUAGE PEOPLE\nLearn KET LANGUAGE PEOPLE CULTURE\nLearn PERMIC KOMI UDMURT\nLearn ARCHI LANGUAGE\nLearn TUNDRA YUKAGHIR LANGUAGE PEOPLE\nLearn SELKUP LANGUAGE PEOPLE CULTURE\nLearn ENETS LANGUAGE PEOPLE CULTURE\nLearn UDEGE LANGUAGE PEOPLE CULTURE\nLearn PROTO SAMOYEDIC PROTO YUKAGHIR\nLearn PROTO URALIC PROTO YUKAGHIR\nLearn LATGALIAN LANGUAGE\nLearn TUNGUSIC NANAI EVENKI\nLearn TURKIC YAKUT TUVAN\nLearn TURKIC CHUVASH YAKUT\nLearn TURKIC CHUVASH TUVAN\nLearn URALIC KOMI ERZYA\nLearn URALIC UDMURT ERZYA\nLearn URALIC HILL MARI ERZYA\nLearn ERZYA LANGUAGE\nLearn TURKIC CHUVASH ALTAI\nLearn URALIC UDMURT MOKSHA\nLearn URALIC KOMI MOKSHA\nLearn TURKIC TUVAN ALTAI\nLearn TURKIC YAKUT DOLGAN\nLearn ROMANCE MOZARABIC ANDALUSI ROMANCE ARAGONESE\nLearn URALIC MEADOW MARI HILL MARI",
+            "course_target_audience": "Students interested in Languages",
+            "course_duration": {
+                "hours": 2,
+                "minutes": 23
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            128
+        ],
+        "thumbnail_id": 24384,
+        "video": null
+    },
+    "course_id": 24385,
+    "topic_id": 24386,
+    "lessons": [
+        {
+            "title": "The Sound of the Forest Enets language Numbers Sample Text",
+            "link": "https://www.mindluster.com/lesson/300448-video",
+            "duration": "00:05:19"
+        },
+        {
+            "title": "The Sound of the Khanty language Numbers The Parable",
+            "link": "https://www.mindluster.com/lesson/300449-video",
+            "duration": "00:03:42"
+        },
+        {
+            "title": "The Sound of the Lezgian language Numbers Phrases Sample Text",
+            "link": "https://www.mindluster.com/lesson/300450-video",
+            "duration": "00:04:02"
+        },
+        {
+            "title": "The Sound of the Georgian language Numbers Greetings Sample Text",
+            "link": "https://www.mindluster.com/lesson/300451-video",
+            "duration": "00:02:53"
+        },
+        {
+            "title": "The Sound of the Ingrian language Numbers Greetings Sample Texts",
+            "link": "https://www.mindluster.com/lesson/300452-video",
+            "duration": "00:03:29"
+        },
+        {
+            "title": "The Sound of the Hill Mari language Numbers Greetings Words Prayer",
+            "link": "https://www.mindluster.com/lesson/300453-video",
+            "duration": "00:02:29"
+        },
+        {
+            "title": "The Sound of the Vepsian languages Numbers Words Sample Text Prayer",
+            "link": "https://www.mindluster.com/lesson/300454-video",
+            "duration": "00:02:19"
+        },
+        {
+            "title": "The Sound of the Kalmyk Oirat language Numbers Sample Text The Parable",
+            "link": "https://www.mindluster.com/lesson/300455-video",
+            "duration": "00:06:19"
+        },
+        {
+            "title": "The Sound of the Evenki language Numbers Greetings The Parable",
+            "link": "https://www.mindluster.com/lesson/300456-video",
+            "duration": "00:04:24"
+        },
+        {
+            "title": "NANAI OROK UDHR",
+            "link": "https://www.mindluster.com/lesson/300457-video",
+            "duration": "00:02:33"
+        },
+        {
+            "title": "CHUKOTKO KAMCHATKAN LANGUAGES",
+            "link": "https://www.mindluster.com/lesson/300458-video",
+            "duration": "00:02:50"
+        },
+        {
+            "title": "YAKUT PEOPLE CULTURE LANGUAGE",
+            "link": "https://www.mindluster.com/lesson/300459-video",
+            "duration": "00:07:55"
+        },
+        {
+            "title": "22 REPUBLICS OF RUSSIA LANGUAGES PART 1",
+            "link": "https://www.mindluster.com/lesson/300460-video",
+            "duration": "00:15:51"
+        },
+        {
+            "title": "SOUTHERN TUNGUSIC NANAI OROK",
+            "link": "https://www.mindluster.com/lesson/300461-video",
+            "duration": "00:03:49"
+        },
+        {
+            "title": "NIVKH LANGUAGE PEOPLE",
+            "link": "https://www.mindluster.com/lesson/300462-video",
+            "duration": "00:04:12"
+        },
+        {
+            "title": "KET LANGUAGE PEOPLE CULTURE",
+            "link": "https://www.mindluster.com/lesson/300463-video",
+            "duration": "00:04:55"
+        },
+        {
+            "title": "PERMIC KOMI UDMURT",
+            "link": "https://www.mindluster.com/lesson/300464-video",
+            "duration": "00:01:26"
+        },
+        {
+            "title": "ARCHI LANGUAGE",
+            "link": "https://www.mindluster.com/lesson/300465-video",
+            "duration": "00:06:05"
+        },
+        {
+            "title": "TUNDRA YUKAGHIR LANGUAGE PEOPLE",
+            "link": "https://www.mindluster.com/lesson/300466-video",
+            "duration": "00:06:40"
+        },
+        {
+            "title": "SELKUP LANGUAGE PEOPLE CULTURE",
+            "link": "https://www.mindluster.com/lesson/300467-video",
+            "duration": "00:05:03"
+        },
+        {
+            "title": "ENETS LANGUAGE PEOPLE CULTURE",
+            "link": "https://www.mindluster.com/lesson/300468-video",
+            "duration": "00:07:53"
+        },
+        {
+            "title": "UDEGE LANGUAGE PEOPLE CULTURE",
+            "link": "https://www.mindluster.com/lesson/300469-video",
+            "duration": "00:05:38"
+        },
+        {
+            "title": "PROTO SAMOYEDIC PROTO YUKAGHIR",
+            "link": "https://www.mindluster.com/lesson/300470-video",
+            "duration": "00:01:17"
+        },
+        {
+            "title": "PROTO URALIC PROTO YUKAGHIR",
+            "link": "https://www.mindluster.com/lesson/300471-video",
+            "duration": "00:01:19"
+        },
+        {
+            "title": "LATGALIAN LANGUAGE",
+            "link": "https://www.mindluster.com/lesson/300472-video",
+            "duration": "00:08:27"
+        },
+        {
+            "title": "TUNGUSIC NANAI EVENKI",
+            "link": "https://www.mindluster.com/lesson/300473-video",
+            "duration": "00:02:31"
+        },
+        {
+            "title": "TURKIC YAKUT TUVAN",
+            "link": "https://www.mindluster.com/lesson/300474-video",
+            "duration": "00:00:54"
+        },
+        {
+            "title": "TURKIC CHUVASH YAKUT",
+            "link": "https://www.mindluster.com/lesson/300475-video",
+            "duration": "00:00:57"
+        },
+        {
+            "title": "TURKIC CHUVASH TUVAN",
+            "link": "https://www.mindluster.com/lesson/300476-video",
+            "duration": "00:00:55"
+        },
+        {
+            "title": "URALIC KOMI ERZYA",
+            "link": "https://www.mindluster.com/lesson/300477-video",
+            "duration": "00:01:29"
+        },
+        {
+            "title": "URALIC UDMURT ERZYA",
+            "link": "https://www.mindluster.com/lesson/300478-video",
+            "duration": "00:01:33"
+        },
+        {
+            "title": "URALIC HILL MARI ERZYA",
+            "link": "https://www.mindluster.com/lesson/300479-video",
+            "duration": "00:01:33"
+        },
+        {
+            "title": "ERZYA LANGUAGE",
+            "link": "https://www.mindluster.com/lesson/300480-video",
+            "duration": "00:03:29"
+        },
+        {
+            "title": "TURKIC CHUVASH ALTAI",
+            "link": "https://www.mindluster.com/lesson/300481-video",
+            "duration": "00:00:51"
+        },
+        {
+            "title": "URALIC UDMURT MOKSHA",
+            "link": "https://www.mindluster.com/lesson/300482-video",
+            "duration": "00:01:25"
+        },
+        {
+            "title": "URALIC KOMI MOKSHA",
+            "link": "https://www.mindluster.com/lesson/300483-video",
+            "duration": "00:01:23"
+        },
+        {
+            "title": "TURKIC TUVAN ALTAI",
+            "link": "https://www.mindluster.com/lesson/300484-video",
+            "duration": "00:00:47"
+        },
+        {
+            "title": "TURKIC YAKUT DOLGAN",
+            "link": "https://www.mindluster.com/lesson/300485-video",
+            "duration": "00:02:04"
+        },
+        {
+            "title": "ROMANCE MOZARABIC ANDALUSI ROMANCE ARAGONESE",
+            "link": "https://www.mindluster.com/lesson/300486-video",
+            "duration": "00:01:20"
+        },
+        {
+            "title": "URALIC MEADOW MARI HILL MARI",
+            "link": "https://www.mindluster.com/lesson/300487-video",
+            "duration": "00:01:58"
+        }
+    ]
+}

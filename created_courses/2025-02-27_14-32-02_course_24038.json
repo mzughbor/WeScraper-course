@@ -1,0 +1,101 @@
+{
+    "source_data": {
+        "course_name": "The Stages of Filmmaking course",
+        "category": "woman-and-Beauty",
+        "lesson_count": "6",
+        "description": "The Stages of Filmmaking course: In this course, we will learn about the entire filmmaking process, from pre-production planning and scripting to production and post-production editing. The Stages of Filmmaking course covers it all. StudioBinder",
+        "lessons": [
+            {
+                "title": "A Guide to Funding Your Film \u2014 How Development Works in Film Stages of Filmmaking Ep 1",
+                "link": "https://www.mindluster.com/lesson/342542-video",
+                "duration": "00:29:27"
+            },
+            {
+                "title": "The Pre Production Process in Film Explained Stages of Filmmaking Ep 2",
+                "link": "https://www.mindluster.com/lesson/342543-video",
+                "duration": "00:28:49"
+            },
+            {
+                "title": "Film Production Explained \u2014 Each Step of the Production Process Stages of Filmmaking Ep 3",
+                "link": "https://www.mindluster.com/lesson/342544-video",
+                "duration": "00:25:31"
+            },
+            {
+                "title": "Post Production Explained \u2014 Each Step of the Post Production Process Stages of Filmmaking Ep 4",
+                "link": "https://www.mindluster.com/lesson/342545-video",
+                "duration": "00:21:47"
+            },
+            {
+                "title": "How to Sell Your Movie to an Audience \u2014 Film Marketing Strategies Stages of Filmmaking Ep 5",
+                "link": "https://www.mindluster.com/lesson/342546-video",
+                "duration": "00:22:00"
+            },
+            {
+                "title": "How Distribution in Film Works \u2014 Film Distributors Explained Stages of Filmmaking Ep 6",
+                "link": "https://www.mindluster.com/lesson/342547-video",
+                "duration": "00:23:06"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/342542-video",
+        "thumbnail": "https://img.youtube.com/vi/A0W0JLP7Eow/hqdefault.jpg",
+        "thumbnail_id": 24037
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "The Stages of Filmmaking course: In this course, we will learn about the entire filmmaking process, from pre-production planning and scripting to production and post-production editing. The Stages of Filmmaking course covers it all. StudioBinder",
+        "post_title": "The Stages of Filmmaking course",
+        "post_excerpt": "The Stages of Filmmaking course: In this course, we will learn about the entire filmmaking process, from pre-production planning and scripting to productio...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn A Guide to Funding Your Film \u2014 How Development Works in Film Stages of Filmmaking Ep 1\nLearn The Pre Production Process in Film Explained Stages of Filmmaking Ep 2\nLearn Film Production Explained \u2014 Each Step of the Production Process Stages of Filmmaking Ep 3\nLearn Post Production Explained \u2014 Each Step of the Post Production Process Stages of Filmmaking Ep 4\nLearn How to Sell Your Movie to an Audience \u2014 Film Marketing Strategies Stages of Filmmaking Ep 5\nLearn How Distribution in Film Works \u2014 Film Distributors Explained Stages of Filmmaking Ep 6",
+            "course_target_audience": "Students interested in woman-and-Beauty",
+            "course_duration": {
+                "hours": 2,
+                "minutes": 30
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            141
+        ],
+        "thumbnail_id": 24037,
+        "video": null
+    },
+    "course_id": 24038,
+    "topic_id": 24039,
+    "lessons": [
+        {
+            "title": "A Guide to Funding Your Film \u2014 How Development Works in Film Stages of Filmmaking Ep 1",
+            "link": "https://www.mindluster.com/lesson/342542-video",
+            "duration": "00:29:27"
+        },
+        {
+            "title": "The Pre Production Process in Film Explained Stages of Filmmaking Ep 2",
+            "link": "https://www.mindluster.com/lesson/342543-video",
+            "duration": "00:28:49"
+        },
+        {
+            "title": "Film Production Explained \u2014 Each Step of the Production Process Stages of Filmmaking Ep 3",
+            "link": "https://www.mindluster.com/lesson/342544-video",
+            "duration": "00:25:31"
+        },
+        {
+            "title": "Post Production Explained \u2014 Each Step of the Post Production Process Stages of Filmmaking Ep 4",
+            "link": "https://www.mindluster.com/lesson/342545-video",
+            "duration": "00:21:47"
+        },
+        {
+            "title": "How to Sell Your Movie to an Audience \u2014 Film Marketing Strategies Stages of Filmmaking Ep 5",
+            "link": "https://www.mindluster.com/lesson/342546-video",
+            "duration": "00:22:00"
+        },
+        {
+            "title": "How Distribution in Film Works \u2014 Film Distributors Explained Stages of Filmmaking Ep 6",
+            "link": "https://www.mindluster.com/lesson/342547-video",
+            "duration": "00:23:06"
+        }
+    ]
+}

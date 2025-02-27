@@ -1,66 +1,211 @@
 {
-    "course_name": "PyGame Python for beginners",
-    "category": "Computer-Science",
-    "lesson_count": "11",
-    "description": "PyGame Python, in this course we will learn about PyGame with Python, a powerful library for building 2D games and interactive applications. You'll start with the basics of game development, including setting up the game window, handling user input, and rendering graphics. The course covers key concepts like sprite animation, collision detection, event handling, and sound integration to create dynamic and engaging games. You'll also learn about game loops, physics, and optimizing performance for smooth gameplay. Through hands-on projects, you'll develop your own games step by step. Perfect for beginners and aspiring game developers looking to master PyGame and Python game development. Great Learning",
+    "course_name": "Languages of Russia",
+    "category": "Languages",
+    "lesson_count": "40",
+    "description": "Languages of Russia Course: Embark on a captivating exploration of the diverse linguistic landscape of Russia. Discover Russian, the official language, along with Tatar, Ukrainian, Bashkir, Chuvash, and more. Delve into grammar, vocabulary, and cultural nuances. Suitable for language enthusiasts and researchers, this course unveils the richness and complexity of languages spoken in Russia. Gain insights into the fascinating histories, regional variations, and cultural significance of these languages. Enhance your communication skills and deepen your understanding of the multicultural fabric that shapes the linguistic tapestry of Russia. ILoveLanguages!",
     "lessons": [
         {
-            "title": "Numpy Python Tutorial Python for beginners Python tutorial Great Learning",
-            "link": "https://www.mindluster.com/lesson/396036-video",
-            "duration": "00:37:31"
+            "title": "The Sound of the Forest Enets language Numbers Sample Text",
+            "link": "https://www.mindluster.com/lesson/300448-video",
+            "duration": "00:05:19"
         },
         {
-            "title": "Pandas Python tutorial Python Tutorial for Beginner Python Programming Great Learning",
-            "link": "https://www.mindluster.com/lesson/396037-video",
-            "duration": "00:25:25"
+            "title": "The Sound of the Khanty language Numbers The Parable",
+            "link": "https://www.mindluster.com/lesson/300449-video",
+            "duration": "00:03:42"
         },
         {
-            "title": "Python Pandas Tutorial Python Tutorial Data Analysis with Python Pandas Great Learning",
-            "link": "https://www.mindluster.com/lesson/396038-video",
-            "duration": "01:31:34"
+            "title": "The Sound of the Lezgian language Numbers Phrases Sample Text",
+            "link": "https://www.mindluster.com/lesson/300450-video",
+            "duration": "00:04:02"
         },
         {
-            "title": "NumPy Standard Deviation NumPy Statistical Functions Great Learning",
-            "link": "https://www.mindluster.com/lesson/396039-video",
-            "duration": "00:24:46"
+            "title": "The Sound of the Georgian language Numbers Greetings Sample Text",
+            "link": "https://www.mindluster.com/lesson/300451-video",
+            "duration": "00:02:53"
         },
         {
-            "title": "Pandas Query What is Pandas Python Tutorial Great Learning",
-            "link": "https://www.mindluster.com/lesson/396040-video",
-            "duration": "00:26:37"
+            "title": "The Sound of the Ingrian language Numbers Greetings Sample Texts",
+            "link": "https://www.mindluster.com/lesson/300452-video",
+            "duration": "00:03:29"
         },
         {
-            "title": "Matplotlib Python Tutorial Matplotlib Tutorial Python Tutorial Great Learning",
-            "link": "https://www.mindluster.com/lesson/396041-video",
-            "duration": "00:48:37"
+            "title": "The Sound of the Hill Mari language Numbers Greetings Words Prayer",
+            "link": "https://www.mindluster.com/lesson/300453-video",
+            "duration": "00:02:29"
         },
         {
-            "title": "Seaborn Python Tutorial Data Visualization Using Python in Seaborn Great Learning",
-            "link": "https://www.mindluster.com/lesson/396042-video",
-            "duration": "00:40:57"
+            "title": "The Sound of the Vepsian languages Numbers Words Sample Text Prayer",
+            "link": "https://www.mindluster.com/lesson/300454-video",
+            "duration": "00:02:19"
         },
         {
-            "title": "Scikit Learn Machine Learning With Scikit Learn SK learn Great Learning",
-            "link": "https://www.mindluster.com/lesson/396043-video",
-            "duration": "01:06:35"
+            "title": "The Sound of the Kalmyk Oirat language Numbers Sample Text The Parable",
+            "link": "https://www.mindluster.com/lesson/300455-video",
+            "duration": "00:06:19"
         },
         {
-            "title": "Scipy in Python Scientific Python Tutorial SciPy Python Tutorial for Beginners Great Learning",
-            "link": "https://www.mindluster.com/lesson/396044-video",
-            "duration": "00:54:06"
+            "title": "The Sound of the Evenki language Numbers Greetings The Parable",
+            "link": "https://www.mindluster.com/lesson/300456-video",
+            "duration": "00:04:24"
         },
         {
-            "title": "Python Tkinter Python GUI Programming Using Tkinter Tutorial Great Learning",
-            "link": "https://www.mindluster.com/lesson/396045-video",
-            "duration": "00:50:56"
+            "title": "NANAI OROK UDHR",
+            "link": "https://www.mindluster.com/lesson/300457-video",
+            "duration": "00:02:33"
         },
         {
-            "title": "Pygame Tutorial PyGame Python Tutorial For Beginners Great Learning",
-            "link": "https://www.mindluster.com/lesson/396046-video",
-            "duration": "01:05:01"
+            "title": "CHUKOTKO KAMCHATKAN LANGUAGES",
+            "link": "https://www.mindluster.com/lesson/300458-video",
+            "duration": "00:02:50"
+        },
+        {
+            "title": "YAKUT PEOPLE CULTURE LANGUAGE",
+            "link": "https://www.mindluster.com/lesson/300459-video",
+            "duration": "00:07:55"
+        },
+        {
+            "title": "22 REPUBLICS OF RUSSIA LANGUAGES PART 1",
+            "link": "https://www.mindluster.com/lesson/300460-video",
+            "duration": "00:15:51"
+        },
+        {
+            "title": "SOUTHERN TUNGUSIC NANAI OROK",
+            "link": "https://www.mindluster.com/lesson/300461-video",
+            "duration": "00:03:49"
+        },
+        {
+            "title": "NIVKH LANGUAGE PEOPLE",
+            "link": "https://www.mindluster.com/lesson/300462-video",
+            "duration": "00:04:12"
+        },
+        {
+            "title": "KET LANGUAGE PEOPLE CULTURE",
+            "link": "https://www.mindluster.com/lesson/300463-video",
+            "duration": "00:04:55"
+        },
+        {
+            "title": "PERMIC KOMI UDMURT",
+            "link": "https://www.mindluster.com/lesson/300464-video",
+            "duration": "00:01:26"
+        },
+        {
+            "title": "ARCHI LANGUAGE",
+            "link": "https://www.mindluster.com/lesson/300465-video",
+            "duration": "00:06:05"
+        },
+        {
+            "title": "TUNDRA YUKAGHIR LANGUAGE PEOPLE",
+            "link": "https://www.mindluster.com/lesson/300466-video",
+            "duration": "00:06:40"
+        },
+        {
+            "title": "SELKUP LANGUAGE PEOPLE CULTURE",
+            "link": "https://www.mindluster.com/lesson/300467-video",
+            "duration": "00:05:03"
+        },
+        {
+            "title": "ENETS LANGUAGE PEOPLE CULTURE",
+            "link": "https://www.mindluster.com/lesson/300468-video",
+            "duration": "00:07:53"
+        },
+        {
+            "title": "UDEGE LANGUAGE PEOPLE CULTURE",
+            "link": "https://www.mindluster.com/lesson/300469-video",
+            "duration": "00:05:38"
+        },
+        {
+            "title": "PROTO SAMOYEDIC PROTO YUKAGHIR",
+            "link": "https://www.mindluster.com/lesson/300470-video",
+            "duration": "00:01:17"
+        },
+        {
+            "title": "PROTO URALIC PROTO YUKAGHIR",
+            "link": "https://www.mindluster.com/lesson/300471-video",
+            "duration": "00:01:19"
+        },
+        {
+            "title": "LATGALIAN LANGUAGE",
+            "link": "https://www.mindluster.com/lesson/300472-video",
+            "duration": "00:08:27"
+        },
+        {
+            "title": "TUNGUSIC NANAI EVENKI",
+            "link": "https://www.mindluster.com/lesson/300473-video",
+            "duration": "00:02:31"
+        },
+        {
+            "title": "TURKIC YAKUT TUVAN",
+            "link": "https://www.mindluster.com/lesson/300474-video",
+            "duration": "00:00:54"
+        },
+        {
+            "title": "TURKIC CHUVASH YAKUT",
+            "link": "https://www.mindluster.com/lesson/300475-video",
+            "duration": "00:00:57"
+        },
+        {
+            "title": "TURKIC CHUVASH TUVAN",
+            "link": "https://www.mindluster.com/lesson/300476-video",
+            "duration": "00:00:55"
+        },
+        {
+            "title": "URALIC KOMI ERZYA",
+            "link": "https://www.mindluster.com/lesson/300477-video",
+            "duration": "00:01:29"
+        },
+        {
+            "title": "URALIC UDMURT ERZYA",
+            "link": "https://www.mindluster.com/lesson/300478-video",
+            "duration": "00:01:33"
+        },
+        {
+            "title": "URALIC HILL MARI ERZYA",
+            "link": "https://www.mindluster.com/lesson/300479-video",
+            "duration": "00:01:33"
+        },
+        {
+            "title": "ERZYA LANGUAGE",
+            "link": "https://www.mindluster.com/lesson/300480-video",
+            "duration": "00:03:29"
+        },
+        {
+            "title": "TURKIC CHUVASH ALTAI",
+            "link": "https://www.mindluster.com/lesson/300481-video",
+            "duration": "00:00:51"
+        },
+        {
+            "title": "URALIC UDMURT MOKSHA",
+            "link": "https://www.mindluster.com/lesson/300482-video",
+            "duration": "00:01:25"
+        },
+        {
+            "title": "URALIC KOMI MOKSHA",
+            "link": "https://www.mindluster.com/lesson/300483-video",
+            "duration": "00:01:23"
+        },
+        {
+            "title": "TURKIC TUVAN ALTAI",
+            "link": "https://www.mindluster.com/lesson/300484-video",
+            "duration": "00:00:47"
+        },
+        {
+            "title": "TURKIC YAKUT DOLGAN",
+            "link": "https://www.mindluster.com/lesson/300485-video",
+            "duration": "00:02:04"
+        },
+        {
+            "title": "ROMANCE MOZARABIC ANDALUSI ROMANCE ARAGONESE",
+            "link": "https://www.mindluster.com/lesson/300486-video",
+            "duration": "00:01:20"
+        },
+        {
+            "title": "URALIC MEADOW MARI HILL MARI",
+            "link": "https://www.mindluster.com/lesson/300487-video",
+            "duration": "00:01:58"
         }
     ],
-    "intro_video": "https://www.mindluster.com/lesson/396036-video",
-    "thumbnail": "https://img.youtube.com/vi/KXXU-01OVwQ/hqdefault.jpg",
-    "thumbnail_id": 23969
+    "intro_video": "https://www.mindluster.com/lesson/300448-video",
+    "thumbnail": "https://img.youtube.com/vi/JqMHswAJ-00/hqdefault.jpg",
+    "thumbnail_id": 24384
 }

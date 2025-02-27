@@ -1,0 +1,161 @@
+{
+    "source_data": {
+        "course_name": "Node js Passport Login System",
+        "category": "Web-Design",
+        "lesson_count": "12",
+        "description": "Node.js Passport Login course, in this course we will learn about the Node.js Passport Login system, a powerful tool for implementing user authentication in Node.js web applications. You'll explore the fundamentals of Passport.js, including its various authentication strategies such as Local, OAuth, and OpenID. Through hands-on exercises, you'll discover how to set up and configure Passport.js to authenticate users, store their information securely, and manage sessions effectively. By the end of the course, you'll have the skills to create a robust login system that enhances the security and usability of your Node.js web applications.",
+        "lessons": [
+            {
+                "title": "Your First Node js Web Server",
+                "link": "https://www.mindluster.com/lesson/228633-video",
+                "duration": "00:08:57"
+            },
+            {
+                "title": "How To Setup Payments With Node js And Stripe",
+                "link": "https://www.mindluster.com/lesson/228634-video",
+                "duration": "00:55:33"
+            },
+            {
+                "title": "Build a Weather App With JavaScript",
+                "link": "https://www.mindluster.com/lesson/228635-video",
+                "duration": "00:43:14"
+            },
+            {
+                "title": "Build A REST API With Node js Express MongoDB Quick",
+                "link": "https://www.mindluster.com/lesson/228636-video",
+                "duration": "00:28:56"
+            },
+            {
+                "title": "Build Node js User Authentication Password Login",
+                "link": "https://www.mindluster.com/lesson/228637-video",
+                "duration": "00:13:31"
+            },
+            {
+                "title": "Node js Passport Login System Tutorial",
+                "link": "https://www.mindluster.com/lesson/228638-video",
+                "duration": "00:36:28"
+            },
+            {
+                "title": "Create A Paginated API With Node js Complete Tutorial",
+                "link": "https://www.mindluster.com/lesson/228639-video",
+                "duration": "00:23:21"
+            },
+            {
+                "title": "How To Build A URL Shortener With Node js Express and MongoDB",
+                "link": "https://www.mindluster.com/lesson/228640-video",
+                "duration": "00:25:38"
+            },
+            {
+                "title": "How To Build A Markdown Blog Using Node js Express And MongoDB",
+                "link": "https://www.mindluster.com/lesson/228641-video",
+                "duration": "01:02:28"
+            },
+            {
+                "title": "How To Manage User Roles In Node js",
+                "link": "https://www.mindluster.com/lesson/228642-video",
+                "duration": "00:22:45"
+            },
+            {
+                "title": "Learn Express JS In 35 Minutes",
+                "link": "https://www.mindluster.com/lesson/228643-video",
+                "duration": "00:36:03"
+            },
+            {
+                "title": "How To Create A Hastebin Clone",
+                "link": "https://www.mindluster.com/lesson/228644-video",
+                "duration": "00:40:08"
+            }
+        ],
+        "intro_video": "https://www.mindluster.com/lesson/228633-video",
+        "thumbnail": "https://img.youtube.com/vi/VShtPwEkDD0/hqdefault.jpg",
+        "thumbnail_id": 24215
+    },
+    "course_data": {
+        "post_author": 1,
+        "post_content": "Node.js Passport Login course, in this course we will learn about the Node.js Passport Login system, a powerful tool for implementing user authentication in Node.js web applications. You'll explore the fundamentals of Passport.js, including its various authentication strategies such as Local, OAuth, and OpenID. Through hands-on exercises, you'll discover how to set up and configure Passport.js to authenticate users, store their information securely, and manage sessions effectively. By the end of the course, you'll have the skills to create a robust login system that enhances the security and usability of your Node.js web applications.",
+        "post_title": "Node js Passport Login System",
+        "post_excerpt": "Node.js Passport Login course, in this course we will learn about the Node.js Passport Login system, a powerful tool for implementing user authentication i...",
+        "post_status": "publish",
+        "comment_status": "open",
+        "additional_content": {
+            "course_benefits": "Learn Your First Node js Web Server\nLearn How To Setup Payments With Node js And Stripe\nLearn Build a Weather App With JavaScript\nLearn Build A REST API With Node js Express MongoDB Quick\nLearn Build Node js User Authentication Password Login\nLearn Node js Passport Login System Tutorial\nLearn Create A Paginated API With Node js Complete Tutorial\nLearn How To Build A URL Shortener With Node js Express and MongoDB\nLearn How To Build A Markdown Blog Using Node js Express And MongoDB\nLearn How To Manage User Roles In Node js\nLearn Learn Express JS In 35 Minutes\nLearn How To Create A Hastebin Clone",
+            "course_target_audience": "Students interested in Web-Design",
+            "course_duration": {
+                "hours": 6,
+                "minutes": 37
+            },
+            "course_material_includes": "Video lessons\nPractical examples\nLifetime access",
+            "course_requirements": "Basic computer knowledge"
+        },
+        "course_level": "beginner",
+        "course_categories": [
+            144
+        ],
+        "thumbnail_id": 24215,
+        "video": null
+    },
+    "course_id": 24216,
+    "topic_id": 24217,
+    "lessons": [
+        {
+            "title": "Your First Node js Web Server",
+            "link": "https://www.mindluster.com/lesson/228633-video",
+            "duration": "00:08:57"
+        },
+        {
+            "title": "How To Setup Payments With Node js And Stripe",
+            "link": "https://www.mindluster.com/lesson/228634-video",
+            "duration": "00:55:33"
+        },
+        {
+            "title": "Build a Weather App With JavaScript",
+            "link": "https://www.mindluster.com/lesson/228635-video",
+            "duration": "00:43:14"
+        },
+        {
+            "title": "Build A REST API With Node js Express MongoDB Quick",
+            "link": "https://www.mindluster.com/lesson/228636-video",
+            "duration": "00:28:56"
+        },
+        {
+            "title": "Build Node js User Authentication Password Login",
+            "link": "https://www.mindluster.com/lesson/228637-video",
+            "duration": "00:13:31"
+        },
+        {
+            "title": "Node js Passport Login System Tutorial",
+            "link": "https://www.mindluster.com/lesson/228638-video",
+            "duration": "00:36:28"
+        },
+        {
+            "title": "Create A Paginated API With Node js Complete Tutorial",
+            "link": "https://www.mindluster.com/lesson/228639-video",
+            "duration": "00:23:21"
+        },
+        {
+            "title": "How To Build A URL Shortener With Node js Express and MongoDB",
+            "link": "https://www.mindluster.com/lesson/228640-video",
+            "duration": "00:25:38"
+        },
+        {
+            "title": "How To Build A Markdown Blog Using Node js Express And MongoDB",
+            "link": "https://www.mindluster.com/lesson/228641-video",
+            "duration": "01:02:28"
+        },
+        {
+            "title": "How To Manage User Roles In Node js",
+            "link": "https://www.mindluster.com/lesson/228642-video",
+            "duration": "00:22:45"
+        },
+        {
+            "title": "Learn Express JS In 35 Minutes",
+            "link": "https://www.mindluster.com/lesson/228643-video",
+            "duration": "00:36:03"
+        },
+        {
+            "title": "How To Create A Hastebin Clone",
+            "link": "https://www.mindluster.com/lesson/228644-video",
+            "duration": "00:40:08"
+        }
+    ]
+}
